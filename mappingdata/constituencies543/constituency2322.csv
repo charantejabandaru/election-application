@@ -1,0 +1,13 @@
+party_id,cand_id,name,party_name
+IND,cand2701,ANIL,Independent
+IND,cand2859,ISHWARLAL VARSHI,Independent
+IND,cand3166,MAHESH PARMAR,Independent
+IND,cand3288,ISHWARLAL VARSHI,Independent
+INC,cand3292,MAHESH PARMAR,Indian National Congress
+IND,cand3306,ISHWARLAL VARSHI,Independent
+IND,cand3496,SURESH BAGARI,Independent
+BSP,cand4052,ADVOCATE PRAKASH CHOUHAN,Bahujan Samaj Party
+IND,cand4070,GANGA MALVIYA,Independent
+BJP,cand4304,ANIL FIROJIYA,Bharatiya Janata Party
+BS2,cand4529,DR. HEMANT PARMAR,Bhim Sena
+NOTA,cand9173,None of the Above,NOTA

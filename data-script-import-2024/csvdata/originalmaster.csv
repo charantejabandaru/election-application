@@ -1,0 +1,544 @@
+name,const_id,state,eci_id
+Andaman and Nicobar Islands,3501,Andaman and Nicobar Islands,U011
+Amalapuram,2824,Andhra Pradesh,S017
+Anakapalli,2822,Andhra Pradesh,S015
+Anantapur,2836,Andhra Pradesh,S0119
+Araku,2818,Andhra Pradesh,S011
+Bapatla,2832,Andhra Pradesh,S0115
+Chittoor,2842,Andhra Pradesh,S0125
+Eluru,2827,Andhra Pradesh,S0110
+Guntur,2830,Andhra Pradesh,S0113
+Hindupur,2837,Andhra Pradesh,S0120
+Kadapa,2838,Andhra Pradesh,S0121
+Kakinada,2823,Andhra Pradesh,S016
+Kurnool,2835,Andhra Pradesh,S0118
+Machilipatnam,2828,Andhra Pradesh,S0111
+Nandyal,2834,Andhra Pradesh,S0117
+Narasaraopet,2831,Andhra Pradesh,S019
+Narsapuram,2826,Andhra Pradesh,S0114
+Nellore,2839,Andhra Pradesh,S0122
+Ongole,2833,Andhra Pradesh,S0116
+Rajahmundry,2825,Andhra Pradesh,S018
+Rajampet,2841,Andhra Pradesh,S0124
+Srikakulam,2819,Andhra Pradesh,S012
+Tirupati,2840,Andhra Pradesh,S0123
+Vijayawada,2829,Andhra Pradesh,S0112
+Visakhapatnam,2821,Andhra Pradesh,S014
+Vizianagaram,2820,Andhra Pradesh,S013
+ARUNACHAL EAST,1202,Arunachal Pradesh,S022
+ARUNACHAL WEST,1201,Arunachal Pradesh,S021
+Barpeta,1806,Assam,S033
+Darrang - Udalguri,1808,Assam,S034
+Dhubri,1804,Assam,S032
+Dibrugarh,1813,Assam,S0313
+Diphu,1803,Assam,S036
+Guwahati,1807,Assam,S035
+Jorhat,1812,Assam,S0314
+Karimganj,1801,Assam,S037
+Kaziranga,1811,Assam,S0310
+Kokrajhar,1805,Assam,S031
+Lakhimpur,1814,Assam,S0312
+Nowgong,1810,Assam,S039
+Silchar,1802,Assam,S038
+Sonitpur,1809,Assam,S0311
+Araria,1009,Bihar,S049
+Arrah,1032,Bihar,S0432
+Aurangabad,1037,Bihar,S0437
+Banka,1027,Bihar,S0427
+Begusarai,1024,Bihar,S0424
+Bhagalpur,1026,Bihar,S0426
+Buxar,1033,Bihar,S0433
+Darbhanga,1014,Bihar,S0414
+Gaya,1038,Bihar,S0438
+Gopalganj,1017,Bihar,S0417
+Hajipur,1021,Bihar,S0421
+Jahanabad,1036,Bihar,S0436
+Jamui,1040,Bihar,S0440
+Jhanjharpur,1007,Bihar,S047
+Karakat,1035,Bihar,S0435
+Katihar,1011,Bihar,S0411
+Khagaria,1025,Bihar,S0425
+Kishanganj,1010,Bihar,S0410
+Madhepura,1013,Bihar,S0413
+Madhubani,1006,Bihar,S046
+Maharajganj,1019,Bihar,S0419
+Munger,1028,Bihar,S0428
+Muzaffarpur,1015,Bihar,S0415
+Nalanda,1029,Bihar,S0429
+Nawada,1039,Bihar,S0439
+Paschim Champaran,1002,Bihar,S042
+Pataliputra,1031,Bihar,S0431
+Patna Sahib,1030,Bihar,S0430
+Purnia,1012,Bihar,S0412
+Purvi Champaran,1003,Bihar,S043
+Samastipur,1023,Bihar,S0423
+Saran,1020,Bihar,S0420
+Sasaram,1034,Bihar,S0434
+Sheohar,1004,Bihar,S044
+Sitamarhi,1005,Bihar,S045
+Siwan,1018,Bihar,S0418
+Supaul,1008,Bihar,S048
+Ujiarpur,1022,Bihar,S0422
+Vaishali,1016,Bihar,S0416
+Valmiki Nagar,1001,Bihar,S041
+CHANDIGARH,401,Chandigarh,U021
+BASTAR,2210,Chhattisgarh,S2610
+BILASPUR,2205,Chhattisgarh,S265
+DURG,2207,Chhattisgarh,S267
+JANJGIR-CHAMPA,2203,Chhattisgarh,S263
+KANKER,2211,Chhattisgarh,S2611
+KORBA,2204,Chhattisgarh,S264
+MAHASAMUND,2209,Chhattisgarh,S269
+RAIGARH,2202,Chhattisgarh,S262
+RAIPUR,2208,Chhattisgarh,S268
+RAJNANDGAON,2206,Chhattisgarh,S266
+SURGUJA,2201,Chhattisgarh,S261
+Dadra And Nagar Haveli,2601,Dadra and Nagar Haveli,U032
+Daman and diu,2501,Dadra and Nagar Haveli,U031
+North Goa,3001,Goa,S051
+South Goa,3002,Goa,S052
+Ahmedabad East,2407,Gujarat,S067
+Ahmedabad West,2408,Gujarat,S068
+Amreli,2414,Gujarat,S0614
+Anand,2416,Gujarat,S0616
+Banaskantha,2402,Gujarat,S062
+Bardoli,2423,Gujarat,S0623
+Bharuch,2422,Gujarat,S0622
+Bhavnagar,2415,Gujarat,S0615
+Chhota Udaipur,2421,Gujarat,S0621
+Dahod,2419,Gujarat,S0619
+Gandhinagar,2406,Gujarat,S066
+Jamnagar,2412,Gujarat,S0612
+Junagadh,2413,Gujarat,S0613
+Kachchh,2401,Gujarat,S061
+Kheda,2417,Gujarat,S0617
+Mahesana,2404,Gujarat,S064
+Navsari,2425,Gujarat,S0625
+Panchmahal,2418,Gujarat,S0618
+Patan,2403,Gujarat,S063
+Porbandar,2411,Gujarat,S0611
+Rajkot,2410,Gujarat,S0610
+Sabarkantha,2405,Gujarat,S065
+Surat,2424,Gujarat,S0624
+Surendranagar,2409,Gujarat,S069
+Vadodara,2420,Gujarat,S0620
+Valsad,2426,Gujarat,S0626
+Ambala,601,Haryana,S071
+Bhiwani-Mahendragarh,608,Haryana,S078
+Faridabad,610,Haryana,S0710
+Gurgaon,609,Haryana,S079
+Hisar,604,Haryana,S074
+Karnal,605,Haryana,S075
+Kurukshetra,602,Haryana,S072
+Rohtak,607,Haryana,S077
+Sirsa,603,Haryana,S073
+Sonipat,606,Haryana,S076
+Hamirpur,203,Himachal Pradesh,S083
+Kangra,201,Himachal Pradesh,S081
+Mandi,202,Himachal Pradesh,S082
+Shimla,204,Himachal Pradesh,S084
+Anantnag,103,Jammu and Kashmir,U083
+Baramulla,101,Jammu and Kashmir,U081
+Jammu,106,Jammu and Kashmir,U085
+Srinagar,102,Jammu and Kashmir,U082
+Udhampur,105,Jammu and Kashmir,U084
+Chatra,2004,Jharkhand,S274
+Dhanbad,2007,Jharkhand,S277
+Dumka,2002,Jharkhand,S272
+Giridih,2006,Jharkhand,S276
+Godda,2003,Jharkhand,S273
+Hazaribagh,2014,Jharkhand,S2714
+Jamshedpur,2009,Jharkhand,S279
+Khunti,2011,Jharkhand,S2711
+Kodarma,2005,Jharkhand,S275
+Lohardaga,2012,Jharkhand,S2712
+Palamu,2013,Jharkhand,S2713
+Rajmahal,2001,Jharkhand,S271
+Ranchi,2008,Jharkhand,S278
+Singhbhum,2010,Jharkhand,S2710
+Bagalkot,2903,Karnataka,S103
+Bangalore central,2925,Karnataka,S1025
+Bangalore North,2924,Karnataka,S1024
+Bangalore Rural,2923,Karnataka,S1023
+Bangalore South,2926,Karnataka,S1026
+Belagavi,2902,Karnataka,S102
+Bellary,2909,Karnataka,S109
+Bidar,2907,Karnataka,S107
+Bijapur,2904,Karnataka,S104
+Chamarajanagar,2922,Karnataka,S1022
+Chikballapur,2927,Karnataka,S1027
+Chikodi,2901,Karnataka,S101
+Chitradurga,2918,Karnataka,S1018
+Dakshina Kannada,2917,Karnataka,S1017
+Davangere,2913,Karnataka,S1013
+Dharwad,2911,Karnataka,S1011
+Gulbarga,2905,Karnataka,S105
+Haasan,2916,Karnataka,S1016
+Haveri,2910,Karnataka,S1010
+Kolar,2928,Karnataka,S1028
+Koppal,2908,Karnataka,S108
+Mandya,2920,Karnataka,S1020
+Mysore,2921,Karnataka,S1021
+Raichur,2906,Karnataka,S106
+Shimoga,2914,Karnataka,S1014
+Tumkur,2919,Karnataka,S1019
+Udupi Chikmagalur,2915,Karnataka,S1015
+Uttara Kannada,2912,Karnataka,S1012
+Alappuzha,3215,Kerala,S1115
+Alathur,3209,Kerala,S119
+Attingal,3219,Kerala,S1119
+Chalakudy,3211,Kerala,S1111
+Ernakulam,3212,Kerala,S1112
+Idukki,3213,Kerala,S1113
+Kannur,3202,Kerala,S112
+Kasaragod,3201,Kerala,S111
+Kollam,3218,Kerala,S1118
+Kottayam,3214,Kerala,S1114
+Kozhikode,3205,Kerala,S115
+Malappuram,3206,Kerala,S116
+Mavelikara,3216,Kerala,S1116
+Palakkad,3208,Kerala,S118
+Pathanamthitta,3217,Kerala,S1117
+Ponnani,3207,Kerala,S117
+Thiruvananthapuram,3220,Kerala,S1120
+Thrissur,3210,Kerala,S1110
+Vadakara,3203,Kerala,S113
+Wayanad,3204,Kerala,S114
+Ladakh,104,Ladakh,U091
+Lakshadweep,3101,Lakshadweep,U061
+BALAGHAT,2315,Madhya Pradesh,S1215
+BETUL,2329,Madhya Pradesh,S1229
+BHIND,2302,Madhya Pradesh,S122
+BHOPAL,2319,Madhya Pradesh,S1219
+CHHINDWARA,2316,Madhya Pradesh,S1215
+DAMOH,2307,Madhya Pradesh,S127
+DEWAS,2321,Madhya Pradesh,S1221
+DHAR,2325,Madhya Pradesh,S1225
+GUNA,2304,Madhya Pradesh,S124
+GWALIOR,2303,Madhya Pradesh,S123
+HOSHANGABAD,2317,Madhya Pradesh,S1217
+INDORE,2326,Madhya Pradesh,S1226
+JABALPUR,2313,Madhya Pradesh,S1213
+KHAJURAHO,2308,Madhya Pradesh,S128
+KHANDWA,2328,Madhya Pradesh,S1228
+KHARGONE,2327,Madhya Pradesh,S1227
+MANDLA,2314,Madhya Pradesh,S1214
+MANDSOUR,2323,Madhya Pradesh,S1223
+MORENA,2301,Madhya Pradesh,S121
+RAJGARH,2320,Madhya Pradesh,S1220
+RATLAM,2324,Madhya Pradesh,S1224
+REWA,2310,Madhya Pradesh,S1210
+SAGAR,2305,Madhya Pradesh,S125
+SATNA,2309,Madhya Pradesh,S129
+SHAHDOL,2312,Madhya Pradesh,S1212
+SIDHI,2311,Madhya Pradesh,S1211
+TIKAMGARH,2306,Madhya Pradesh,S126
+UJJAIN,2322,Madhya Pradesh,S1222
+VIDISHA,2318,Madhya Pradesh,S1218
+Ahmednagar,2737,Maharashtra,S1337
+Akola,2706,Maharashtra,S136
+Amravati,2707,Maharashtra,S137
+Aurangabad,2719,Maharashtra,S1319
+Baramati,2735,Maharashtra,S1335
+Beed,2739,Maharashtra,S1339
+Bhandara Gondiya,2711,Maharashtra,S1311
+Bhiwandi,2723,Maharashtra,S1323
+Buldhana,2705,Maharashtra,S135
+Chandrapur,2713,Maharashtra,S1313
+Dhule,2702,Maharashtra,S132
+Dindori,2720,Maharashtra,S1320
+Gadchiroli-Chimur,2712,Maharashtra,S1312
+Hatkanangle,2748,Maharashtra,S1348
+Hingoli,2715,Maharashtra,S1315
+Jalgaon,2703,Maharashtra,S133
+Jalna,2718,Maharashtra,S1318
+Kalyan,2724,Maharashtra,S1324
+Kolhapur,2747,Maharashtra,S1347
+Latur,2741,Maharashtra,S1341
+Madha,2743,Maharashtra,S1343
+Maval,2733,Maharashtra,S1333
+Mumbai North,2726,Maharashtra,S1326
+Mumbai North central,2729,Maharashtra,S1329
+Mumbai North East,2728,Maharashtra,S1328
+Mumbai North West,2727,Maharashtra,S1327
+Mumbai South,2731,Maharashtra,S1331
+Mumbai South central,2730,Maharashtra,S1330
+Nagpur,2710,Maharashtra,S1310
+Nanded,2716,Maharashtra,S1316
+Nandurbar,2701,Maharashtra,S131
+Nashik,2721,Maharashtra,S1321
+Osmanabad,2740,Maharashtra,S1340
+Palghar,2722,Maharashtra,S1322
+Parbhani,2717,Maharashtra,S1317
+Pune,2734,Maharashtra,S1334
+Raigad,2732,Maharashtra,S1332
+Ramtek,2709,Maharashtra,S139
+Ratnagiri - Sindhudurg,2746,Maharashtra,S1346
+Raver,2704,Maharashtra,S134
+Sangli,2744,Maharashtra,S1344
+Satara,2745,Maharashtra,S1345
+Shirdi,2738,Maharashtra,S1338
+Shirur,2736,Maharashtra,S1336
+Solapur,2742,Maharashtra,S1342
+Thane,2725,Maharashtra,S1325
+Wardha,2708,Maharashtra,S138
+Yavatmal-Washim,2714,Maharashtra,S1314
+Inner manipur,1401,Manipur,S141
+Outer manipur,1402,Manipur,S142
+Shillong,1701,Meghalaya,S151
+Tura,1702,Meghalaya,S152
+MIZORAM,1501,Mizoram,S161
+Nagaland,1301,Nagaland,S171
+CHANDNI CHOWK,701,NCT OF Delhi,U051
+EAST DELHI,703,NCT OF Delhi,U053
+NEW DELHI,704,NCT OF Delhi,U054
+NORTH EAST DELHI,702,NCT OF Delhi,U052
+NORTH WEST DELHI,705,NCT OF Delhi,U055
+SOUTH DELHI,707,NCT OF Delhi,U057
+WEST DELHI,706,NCT OF Delhi,U056
+Aska,2119,Odisha,S1819
+Balasore,2106,Odisha,S186
+Bargarh,2101,Odisha,S181
+Berhampur,2120,Odisha,S1820
+Bhadrak,2107,Odisha,S187
+Bhubaneswar,2118,Odisha,S1818
+Bolangir,2110,Odisha,S1810
+Cuttack,2114,Odisha,S1814
+Dhenkanal,2109,Odisha,S189
+Jagatsinghpur,2116,Odisha,S1816
+Jajpur,2108,Odisha,S188
+Kalahandi,2111,Odisha,S1811
+Kandhamal,2113,Odisha,S1813
+Kendrapara,2115,Odisha,S1815
+Keonjhar,2104,Odisha,S184
+Koraput,2121,Odisha,S1821
+Mayurbhanj,2105,Odisha,S185
+Nabarangpur,2112,Odisha,S1812
+Puri,2117,Odisha,S1817
+Sambalpur,2103,Odisha,S183
+Sundargarh,2102,Odisha,S182
+Puducherry,3401,Puducherry,U071
+Amritsar,302,Punjab,S192
+Anandpur Sahib,306,Punjab,S196
+Bathinda,311,Punjab,S1911
+Faridkot,309,Punjab,S199
+Fatehgarh Sahib,308,Punjab,S198
+Firozpur,310,Punjab,S1910
+Gurdaspur,301,Punjab,S191
+Hoshiarpur,305,Punjab,S195
+Jalandhar,304,Punjab,S194
+Khadoor Sahib,303,Punjab,S193
+Ludhiana,307,Punjab,S197
+Patiala,313,Punjab,S1913
+Sangrur,312,Punjab,S1912
+Ajmer,813,Rajasthan,S2013
+Alwar,808,Rajasthan,S208
+Banswara,820,Rajasthan,S2020
+Barmer,817,Rajasthan,S2017
+BHARATPUR,809,Rajasthan,S209
+Bhilwara,823,Rajasthan,S2023
+Bikaner,802,Rajasthan,S202
+Chittorgarh,821,Rajasthan,S2021
+Churu,803,Rajasthan,S203
+Dausa,811,Rajasthan,S2011
+Ganganagar,801,Rajasthan,S201
+Jaipur,807,Rajasthan,S207
+Jaipur Rural,806,Rajasthan,S206
+Jalore,818,Rajasthan,S2018
+JHALAWAR-BARAN,825,Rajasthan,S2025
+Jhunjhunu,804,Rajasthan,S204
+Jodhpur,816,Rajasthan,S2016
+KARAULI-DHOLPUR,810,Rajasthan,S2010
+Kota,824,Rajasthan,S2024
+Nagaur,814,Rajasthan,S2014
+Pali,815,Rajasthan,S2015
+Rajsamand,822,Rajasthan,S2022
+Sikar,805,Rajasthan,S205
+TONK-SAWAI MADHOPUR,812,Rajasthan,S2012
+Udaipur,819,Rajasthan,S2019
+Sikkim,1101,Sikkim,S211
+Arakkonam,3307,Tamil Nadu,S227
+Arani,3312,Tamil Nadu,S2212
+Chennai central,3304,Tamil Nadu,S224
+Chennai North,3302,Tamil Nadu,S222
+Chennai South,3303,Tamil Nadu,S223
+Chidambaram,3327,Tamil Nadu,S2227
+Coimbatore,3320,Tamil Nadu,S2220
+Cuddalore,3326,Tamil Nadu,S2226
+Dharmapuri,3310,Tamil Nadu,S2210
+Dindigul,3322,Tamil Nadu,S2222
+Erode,3317,Tamil Nadu,S2217
+Kallakurichi,3314,Tamil Nadu,S2214
+Kancheepuram,3306,Tamil Nadu,S226
+Kanniyakumari,3339,Tamil Nadu,S2239
+Karur,3323,Tamil Nadu,S2223
+Krishnagiri,3309,Tamil Nadu,S229
+Madurai,3332,Tamil Nadu,S2232
+Mayiladuthurai,3328,Tamil Nadu,S2228
+Nagapattinam,3329,Tamil Nadu,S2229
+Namakkal,3316,Tamil Nadu,S2216
+Nilgiris,3319,Tamil Nadu,S2219
+Perambalur,3325,Tamil Nadu,S2225
+Pollachi,3321,Tamil Nadu,S2221
+Ramanathapuram,3335,Tamil Nadu,S2235
+Salem,3315,Tamil Nadu,S2215
+Sivaganga,3331,Tamil Nadu,S2231
+Sriperumbudur,3305,Tamil Nadu,S225
+Tenkasi,3337,Tamil Nadu,S2237
+Thanjavur,3330,Tamil Nadu,S2230
+Theni,3333,Tamil Nadu,S2233
+Thiruvallur,3301,Tamil Nadu,S221
+Thoothukudi,3336,Tamil Nadu,S2236
+Tiruchirappalli,3324,Tamil Nadu,S2224
+Tirunelveli,3338,Tamil Nadu,S2238
+Tiruppur,3318,Tamil Nadu,S2218
+Tiruvannamalai,3311,Tamil Nadu,S2211
+Vellore,3308,Tamil Nadu,S228
+Viluppuram,3313,Tamil Nadu,S2213
+Virudhunagar,3334,Tamil Nadu,S2234
+Adilabad,2801,Telangana,S291
+Bhongir,2814,Telangana,S2914
+CHEVELLA,2810,Telangana,S2910
+Hyderabad,2809,Telangana,S299
+Karimnagar,2803,Telangana,S293
+Khammam,2817,Telangana,S2917
+Mahabubabad,2816,Telangana,S2916
+Mahabubnagar,2811,Telangana,S2911
+Malkajgiri,2807,Telangana,S297
+Medak,2806,Telangana,S296
+Nagarkurnool,2812,Telangana,S2912
+Nalgonda,2813,Telangana,S2913
+Nizamabad,2804,Telangana,S294
+Peddapalle,2802,Telangana,S292
+Secunderabad,2808,Telangana,S298
+Warangal,2815,Telangana,S2915
+Zahirabad,2805,Telangana,S295
+Tripura East,1602,Tripura,S232
+Tripura West,1601,Tripura,S231
+Agra,918,Uttar Pradesh,S2418
+Akbarpur,944,Uttar Pradesh,S2444
+Aligarh,915,Uttar Pradesh,S2415
+Allahabad,952,Uttar Pradesh,S2452
+Ambedkar Nagar,955,Uttar Pradesh,S2455
+Amethi,937,Uttar Pradesh,S2437
+Amroha,909,Uttar Pradesh,S249
+Aonla,924,Uttar Pradesh,S2424
+Azamgarh,969,Uttar Pradesh,S2469
+Badaun,923,Uttar Pradesh,S2423
+Baghpat,911,Uttar Pradesh,S2411
+Bahraich,956,Uttar Pradesh,S2456
+Ballia,972,Uttar Pradesh,S2472
+Banda,948,Uttar Pradesh,S2448
+Bansgaon,967,Uttar Pradesh,S2467
+Barabanki,953,Uttar Pradesh,S2453
+Bareilly,925,Uttar Pradesh,S2425
+Basti,961,Uttar Pradesh,S2461
+Bhadohi,978,Uttar Pradesh,S2478
+Bijnor,904,Uttar Pradesh,S244
+Bulandshahr,914,Uttar Pradesh,S2414
+Chandauli,976,Uttar Pradesh,S2476
+Deoria,966,Uttar Pradesh,S2466
+Dhaurahra,929,Uttar Pradesh,S2429
+Domariyaganj,960,Uttar Pradesh,S2460
+Etah,922,Uttar Pradesh,S2422
+Etawah,941,Uttar Pradesh,S2441
+Faizabad,954,Uttar Pradesh,S2454
+Farrukhabad,940,Uttar Pradesh,S2440
+Fatehpur,949,Uttar Pradesh,S2449
+Fatehpur Sikri,919,Uttar Pradesh,S2419
+Firozabad,920,Uttar Pradesh,S2420
+Gautam Buddha Nagar,913,Uttar Pradesh,S2413
+Ghaziabad,912,Uttar Pradesh,S2412
+Ghazipur,975,Uttar Pradesh,S2475
+Ghosi,970,Uttar Pradesh,S2470
+Gonda,959,Uttar Pradesh,S2459
+Gorakhpur,964,Uttar Pradesh,S2464
+Hamirpur,947,Uttar Pradesh,S2447
+Hardoi,931,Uttar Pradesh,S2431
+Hathras,916,Uttar Pradesh,S2416
+Jalaun,945,Uttar Pradesh,S2445
+Jaunpur,973,Uttar Pradesh,S2473
+Jhansi,946,Uttar Pradesh,S2446
+Kairana,902,Uttar Pradesh,S242
+Kaiserganj,957,Uttar Pradesh,S2457
+Kannauj,942,Uttar Pradesh,S2442
+Kanpur,943,Uttar Pradesh,S2443
+Kaushambi,950,Uttar Pradesh,S2450
+Kheri,928,Uttar Pradesh,S2428
+Kushi Nagar,965,Uttar Pradesh,S2465
+Lalganj,968,Uttar Pradesh,S2468
+Lucknow,935,Uttar Pradesh,S2435
+Machhlishahr,974,Uttar Pradesh,S2474
+Maharajganj,963,Uttar Pradesh,S2463
+Mainpuri,921,Uttar Pradesh,S2421
+Mathura,917,Uttar Pradesh,S2417
+Meerut,910,Uttar Pradesh,S2410
+Mirzapur,979,Uttar Pradesh,S2479
+Misrikh,932,Uttar Pradesh,S2432
+Mohanlalganj,934,Uttar Pradesh,S2434
+Moradabad,906,Uttar Pradesh,S246
+Muzaffarnagar,903,Uttar Pradesh,S243
+Nagina,905,Uttar Pradesh,S245
+Phulpur,951,Uttar Pradesh,S2451
+Pilibhit,926,Uttar Pradesh,S2426
+Pratapgarh,939,Uttar Pradesh,S2439
+Rae Bareli,936,Uttar Pradesh,S2436
+Rampur,907,Uttar Pradesh,S247
+Robertsganj,980,Uttar Pradesh,S2480
+Saharanpur,901,Uttar Pradesh,S241
+Salempur,971,Uttar Pradesh,S2471
+Sambhal,908,Uttar Pradesh,S248
+Sant Kabir Nagar,962,Uttar Pradesh,S2462
+Shahjahanpur,927,Uttar Pradesh,S2427
+Shrawasti,958,Uttar Pradesh,S2458
+Sitapur,930,Uttar Pradesh,S2430
+Sultanpur,938,Uttar Pradesh,S2438
+Unnao,933,Uttar Pradesh,S2433
+Varanasi,977,Uttar Pradesh,S2477
+Almora,503,Uttarakhand,S283
+Garhwal,502,Uttarakhand,S282
+Haridwar,505,Uttarakhand,S285
+Nainital-udhamsingh Nagar,504,Uttarakhand,S284
+Tehri Garhwal,501,Uttarakhand,S281
+Alipurduars,1902,West Bengal,S252
+Arambagh,1929,West Bengal,S2529
+Asansol,1940,West Bengal,S2540
+Baharampur,1910,West Bengal,S2510
+Balurghat,1906,West Bengal,S256
+Bangaon,1914,West Bengal,S2514
+Bankura,1936,West Bengal,S2536
+Barasat,1917,West Bengal,S2517
+Bardhaman Durgapur,1939,West Bengal,S2538
+Bardhaman Purba,1938,West Bengal,S2539
+Barrackpore,1915,West Bengal,S2515
+Basirhat,1918,West Bengal,S2518
+Birbhum,1942,West Bengal,S2542
+Bishnupur,1937,West Bengal,S2537
+Bolpur,1941,West Bengal,S2541
+Cooch behar,1901,West Bengal,S251
+Darjeeling,1904,West Bengal,S254
+Diamond harbour,1921,West Bengal,S2521
+Dum dum,1916,West Bengal,S2516
+Ghatal,1932,West Bengal,S2532
+Hooghly,1928,West Bengal,S2528
+Howrah,1925,West Bengal,S2525
+Jadavpur,1922,West Bengal,S2522
+Jalpaiguri,1903,West Bengal,S253
+Jangipur,1909,West Bengal,S259
+Jaynagar,1919,West Bengal,S2519
+Jhargram,1933,West Bengal,S2533
+Kanthi,1931,West Bengal,S2531
+Kolkata Dakshin,1923,West Bengal,S2523
+Kolkata Uttar,1924,West Bengal,S2524
+Krishnanagar,1912,West Bengal,S2512
+Maldaha Dakshin,1908,West Bengal,S258
+Maldaha Uttar,1907,West Bengal,S257
+Mathurapur,1920,West Bengal,S2520
+Medinipur,1934,West Bengal,S2534
+Murshidabad,1911,West Bengal,S2511
+Purulia,1935,West Bengal,S2535
+Raiganj,1905,West Bengal,S255
+Ranaghat,1913,West Bengal,S2513
+Srerampur,1927,West Bengal,S2527
+Tamluk,1930,West Bengal,S2530
+Uluberia,1926,West Bengal,S2526

@@ -1,0 +1,17 @@
+party_id,cand_id,name,party_name
+IND,cand115,PRAKASH KUMAR,Independent
+IND,cand124,PRAKASH KUMAR,Independent
+IND,cand135,RANJANA,Independent
+IND,cand140,SUMESHWAR,Independent
+BMUP,cand143,AVADHESH VERMA,Bahujan Mukti Party
+IND,cand151,MANINDR,Independent
+IND,cand155,SHSHNATH,Independent
+SPSP2,cand331,RAVI KANT SINGH URF RAVI PATEL,Sardar Patel Siddhant Party
+IND,cand344,AVADHESH VERMA,Independent
+GGP,cand533,RAMNIVAS GOND,Gondvana Gantantra Party
+SP,cand540,SANATAN PANDEY,Samajwadi Party
+IND,cand596,ASHOK GUPTA,Independent
+BJP,cand718,NEERAJ SHEKHAR,Bharatiya Janata Party
+BSP,cand801,LALLAN SINGH YADAV,Bahujan Samaj Party
+ASPR2,cand87,SURYA BALI PRASAD,Aazad Samaj Party (Kanshi Ram)
+NOTA,cand9173,None of the Above,NOTA

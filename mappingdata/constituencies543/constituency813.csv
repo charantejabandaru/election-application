@@ -1,0 +1,16 @@
+party_id,cand_id,name,party_name
+ABAP2,cand6237,RAMLAL,Akhil Bhartiya Aamjan Party
+BSP,cand6308,RAMDEV,Bahujan Samaj Party
+IND,cand6375,SURENDRA SINGH RANAVAT,Independent
+IND,cand6398,DAYA MOHAN GARG,Independent
+IND,cand6512,YUSUF,Independent
+IND,cand6606,PREM LATA,Independent
+ASPR2,cand6731,JITENDRA BOYAT,Aazad Samaj Party (Kanshi Ram)
+IND,cand6778,SATYANARAYAN MALI,Independent
+NFP2,cand6885,SHABUDADIN,National Future Party
+IND,cand6899,BHAWARLAL SONI,Independent
+BYJEP2,cand6922,MUKESH GENA,Bharatiya Yuva Jan Ekta Party
+BJP,cand7199,BHAGIRATH CHOUDHARY,Bharatiya Janata Party
+IND,cand7342,VISHRAM BABU,Independent
+INC,cand7368,RAMCHANDRA CHOUDHARY,Indian National Congress
+NOTA,cand9173,None of the Above,NOTA

@@ -1,0 +1,1214 @@
+{
+  "Andaman and Nicobar Islands": {
+    "andaman and nicobar islands": [
+      {
+        "id1": "cand9049",
+        "name1": "bishnu pada ray",
+        "party1": "BJP",
+        "id2": "cand7973",
+        "name2": "kuldeep rai sharma",
+        "party2": "INC"
+      }
+    ]
+  },
+  "Andhra Pradesh": {
+    "vijayawada": [
+      {
+        "id1": "cand3220",
+        "name1": "kesineni sivanath (chinni)",
+        "party1": "TDP",
+        "id2": "cand3958",
+        "name2": "kesineni srinivas  (nani)",
+        "party2": "YSRCP"
+      }
+    ],
+    "kadapa": [
+      {
+        "id1": "cand4344",
+        "name1": "y.s. sharmila reddy",
+        "party1": "INC",
+        "id2": "cand4150",
+        "name2": "y. s. avinash reddy",
+        "party2": "YSRCP"
+      }
+    ],
+    "guntur": [
+      {
+        "id1": "cand3231",
+        "name1": "dr chandra sekhar pemmasani",
+        "party1": "TDP",
+        "id2": "cand2967",
+        "name2": "kilari venkata rosaiah",
+        "party2": "YSRCP"
+      }
+    ]
+  },
+  "Arunachal Pradesh": {
+    "arunachal east": [
+      {
+        "id1": "cand7595",
+        "name1": "tapir gao",
+        "party1": "BJP",
+        "id2": "cand7768",
+        "name2": "bosiram siram",
+        "party2": "INC"
+      }
+    ],
+    "arunachal west": [
+      {
+        "id1": "cand8293",
+        "name1": "kiren rijiju",
+        "party1": "BJP",
+        "id2": "cand7581",
+        "name2": "nabam tuki",
+        "party2": "INC"
+      }
+    ]
+  },
+  "Assam": {
+    "guwahati": [
+      {
+        "id1": "cand4881",
+        "name1": "bijuli kalita  medhi",
+        "party1": "BJP",
+        "id2": "cand5845",
+        "name2": "mira borthakur goswami",
+        "party2": "INC"
+      }
+    ],
+    "dibrugarh": [
+      {
+        "id1": "cand8275",
+        "name1": "lurinjyoti gogoi",
+        "party1": "AJP",
+        "id2": "cand8565",
+        "name2": "sarbananda sonowal",
+        "party2": "BJP"
+      }
+    ],
+    "kaziranga": [
+      {
+        "id1": "cand7906",
+        "name1": "kamakhya prasad tasa",
+        "party1": "BJP",
+        "id2": "cand8650",
+        "name2": "roselina tirkey",
+        "party2": "INC"
+      }
+    ],
+    "jorhat": [
+      {
+        "id1": "cand7588",
+        "name1": "topon kumar gogoi",
+        "party1": "BJP",
+        "id2": "cand8638",
+        "name2": "gaurav gogoi",
+        "party2": "INC"
+      }
+    ]
+  },
+  "Bihar": {
+    "patna sahib": [
+      {
+        "id1": "cand736",
+        "name1": "ravi shankar prasad",
+        "party1": "BJP",
+        "id2": "cand238",
+        "name2": "anshul avijit",
+        "party2": "INC"
+      }
+    ],
+    "bhagalpur": [
+      {
+        "id1": "cand6544",
+        "name1": "ajeet sharma",
+        "party1": "INC",
+        "id2": "cand7151",
+        "name2": "ajay kumar mandal",
+        "party2": "JD(U)"
+      }
+    ],
+    "muzaffarpur": [
+      {
+        "id1": "cand2667",
+        "name1": "raj bhushan choudhary",
+        "party1": "BJP",
+        "id2": "cand2419",
+        "name2": "ajay nishad",
+        "party2": "INC"
+      }
+    ],
+    "pataliputra": [
+      {
+        "id1": "cand781",
+        "name1": "ram kripal yadav",
+        "party1": "BJP",
+        "id2": "cand506",
+        "name2": "misha bharti",
+        "party2": "RJD"
+      }
+    ],
+    "aurangabad": [
+      {
+        "id1": "cand7429",
+        "name1": "sushil kumar singh",
+        "party1": "BJP",
+        "id2": "cand7455",
+        "name2": "abhay kumar sinha",
+        "party2": "RJD"
+      }
+    ],
+    "jamui": [
+      {
+        "id1": "cand7555",
+        "name1": "arun bharti",
+        "party1": "LJP(RV)",
+        "id2": "cand7473",
+        "name2": "archana kumari",
+        "party2": "RJD"
+      }
+    ],
+    "khagaria": [
+      {
+        "id1": "cand5981",
+        "name1": "sanjay kumar",
+        "party1": "CPI(M)",
+        "id2": "cand5838",
+        "name2": "rajesh verma",
+        "party2": "LJP(RV)"
+      }
+    ]
+  },
+  "Chandigarh": {
+    "chandigarh": [
+      {
+        "id1": "cand612",
+        "name1": "sanjay tandon",
+        "party1": "BJP",
+        "id2": "cand275",
+        "name2": "manish tewari",
+        "party2": "INC"
+      }
+    ]
+  },
+  "Chhattisgarh": {
+    "korba": [
+      {
+        "id1": "cand5369",
+        "name1": "saroj pandey",
+        "party1": "BJP",
+        "id2": "cand5901",
+        "name2": "jyotsna charandas mahant",
+        "party2": "INC"
+      }
+    ],
+    "durg": [
+      {
+        "id1": "cand5132",
+        "name1": "vijay baghel",
+        "party1": "BJP",
+        "id2": "cand5929",
+        "name2": "rajendra sahu",
+        "party2": "INC"
+      }
+    ],
+    "rajnandgaon": [
+      {
+        "id1": "cand6434",
+        "name1": "santosh pandey",
+        "party1": "BJP",
+        "id2": "cand7178",
+        "name2": "bhupesh baghel",
+        "party2": "INC"
+      }
+    ],
+    "raipur": [
+      {
+        "id1": "cand4696",
+        "name1": "brijmohan agrawal",
+        "party1": "BJP",
+        "id2": "cand4619",
+        "name2": "vikas upadhyay",
+        "party2": "INC"
+      }
+    ]
+  },
+  "Dadra and Nagar Haveli": {
+    "dadra and nagar haveli": [
+      {
+        "id1": "cand5408",
+        "name1": "delkar kalaben mohanbhai",
+        "party1": "BJP",
+        "id2": "cand5118",
+        "name2": "ajit ramjibhai mahala",
+        "party2": "INC"
+      }
+    ],
+    "daman and diu": [
+      {
+        "id1": "cand5198",
+        "name1": "lalubhai babubhai patel",
+        "party1": "BJP",
+        "id2": "cand4864",
+        "name2": "ketan dahyabhai patel",
+        "party2": "INC"
+      }
+    ]
+  },
+  "Goa": {
+    "north goa": [
+      {
+        "id1": "cand5807",
+        "name1": "shripad yesso naik",
+        "party1": "BJP",
+        "id2": "cand4559",
+        "name2": "ramakant khalap",
+        "party2": "INC"
+      }
+    ],
+    "south goa": [
+      {
+        "id1": "cand5007",
+        "name1": "pallavi shrinivas dempo",
+        "party1": "BJP",
+        "id2": "cand5490",
+        "name2": "captain  viriato fernandes",
+        "party2": "INC"
+      }
+    ]
+  },
+  "Gujarat": {
+    "ahmedabad east": [
+      {
+        "id1": "cand6021",
+        "name1": "hasmukhbhai patel (h.s.patel)",
+        "party1": "BJP",
+        "id2": "cand5466",
+        "name2": "himmatsinh prahladsinh patel",
+        "party2": "INC"
+      }
+    ],
+    "ahmedabad west": [
+      {
+        "id1": "cand5247",
+        "name1": "dineshbhai makwana (advocate)",
+        "party1": "BJP",
+        "id2": "cand5884",
+        "name2": "bharat yogendra makwana",
+        "party2": "INC"
+      }
+    ]
+  },
+  "Haryana": {
+    "karnal": [
+      {
+        "id1": "cand1160",
+        "name1": "manohar lal",
+        "party1": "BJP",
+        "id2": "cand1216",
+        "name2": "divyanshu budhiraja",
+        "party2": "INC"
+      }
+    ],
+    "rohtak": [
+      {
+        "id1": "cand1679",
+        "name1": "dr. arvind kumar sharm",
+        "party1": "BJP",
+        "id2": "cand1525",
+        "name2": "deepender singh hooda",
+        "party2": "INC"
+      }
+    ]
+  },
+  "Himachal Pradesh": {
+    "hamirpur": [
+      {
+        "id1": "cand361",
+        "name1": "anurag singh thakur",
+        "party1": "BJP",
+        "id2": "cand656",
+        "name2": "satpal singh raizada",
+        "party2": "INC"
+      }
+    ]
+  },
+  "Jharkhand": {
+    "khunti": [
+      {
+        "id1": "cand3911",
+        "name1": "arjun munda",
+        "party1": "BJP",
+        "id2": "cand3267",
+        "name2": "kali charan munda",
+        "party2": "INC"
+      }
+    ],
+    "chatra": [
+      {
+        "id1": "cand1813",
+        "name1": "kali charan singh",
+        "party1": "BJP",
+        "id2": "cand1829",
+        "name2": "krishna nand tripathi",
+        "party2": "INC"
+      }
+    ],
+    "giridih": [
+      {
+        "id1": "cand1279",
+        "name1": "chandra prakash choudhary",
+        "party1": "AJSUP",
+        "id2": "cand1033",
+        "name2": "mathura prasad mahato",
+        "party2": "JMM"
+      }
+    ],
+    "jamshedpur": [
+      {
+        "id1": "cand1170",
+        "name1": "bidyut baran mahato",
+        "party1": "BJP",
+        "id2": "cand1113",
+        "name2": "samir kumar mohanty",
+        "party2": "JMM"
+      }
+    ],
+    "ranchi": [
+      {
+        "id1": "cand1331",
+        "name1": "sanjay seth",
+        "party1": "BJP",
+        "id2": "cand1304",
+        "name2": "yashaswini sahay",
+        "party2": "INC"
+      }
+    ]
+  },
+  "Karnataka": {
+    "bangalore north": [
+      {
+        "id1": "cand6804",
+        "name1": "shobha karandlaje",
+        "party1": "BJP",
+        "id2": "cand6669",
+        "name2": "professor m.v rajeev gowda",
+        "party2": "INC"
+      }
+    ],
+    "bangalore rural": [
+      {
+        "id1": "cand6468",
+        "name1": "dr c n manjunath",
+        "party1": "BJP",
+        "id2": "cand6471",
+        "name2": "d k suresh",
+        "party2": "INC"
+      }
+    ],
+    "bangalore south": [
+      {
+        "id1": "cand6282",
+        "name1": "tejasvi surya",
+        "party1": "BJP",
+        "id2": "cand6423",
+        "name2": "sowmya reddy",
+        "party2": "INC"
+      }
+    ],
+    "haasan": [
+      {
+        "id1": "cand6221",
+        "name1": "shreyas. m. patel",
+        "party1": "INC",
+        "id2": "cand6489",
+        "name2": "prajwal revanna",
+        "party2": "JD(S)"
+      }
+    ],
+    "mandya": [
+      {
+        "id1": "cand6167",
+        "name1": "venkataramane gowda (star chandru)",
+        "party1": "INC",
+        "id2": "cand6465",
+        "name2": "h.d. kumaraswamy",
+        "party2": "JD(S)"
+      }
+    ],
+    "mysore": [
+      {
+        "id1": "cand6566",
+        "name1": "yaduveer krishnadatta chamaraja wadiyar",
+        "party1": "BJP",
+        "id2": "cand6805",
+        "name2": "m. lakshmana",
+        "party2": "INC"
+      }
+    ]
+  },
+  "Kerala": {
+    "attingal": [
+      {
+        "id1": "cand6325",
+        "name1": "v  muraleedharan",
+        "party1": "BJP",
+        "id2": "cand6298",
+        "name2": "adv adoor prakash",
+        "party2": "INC"
+      }
+    ],
+    "pathanamthitta": [
+      {
+        "id1": "cand6481",
+        "name1": "anil k.antony",
+        "party1": "BJP",
+        "id2": "cand6462",
+        "name2": "anto antony",
+        "party2": "INC"
+      }
+    ],
+    "thiruvananthapuram": [
+      {
+        "id1": "cand6354",
+        "name1": "rajeev chandrasekhar",
+        "party1": "BJP",
+        "id2": "cand6978",
+        "name2": "shashi tharoor",
+        "party2": "INC"
+      }
+    ],
+    "wayanad": [
+      {
+        "id1": "cand6367",
+        "name1": "annie raja",
+        "party1": "CPI",
+        "id2": "cand7055",
+        "name2": "rahul gandhi",
+        "party2": "INC"
+      }
+    ],
+    "alappuzha": [
+      {
+        "id1": "cand6405",
+        "name1": "a. m ariff",
+        "party1": "CPI(M)",
+        "id2": "cand6644",
+        "name2": "k. c venugopal",
+        "party2": "INC"
+      }
+    ]
+  },
+  "Madhya Pradesh": {
+    "bhopal": [
+      {
+        "id1": "cand5630",
+        "name1": "alok sharma",
+        "party1": "BJP",
+        "id2": "cand4995",
+        "name2": "advocate arun shrivastava",
+        "party2": "INC"
+      }
+    ],
+    "chhindwara": [
+      {
+        "id1": "cand7764",
+        "name1": "bunty vivek sahu",
+        "party1": "BJP",
+        "id2": "cand8678",
+        "name2": "nakul kamalnath",
+        "party2": "INC"
+      }
+    ],
+    "rajgarh": [
+      {
+        "id1": "cand4972",
+        "name1": "rodmal nagar",
+        "party1": "BJP",
+        "id2": "cand5893",
+        "name2": "digvijaya singh",
+        "party2": "INC"
+      }
+    ],
+    "ujjain": [
+      {
+        "id1": "cand4304",
+        "name1": "anil firojiya",
+        "party1": "BJP",
+        "id2": "cand3292",
+        "name2": "mahesh parmar",
+        "party2": "INC"
+      }
+    ]
+  },
+  "Maharashtra": {
+    "buldhana": [
+      {
+        "id1": "cand7154",
+        "name1": "jadhav prataprao ganpatrao",
+        "party1": "SHS",
+        "id2": "cand6673",
+        "name2": "narendra dagdu khedekar",
+        "party2": "SHS(UBT)"
+      }
+    ],
+    "hatkanangle": [
+      {
+        "id1": "cand6015",
+        "name1": "dhairyasheel sambhajirao mane",
+        "party1": "SHS",
+        "id2": "cand5943",
+        "name2": "satyajeet babasaheb patil (aaba) sarudkar",
+        "party2": "SHS(UBT)"
+      }
+    ],
+    "hingoli": [
+      {
+        "id1": "cand6472",
+        "name1": "baburao kadam kohalikar",
+        "party1": "SHS",
+        "id2": "cand7210",
+        "name2": "aashtikar patil nagesh bapurao",
+        "party2": "SHS(UBT)"
+      }
+    ],
+    "jalgaon": [
+      {
+        "id1": "cand3751",
+        "name1": "karan balasaheb patil - pawar",
+        "party1": "SHS(UBT)",
+        "id2": "cand3142",
+        "name2": "smita uday wagh",
+        "party2": "BJP"
+      }
+    ],
+    "kalyan": [
+      {
+        "id1": "cand2179",
+        "name1": "dr shrikant eknath shinde",
+        "party1": "SHS",
+        "id2": "cand2418",
+        "name2": "vaishali darekar - rane",
+        "party2": "SHS(UBT)"
+      }
+    ],
+    "maval": [
+      {
+        "id1": "cand4377",
+        "name1": "shrirang appa chandu barne",
+        "party1": "SHS",
+        "id2": "cand4044",
+        "name2": "sanjog bhiku waghere patil",
+        "party2": "SHS(UBT)"
+      }
+    ],
+    "mumbai north west": [
+      {
+        "id1": "cand1811",
+        "name1": "ravindra dattaram waikar",
+        "party1": "SHS",
+        "id2": "cand2123",
+        "name2": "amol gajanan kirtikar",
+        "party2": "SHS(UBT)"
+      }
+    ],
+    "mumbai south": [
+      {
+        "id1": "cand1843",
+        "name1": "yamini yashwant jadhav",
+        "party1": "SHS",
+        "id2": "cand2580",
+        "name2": "arvind ganpat sawant",
+        "party2": "SHS(UBT)"
+      }
+    ],
+    "mumbai south central": [
+      {
+        "id1": "cand2569",
+        "name1": "rahul ramesh shewale",
+        "party1": "SHS",
+        "id2": "cand2555",
+        "name2": "anil yeshwant desai",
+        "party2": "SHS(UBT)"
+      }
+    ],
+    "nashik": [
+      {
+        "id1": "cand2283",
+        "name1": "godse hemant tukaram",
+        "party1": "SHS",
+        "id2": "cand2533",
+        "name2": "rajabhau (parag) prakash waje",
+        "party2": "SHS(UBT)"
+      }
+    ],
+    "ratnagiri - sindhudurg": [
+      {
+        "id1": "cand5890",
+        "name1": "vinayak bhaurao raut",
+        "party1": "SHS(UBT)",
+        "id2": "cand4979",
+        "name2": "narayan tatu rane",
+        "party2": "BJP"
+      }
+    ],
+    "shirdi": [
+      {
+        "id1": "cand4275",
+        "name1": "lokhande sadashiv kisan",
+        "party1": "SHS",
+        "id2": "cand2779",
+        "name2": "bhausaheb rajaram wakchaure",
+        "party2": "SHS(UBT)"
+      }
+    ],
+    "thane": [
+      {
+        "id1": "cand1982",
+        "name1": "naresh ganpat mhaske",
+        "party1": "SHS",
+        "id2": "cand1652",
+        "name2": "rajan baburao vichare",
+        "party2": "SHS(UBT)"
+      }
+    ],
+    "yavatmal-washim": [
+      {
+        "id1": "cand6192",
+        "name1": "rajshritai hemant patil (mahalle)",
+        "party1": "SHS",
+        "id2": "cand6837",
+        "name2": "sanjay uttamrao deshmukh",
+        "party2": "SHS(UBT)"
+      }
+    ],
+    "shirur": [
+      {
+        "id1": "cand2750",
+        "name1": "adhalrao shivaji dattatrey",
+        "party1": "NCP",
+        "id2": "cand4546",
+        "name2": "dr. amol ramsing kolhe",
+        "party2": "NCP(SP)"
+      }
+    ],
+    "mumbai north": [
+      {
+        "id1": "cand2423",
+        "name1": "piyush goyal",
+        "party1": "BJP",
+        "id2": "cand2252",
+        "name2": "bhushan patil",
+        "party2": "INC"
+      }
+    ],
+    "aurangabad": [
+      {
+        "id1": "cand2846",
+        "name1": "bhumare sandipanrao asaram",
+        "party1": "SHS",
+        "id2": "cand2755",
+        "name2": "chandrakant khaire",
+        "party2": "SHS(UBT)"
+      }
+    ],
+    "baramati": [
+      {
+        "id1": "cand5308",
+        "name1": "sunetra ajitdada pawar",
+        "party1": "NCP",
+        "id2": "cand5604",
+        "name2": "supriya sule",
+        "party2": "NCP(SP)"
+      }
+    ]
+  },
+  "Manipur": {
+    "inner manipur": [
+      {
+        "id1": "cand7920",
+        "name1": "thounaojam basanta kumar singh",
+        "party1": "BJP",
+        "id2": "cand7615",
+        "name2": "angomcha bimol akoijam",
+        "party2": "INC"
+      }
+    ],
+    "outer manipur": [
+      {
+        "id1": "cand7698",
+        "name1": "alfred kanngam s arthur",
+        "party1": "INC",
+        "id2": "cand8166",
+        "name2": "kachui timothy zimik",
+        "party2": "NPF"
+      }
+    ]
+  },
+  "Meghalaya": {
+    "tura": [
+      {
+        "id1": "cand8688",
+        "name1": "saleng a sangma",
+        "party1": "INC",
+        "id2": "cand8608",
+        "name2": "agatha k sangma",
+        "party2": "NPEP"
+      }
+    ]
+  },
+  "Nagaland": {
+    "nagaland": [
+      {
+        "id1": "cand8754",
+        "name1": "s supongmeren jamir",
+        "party1": "INC",
+        "id2": "cand8660",
+        "name2": "dr chumben murry",
+        "party2": "NDPP"
+      }
+    ]
+  },
+  "NCT OF Delhi": {
+    "new delhi": [
+      {
+        "id1": "cand1069",
+        "name1": "somnath bharti",
+        "party1": "AAP",
+        "id2": "cand1129",
+        "name2": "bansuri swaraj",
+        "party2": "BJP"
+      }
+    ]
+  },
+  "Odisha": {
+    "puri": [
+      {
+        "id1": "cand1125",
+        "name1": "sambit patra",
+        "party1": "BJP",
+        "id2": "cand2079",
+        "name2": "arup mohan patnaik",
+        "party2": "BJD"
+      }
+    ],
+    "nabarangpur": [
+      {
+        "id1": "cand3084",
+        "name1": "balabhadra majhi",
+        "party1": "BJP",
+        "id2": "cand3830",
+        "name2": "pradeep kumar majhi",
+        "party2": "BJD"
+      }
+    ],
+    "kendrapara": [
+      {
+        "id1": "cand602",
+        "name1": "anshuman mohanty",
+        "party1": "BJD",
+        "id2": "cand332",
+        "name2": "sidharth swarup dash",
+        "party2": "INC"
+      }
+    ],
+    "kandhamal": [
+      {
+        "id1": "cand2295",
+        "name1": "sukanta kumar panigrahi",
+        "party1": "BJP",
+        "id2": "cand2011",
+        "name2": "achyutananda samanta",
+        "party2": "BJD"
+      }
+    ],
+    "cuttack": [
+      {
+        "id1": "cand1734",
+        "name1": "bhartruhari mahtab",
+        "party1": "BJP",
+        "id2": "cand1587",
+        "name2": "santrupt misra",
+        "party2": "BJD"
+      }
+    ],
+    "bhubaneswar": [
+      {
+        "id1": "cand2216",
+        "name1": "aparajita sarangi",
+        "party1": "BJP",
+        "id2": "cand2117",
+        "name2": "manmath kumar routray",
+        "party2": "BJD"
+      }
+    ]
+  },
+  "Puducherry": {
+    "puducherry": [
+      {
+        "id1": "cand8893",
+        "name1": "a namassivayam",
+        "party1": "BJP",
+        "id2": "cand7697",
+        "name2": "ve vaithilingam",
+        "party2": "INC"
+      }
+    ]
+  },
+  "Punjab": {
+    "ludhiana": [
+      {
+        "id1": "cand129",
+        "name1": "ravneet singh",
+        "party1": "BJP",
+        "id2": "cand406",
+        "name2": "amrinder singh raja warring",
+        "party2": "INC"
+      }
+    ],
+    "jalandhar": [
+      {
+        "id1": "cand633",
+        "name1": "charanjit singh channi",
+        "party1": "INC",
+        "id2": "cand453",
+        "name2": "mohinder singh kaypee",
+        "party2": "SAD"
+      }
+    ],
+    "bathinda": [
+      {
+        "id1": "cand439",
+        "name1": "parampal kaur sidhu",
+        "party1": "BJP",
+        "id2": "cand524",
+        "name2": "lakhvir singh",
+        "party2": "SAD(M)"
+      }
+    ]
+  },
+  "Rajasthan": {
+    "ajmer": [
+      {
+        "id1": "cand7199",
+        "name1": "bhagirath choudhary",
+        "party1": "BJP",
+        "id2": "cand7368",
+        "name2": "ramchandra choudhary",
+        "party2": "INC"
+      }
+    ],
+    "alwar": [
+      {
+        "id1": "cand7776",
+        "name1": "bhupender yadav",
+        "party1": "BJP",
+        "id2": "cand7865",
+        "name2": "lalit yadav",
+        "party2": "INC"
+      }
+    ],
+    "bharatpur": [
+      {
+        "id1": "cand7970",
+        "name1": "ramswaroop koli",
+        "party1": "BJP",
+        "id2": "cand7887",
+        "name2": "sanjna jatav",
+        "party2": "INC"
+      }
+    ],
+    "bikaner": [
+      {
+        "id1": "cand7937",
+        "name1": "arjun ram meghwal",
+        "party1": "BJP",
+        "id2": "cand8056",
+        "name2": "govindram meghwal",
+        "party2": "INC"
+      }
+    ],
+    "jaipur rural": [
+      {
+        "id1": "cand7646",
+        "name1": "rao rajendra singh",
+        "party1": "BJP",
+        "id2": "cand8097",
+        "name2": "anil chopra",
+        "party2": "INC"
+      }
+    ],
+    "kota": [
+      {
+        "id1": "cand6349",
+        "name1": "om birla",
+        "party1": "BJP",
+        "id2": "cand6397",
+        "name2": "prahlad gunjal",
+        "party2": "INC"
+      }
+    ],
+    "tonk-sawai madhopur": [
+      {
+        "id1": "cand7175",
+        "name1": "sukhbir singh jaunapuria",
+        "party1": "BJP",
+        "id2": "cand6558",
+        "name2": "harish chandra meena",
+        "party2": "INC"
+      }
+    ],
+    "udaipur": [
+      {
+        "id1": "cand7463",
+        "name1": "manna lal rawat",
+        "party1": "BJP",
+        "id2": "cand7324",
+        "name2": "tarachand meena",
+        "party2": "INC"
+      }
+    ]
+  },
+  "Tamil Nadu": {
+    "chennai central": [
+      {
+        "id1": "cand8250",
+        "name1": "vinoj",
+        "party1": "BJP",
+        "id2": "cand8026",
+        "name2": "dayanidhi maran",
+        "party2": "DMK"
+      }
+    ],
+    "chennai south": [
+      {
+        "id1": "cand8822",
+        "name1": "dr.tamilisai soundararajan",
+        "party1": "BJP",
+        "id2": "cand7422",
+        "name2": "t.sumathy (alias) thamizhachi thangapandian",
+        "party2": "DMK"
+      }
+    ],
+    "chidambaram": [
+      {
+        "id1": "cand7884",
+        "name1": "karthiyayini p",
+        "party1": "BJP",
+        "id2": "cand8302",
+        "name2": "thirumaavalavan thol",
+        "party2": "VCK"
+      }
+    ],
+    "madurai": [
+      {
+        "id1": "cand8815",
+        "name1": "raama sreenivasan",
+        "party1": "BJP",
+        "id2": "cand8920",
+        "name2": "venkatesan s",
+        "party2": "CPI(M)"
+      }
+    ]
+  },
+  "Telangana": {
+    "hyderabad": [
+      {
+        "id1": "cand4116",
+        "name1": "asaduddin owaisi",
+        "party1": "AIMIM",
+        "id2": "cand3321",
+        "name2": "madhavi latha kompella",
+        "party2": "BJP"
+      }
+    ],
+    "mahabubabad": [
+      {
+        "id1": "cand2707",
+        "name1": "kavitha maloth",
+        "party1": "BRS",
+        "id2": "cand2901",
+        "name2": "professor. azmeera seetaram naik",
+        "party2": "BJP"
+      }
+    ],
+    "mahabubnagar": [
+      {
+        "id1": "cand3218",
+        "name1": "manne srinivas reddy",
+        "party1": "BRS",
+        "id2": "cand3012",
+        "name2": "aruna. d. k",
+        "party2": "BJP"
+      }
+    ],
+    "secunderabad": [
+      {
+        "id1": "cand5042",
+        "name1": "g. kishan reddy",
+        "party1": "BJP",
+        "id2": "cand3814",
+        "name2": "danam nagender",
+        "party2": "INC"
+      }
+    ]
+  },
+  "Tripura": {
+    "tripura east": [
+      {
+        "id1": "cand7483",
+        "name1": "kriti devi debbarman",
+        "party1": "BJP",
+        "id2": "cand7125",
+        "name2": "rajendra reang",
+        "party2": "CPI(M)"
+      }
+    ],
+    "tripura west": [
+      {
+        "id1": "cand7373",
+        "name1": "biplab kumar deb",
+        "party1": "BJP",
+        "id2": "cand7372",
+        "name2": "asish kumar saha",
+        "party2": "INC"
+      }
+    ]
+  },
+  "Uttar Pradesh": {
+    "amethi": [
+      {
+        "id1": "cand1611",
+        "name1": "smriti irani",
+        "party1": "BJP",
+        "id2": "cand1582",
+        "name2": "kishori lal",
+        "party2": "INC"
+      }
+    ],
+    "rae bareli": [
+      {
+        "id1": "cand1889",
+        "name1": "dinesh pratap singh",
+        "party1": "BJP",
+        "id2": "cand1597",
+        "name2": "rahul gandhi",
+        "party2": "INC"
+      }
+    ],
+    "azamgarh": [
+      {
+        "id1": "cand2360",
+        "name1": "dinesh lal yadav",
+        "party1": "BJP",
+        "id2": "cand1321",
+        "name2": "dharmendra yadav",
+        "party2": "SP"
+      }
+    ],
+    "kannauj": [
+      {
+        "id1": "cand2759",
+        "name1": "subrat pathak",
+        "party1": "BJP",
+        "id2": "cand3140",
+        "name2": "akhilesh yadav",
+        "party2": "SP"
+      }
+    ],
+    "mainpuri": [
+      {
+        "id1": "cand4939",
+        "name1": "jayveer singh",
+        "party1": "BJP",
+        "id2": "cand4581",
+        "name2": "dimple yadav",
+        "party2": "SP"
+      }
+    ],
+    "pilibhit": [
+      {
+        "id1": "cand8113",
+        "name1": "jitin prasada",
+        "party1": "BJP",
+        "id2": "cand7659",
+        "name2": "bhagwat saran gangwar",
+        "party2": "SP"
+      }
+    ],
+    "pratapgarh": [
+      {
+        "id1": "cand1747",
+        "name1": "sangam lal gupta",
+        "party1": "BJP",
+        "id2": "cand1092",
+        "name2": "shiv pal singh patel (dr. s p singh)",
+        "party2": "SP"
+      }
+    ]
+  },
+  "Uttarakhand": {
+    "almora": [
+      {
+        "id1": "cand9023",
+        "name1": "ajay tamta",
+        "party1": "BJP",
+        "id2": "cand7673",
+        "name2": "pradeep tamta",
+        "party2": "INC"
+      }
+    ],
+    "garhwal": [
+      {
+        "id1": "cand8203",
+        "name1": "anil baluni",
+        "party1": "BJP",
+        "id2": "cand8045",
+        "name2": "ganesh godiyal",
+        "party2": "INC"
+      }
+    ],
+    "haridwar": [
+      {
+        "id1": "cand8591",
+        "name1": "trivendra singh rawat",
+        "party1": "BJP",
+        "id2": "cand8147",
+        "name2": "virendra rawat",
+        "party2": "INC"
+      }
+    ]
+  },
+  "West Bengal": {
+    "asansol": [
+      {
+        "id1": "cand4211",
+        "name1": "shatrughan prasad sinha",
+        "party1": "AITC",
+        "id2": "cand4229",
+        "name2": "surendrajeet singh ahluwalia",
+        "party2": "BJP"
+      }
+    ],
+    "baharampur": [
+      {
+        "id1": "cand4325",
+        "name1": "pathan yusuf",
+        "party1": "AITC",
+        "id2": "cand3637",
+        "name2": "adhir ranjan chowdhury",
+        "party2": "INC"
+      }
+    ],
+    "howrah": [
+      {
+        "id1": "cand2511",
+        "name1": "prasun banerjee",
+        "party1": "AITC",
+        "id2": "cand2507",
+        "name2": "dr rathin chakravarty",
+        "party2": "BJP"
+      }
+    ]
+  }
+}

@@ -1,0 +1,15 @@
+party_id,cand_id,name,party_name
+CPI,cand1627,ARVIND SEN,Communist Party of India
+IND,cand1831,SUNIL KUMAR BHATT,Independent
+IND,cand1992,ARUN KUMAR,Independent
+IND,cand2106,JAGAT SINGH,Independent
+IND,cand2159,LAL MANI URF L.M. TRIPATHI (BHAI SAHAB),Independent
+RJSP2,cand2227,ANIL KUMAR RAVAT,Rashtriya Janshakti Samaj Party
+MADP,cand2229,KANCHAN YADAV,Moulik Adhikar Party
+BSP,cand2245,SACHIDANAND PANDEY,Bahujan Samaj Party
+IND,cand2274,FAREED SALMANI,Independent
+BMP4,cand2288,AMBRISH DEV GUPTA,Bharat Mahaparivar Party
+AACP,cand2366,BRAJENDRA DUTT TRIPATHI URF B. D. TRIPATHI,Adarshwaadi Congress Party
+BJP,cand2368,LALLU SINGH,Bharatiya Janata Party
+SP,cand2369,AWADHESH PRASAD,Samajwadi Party
+NOTA,cand9173,None of the Above,NOTA

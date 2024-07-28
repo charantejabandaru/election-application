@@ -1,0 +1,544 @@
+const_id,name,state,reserve_status
+101,Baramulla,"Jammu and Kashmir",GEN
+102,Srinagar,"Jammu and Kashmir",SC
+103,Anantnag,"Jammu and Kashmir",GEN
+104,Ladakh,Ladakh,GEN
+105,Udhampur,"Jammu and Kashmir",GEN
+106,Jammu,"Jammu and Kashmir",SC
+201,Kangra,"Himachal Pradesh",ST
+202,Mandi,"Himachal Pradesh",GEN
+203,Hamirpur,"Himachal Pradesh",GEN
+204,Shimla,"Himachal Pradesh",ST
+301,Gurdaspur,Punjab,GEN
+302,Amritsar,Punjab,SC
+303,"Khadoor Sahib",Punjab,GEN
+304,Jalandhar,Punjab,SC
+305,Hoshiarpur,Punjab,GEN
+306,"Anandpur Sahib",Punjab,GEN
+307,Ludhiana,Punjab,SC
+308,"Fatehgarh Sahib",Punjab,SC
+309,Faridkot,Punjab,GEN
+310,Firozpur,Punjab,GEN
+311,Bathinda,Punjab,SC
+312,Sangrur,Punjab,GEN
+313,Patiala,Punjab,GEN
+401,CHANDIGARH,Chandigarh,GEN
+501,"Tehri Garhwal",Uttarakhand,ST
+502,Garhwal,Uttarakhand,GEN
+503,Almora,Uttarakhand,GEN
+504,"Nainital-udhamsingh Nagar",Uttarakhand,GEN
+505,Haridwar,Uttarakhand,GEN
+601,Ambala,Haryana,GEN
+602,Kurukshetra,Haryana,GEN
+603,Sirsa,Haryana,ST
+604,Hisar,Haryana,SC
+605,Karnal,Haryana,SC
+606,Sonipat,Haryana,GEN
+607,Rohtak,Haryana,GEN
+608,Bhiwani-Mahendragarh,Haryana,GEN
+609,Gurgaon,Haryana,SC
+610,Faridabad,Haryana,SC
+701,"CHANDNI CHOWK","NCT OF Delhi",GEN
+702,"NORTH EAST DELHI","NCT OF Delhi",GEN
+703,"EAST DELHI","NCT OF Delhi",GEN
+704,"NEW DELHI","NCT OF Delhi",GEN
+705,"NORTH WEST DELHI","NCT OF Delhi",SC
+706,"WEST DELHI","NCT OF Delhi",SC
+707,"SOUTH DELHI","NCT OF Delhi",GEN
+801,Ganganagar,Rajasthan,SC
+802,Bikaner,Rajasthan,GEN
+803,Churu,Rajasthan,SC
+804,Jhunjhunu,Rajasthan,GEN
+805,Sikar,Rajasthan,GEN
+806,"Jaipur Rural",Rajasthan,SC
+807,Jaipur,Rajasthan,SC
+808,Alwar,Rajasthan,GEN
+809,BHARATPUR,Rajasthan,SC
+810,KARAULI-DHOLPUR,Rajasthan,GEN
+811,Dausa,Rajasthan,SC
+812,"TONK-SAWAI MADHOPUR",Rajasthan,GEN
+813,Ajmer,Rajasthan,GEN
+814,Nagaur,Rajasthan,GEN
+815,Pali,Rajasthan,SC
+816,Jodhpur,Rajasthan,GEN
+817,Barmer,Rajasthan,SC
+818,Jalore,Rajasthan,GEN
+819,Udaipur,Rajasthan,GEN
+820,Banswara,Rajasthan,SC
+821,Chittorgarh,Rajasthan,SC
+822,Rajsamand,Rajasthan,GEN
+823,Bhilwara,Rajasthan,GEN
+824,Kota,Rajasthan,GEN
+825,JHALAWAR-BARAN,Rajasthan,SC
+901,Saharanpur,"Uttar Pradesh",GEN
+902,Kairana,"Uttar Pradesh",SC
+903,Muzaffarnagar,"Uttar Pradesh",GEN
+904,Bijnor,"Uttar Pradesh",GEN
+905,Nagina,"Uttar Pradesh",GEN
+906,Moradabad,"Uttar Pradesh",GEN
+907,Rampur,"Uttar Pradesh",GEN
+908,Sambhal,"Uttar Pradesh",ST
+909,Amroha,"Uttar Pradesh",GEN
+910,Meerut,"Uttar Pradesh",GEN
+911,Baghpat,"Uttar Pradesh",GEN
+912,Ghaziabad,"Uttar Pradesh",GEN
+913,"Gautam Buddha Nagar","Uttar Pradesh",SC
+914,Bulandshahr,"Uttar Pradesh",SC
+915,Aligarh,"Uttar Pradesh",GEN
+916,Hathras,"Uttar Pradesh",GEN
+917,Mathura,"Uttar Pradesh",GEN
+918,Agra,"Uttar Pradesh",GEN
+919,"Fatehpur Sikri","Uttar Pradesh",GEN
+920,Firozabad,"Uttar Pradesh",SC
+921,Mainpuri,"Uttar Pradesh",GEN
+922,Etah,"Uttar Pradesh",GEN
+923,Badaun,"Uttar Pradesh",GEN
+924,Aonla,"Uttar Pradesh",GEN
+925,Bareilly,"Uttar Pradesh",SC
+926,Pilibhit,"Uttar Pradesh",SC
+927,Shahjahanpur,"Uttar Pradesh",SC
+928,Kheri,"Uttar Pradesh",ST
+929,Dhaurahra,"Uttar Pradesh",SC
+930,Sitapur,"Uttar Pradesh",GEN
+931,Hardoi,"Uttar Pradesh",GEN
+932,Misrikh,"Uttar Pradesh",GEN
+933,Unnao,"Uttar Pradesh",GEN
+934,Mohanlalganj,"Uttar Pradesh",GEN
+935,Lucknow,"Uttar Pradesh",GEN
+936,"Rae Bareli","Uttar Pradesh",GEN
+937,Amethi,"Uttar Pradesh",GEN
+938,Sultanpur,"Uttar Pradesh",GEN
+939,Pratapgarh,"Uttar Pradesh",SC
+940,Farrukhabad,"Uttar Pradesh",SC
+941,Etawah,"Uttar Pradesh",GEN
+942,Kannauj,"Uttar Pradesh",SC
+943,Kanpur,"Uttar Pradesh",GEN
+944,Akbarpur,"Uttar Pradesh",GEN
+945,Jalaun,"Uttar Pradesh",SC
+946,Jhansi,"Uttar Pradesh",SC
+947,Hamirpur,"Uttar Pradesh",GEN
+948,Banda,"Uttar Pradesh",GEN
+949,Fatehpur,"Uttar Pradesh",GEN
+950,Kaushambi,"Uttar Pradesh",GEN
+951,Phulpur,"Uttar Pradesh",GEN
+952,Allahabad,"Uttar Pradesh",GEN
+953,Barabanki,"Uttar Pradesh",GEN
+954,Faizabad,"Uttar Pradesh",SC
+955,"Ambedkar Nagar","Uttar Pradesh",SC
+956,Bahraich,"Uttar Pradesh",GEN
+957,Kaiserganj,"Uttar Pradesh",GEN
+958,Shrawasti,"Uttar Pradesh",GEN
+959,Gonda,"Uttar Pradesh",ST
+960,Domariyaganj,"Uttar Pradesh",GEN
+961,Basti,"Uttar Pradesh",ST
+962,"Sant Kabir Nagar","Uttar Pradesh",GEN
+963,Maharajganj,"Uttar Pradesh",SC
+964,Gorakhpur,"Uttar Pradesh",SC
+965,"Kushi Nagar","Uttar Pradesh",GEN
+966,Deoria,"Uttar Pradesh",GEN
+967,Bansgaon,"Uttar Pradesh",SC
+968,Lalganj,"Uttar Pradesh",GEN
+969,Azamgarh,"Uttar Pradesh",ST
+970,Ghosi,"Uttar Pradesh",ST
+971,Salempur,"Uttar Pradesh",SC
+972,Ballia,"Uttar Pradesh",GEN
+973,Jaunpur,"Uttar Pradesh",GEN
+974,Machhlishahr,"Uttar Pradesh",GEN
+975,Ghazipur,"Uttar Pradesh",GEN
+976,Chandauli,"Uttar Pradesh",GEN
+977,Varanasi,"Uttar Pradesh",GEN
+978,Bhadohi,"Uttar Pradesh",ST
+979,Mirzapur,"Uttar Pradesh",ST
+980,Robertsganj,"Uttar Pradesh",ST
+1001,"Valmiki Nagar",Bihar,GEN
+1002,"Paschim Champaran",Bihar,GEN
+1003,"Purvi Champaran",Bihar,GEN
+1004,Sheohar,Bihar,GEN
+1005,Sitamarhi,Bihar,GEN
+1006,Madhubani,Bihar,GEN
+1007,Jhanjharpur,Bihar,SC
+1008,Supaul,Bihar,GEN
+1009,Araria,Bihar,SC
+1010,Kishanganj,Bihar,GEN
+1011,Katihar,Bihar,GEN
+1012,Purnia,Bihar,GEN
+1013,Madhepura,Bihar,GEN
+1014,Darbhanga,Bihar,GEN
+1015,Muzaffarpur,Bihar,GEN
+1016,Vaishali,Bihar,SC
+1017,Gopalganj,Bihar,GEN
+1018,Siwan,Bihar,GEN
+1019,Maharajganj,Bihar,GEN
+1020,Saran,Bihar,SC
+1021,Hajipur,Bihar,GEN
+1022,Ujiarpur,Bihar,SC
+1023,Samastipur,Bihar,GEN
+1024,Begusarai,Bihar,GEN
+1025,Khagaria,Bihar,GEN
+1026,Bhagalpur,Bihar,GEN
+1027,Banka,Bihar,SC
+1028,Munger,Bihar,GEN
+1029,Nalanda,Bihar,GEN
+1030,"Patna Sahib",Bihar,GEN
+1031,Pataliputra,Bihar,GEN
+1032,Arrah,Bihar,GEN
+1033,Buxar,Bihar,SC
+1034,Sasaram,Bihar,GEN
+1035,Karakat,Bihar,GEN
+1036,Jahanabad,Bihar,GEN
+1037,Aurangabad,Bihar,SC
+1038,Gaya,Bihar,GEN
+1039,Nawada,Bihar,SC
+1040,Jamui,Bihar,GEN
+1101,Sikkim,Sikkim,SC
+1201,"ARUNACHAL WEST","Arunachal Pradesh",ST
+1202,"ARUNACHAL EAST","Arunachal Pradesh",SC
+1301,Nagaland,Nagaland,SC
+1401,"Inner manipur",Manipur,SC
+1402,"Outer manipur",Manipur,SC
+1501,MIZORAM,Mizoram,SC
+1601,"Tripura West",Tripura,SC
+1602,"Tripura East",Tripura,GEN
+1701,Shillong,Meghalaya,GEN
+1702,Tura,Meghalaya,GEN
+1801,Karimganj,Assam,GEN
+1802,Silchar,Assam,ST
+1803,Diphu,Assam,GEN
+1804,Dhubri,Assam,ST
+1805,Kokrajhar,Assam,GEN
+1806,Barpeta,Assam,GEN
+1807,Guwahati,Assam,GEN
+1808,"Darrang - Udalguri",Assam,GEN
+1809,Sonitpur,Assam,GEN
+1810,Nowgong,Assam,GEN
+1811,Kaziranga,Assam,GEN
+1812,Jorhat,Assam,GEN
+1813,Dibrugarh,Assam,GEN
+1814,Lakhimpur,Assam,GEN
+1901,"Cooch behar","West Bengal",GEN
+1902,Alipurduars,"West Bengal",GEN
+1903,Jalpaiguri,"West Bengal",GEN
+1904,Darjeeling,"West Bengal",ST
+1905,Raiganj,"West Bengal",ST
+1906,Balurghat,"West Bengal",ST
+1907,"Maldaha Uttar","West Bengal",SC
+1908,"Maldaha Dakshin","West Bengal",GEN
+1909,Jangipur,"West Bengal",ST
+1910,Baharampur,"West Bengal",GEN
+1911,Murshidabad,"West Bengal",SC
+1912,Krishnanagar,"West Bengal",GEN
+1913,Ranaghat,"West Bengal",GEN
+1914,Bangaon,"West Bengal",ST
+1915,Barrackpore,"West Bengal",SC
+1916,"Dum dum","West Bengal",GEN
+1917,Barasat,"West Bengal",GEN
+1918,Basirhat,"West Bengal",GEN
+1919,Jaynagar,"West Bengal",GEN
+1920,Mathurapur,"West Bengal",GEN
+1921,"Diamond harbour","West Bengal",GEN
+1922,Jadavpur,"West Bengal",GEN
+1923,"Kolkata Dakshin","West Bengal",GEN
+1924,"Kolkata Uttar","West Bengal",GEN
+1925,Howrah,"West Bengal",SC
+1926,Uluberia,"West Bengal",GEN
+1927,Srerampur,"West Bengal",GEN
+1928,Hooghly,"West Bengal",SC
+1929,Arambagh,"West Bengal",ST
+1930,Tamluk,"West Bengal",GEN
+1931,Kanthi,"West Bengal",GEN
+1932,Ghatal,"West Bengal",GEN
+1933,Jhargram,"West Bengal",ST
+1934,Medinipur,"West Bengal",GEN
+1935,Purulia,"West Bengal",GEN
+1936,Bankura,"West Bengal",GEN
+1937,Bishnupur,"West Bengal",GEN
+1938,"Bardhaman Purba","West Bengal",GEN
+1939,"Bardhaman Durgapur","West Bengal",SC
+1940,Asansol,"West Bengal",GEN
+1941,Bolpur,"West Bengal",GEN
+1942,Birbhum,"West Bengal",ST
+2001,Rajmahal,Jharkhand,GEN
+2002,Dumka,Jharkhand,GEN
+2003,Godda,Jharkhand,SC
+2004,Chatra,Jharkhand,GEN
+2005,Kodarma,Jharkhand,GEN
+2006,Giridih,Jharkhand,GEN
+2007,Dhanbad,Jharkhand,SC
+2008,Ranchi,Jharkhand,GEN
+2009,Jamshedpur,Jharkhand,GEN
+2010,Singhbhum,Jharkhand,GEN
+2011,Khunti,Jharkhand,GEN
+2012,Lohardaga,Jharkhand,GEN
+2013,Palamu,Jharkhand,SC
+2014,Hazaribagh,Jharkhand,GEN
+2101,Bargarh,Odisha,GEN
+2102,Sundargarh,Odisha,GEN
+2103,Sambalpur,Odisha,GEN
+2104,Keonjhar,Odisha,GEN
+2105,Mayurbhanj,Odisha,GEN
+2106,Balasore,Odisha,SC
+2107,Bhadrak,Odisha,SC
+2108,Jajpur,Odisha,ST
+2109,Dhenkanal,Odisha,ST
+2110,Bolangir,Odisha,SC
+2111,Kalahandi,Odisha,GEN
+2112,Nabarangpur,Odisha,GEN
+2113,Kandhamal,Odisha,GEN
+2114,Cuttack,Odisha,GEN
+2115,Kendrapara,Odisha,GEN
+2116,Jagatsinghpur,Odisha,ST
+2117,Puri,Odisha,ST
+2118,Bhubaneswar,Odisha,GEN
+2119,Aska,Odisha,GEN
+2120,Berhampur,Odisha,GEN
+2121,Koraput,Odisha,GEN
+2201,SURGUJA,Chhattisgarh,SC
+2202,RAIGARH,Chhattisgarh,GEN
+2203,JANJGIR-CHAMPA,Chhattisgarh,GEN
+2204,KORBA,Chhattisgarh,SC
+2205,BILASPUR,Chhattisgarh,GEN
+2206,RAJNANDGAON,Chhattisgarh,GEN
+2207,DURG,Chhattisgarh,GEN
+2208,RAIPUR,Chhattisgarh,SC
+2209,MAHASAMUND,Chhattisgarh,GEN
+2210,BASTAR,Chhattisgarh,GEN
+2211,KANKER,Chhattisgarh,GEN
+2301,MORENA,"Madhya Pradesh",GEN
+2302,BHIND,"Madhya Pradesh",GEN
+2303,GWALIOR,"Madhya Pradesh",GEN
+2304,GUNA,"Madhya Pradesh",GEN
+2305,SAGAR,"Madhya Pradesh",SC
+2306,TIKAMGARH,"Madhya Pradesh",SC
+2307,DAMOH,"Madhya Pradesh",GEN
+2308,KHAJURAHO,"Madhya Pradesh",SC
+2309,SATNA,"Madhya Pradesh",GEN
+2310,REWA,"Madhya Pradesh",GEN
+2311,SIDHI,"Madhya Pradesh",ST
+2312,SHAHDOL,"Madhya Pradesh",GEN
+2313,JABALPUR,"Madhya Pradesh",ST
+2314,MANDLA,"Madhya Pradesh",ST
+2315,BALAGHAT,"Madhya Pradesh",GEN
+2316,CHHINDWARA,"Madhya Pradesh",GEN
+2317,HOSHANGABAD,"Madhya Pradesh",GEN
+2318,VIDISHA,"Madhya Pradesh",GEN
+2319,BHOPAL,"Madhya Pradesh",ST
+2320,RAJGARH,"Madhya Pradesh",SC
+2321,DEWAS,"Madhya Pradesh",ST
+2322,UJJAIN,"Madhya Pradesh",GEN
+2323,MANDSOUR,"Madhya Pradesh",GEN
+2324,RATLAM,"Madhya Pradesh",GEN
+2325,DHAR,"Madhya Pradesh",GEN
+2326,INDORE,"Madhya Pradesh",GEN
+2327,KHARGONE,"Madhya Pradesh",GEN
+2328,KHANDWA,"Madhya Pradesh",GEN
+2329,BETUL,"Madhya Pradesh",GEN
+2401,Kachchh,Gujarat,GEN
+2402,Banaskantha,Gujarat,GEN
+2403,Patan,Gujarat,GEN
+2404,Mahesana,Gujarat,ST
+2405,Sabarkantha,Gujarat,GEN
+2406,Gandhinagar,Gujarat,ST
+2407,"Ahmedabad East",Gujarat,ST
+2408,"Ahmedabad West",Gujarat,ST
+2409,Surendranagar,Gujarat,GEN
+2410,Rajkot,Gujarat,GEN
+2411,Porbandar,Gujarat,ST
+2412,Jamnagar,Gujarat,SC
+2413,Junagadh,Gujarat,GEN
+2414,Amreli,Gujarat,SC
+2415,Bhavnagar,Gujarat,GEN
+2416,Anand,Gujarat,GEN
+2417,Kheda,Gujarat,GEN
+2418,Panchmahal,Gujarat,GEN
+2419,Dahod,Gujarat,GEN
+2420,Vadodara,Gujarat,GEN
+2421,"Chhota Udaipur",Gujarat,GEN
+2422,Bharuch,Gujarat,ST
+2423,Bardoli,Gujarat,GEN
+2424,Surat,Gujarat,GEN
+2425,Navsari,Gujarat,SC
+2426,Valsad,Gujarat,GEN
+2501,"Daman and diu","Daman and Diu",GEN
+2601,"Dadra And Nagar Haveli","Dadra and Nagar Haveli",GEN
+2701,Nandurbar,Maharashtra,GEN
+2702,Dhule,Maharashtra,GEN
+2703,Jalgaon,Maharashtra,GEN
+2704,Raver,Maharashtra,GEN
+2705,Buldhana,Maharashtra,GEN
+2706,Akola,Maharashtra,GEN
+2707,Amravati,Maharashtra,GEN
+2708,Wardha,Maharashtra,SC
+2709,Ramtek,Maharashtra,GEN
+2710,Nagpur,Maharashtra,GEN
+2711,"Bhandara Gondiya",Maharashtra,SC
+2712,Gadchiroli-Chimur,Maharashtra,SC
+2713,Chandrapur,Maharashtra,SC
+2714,Yavatmal-Washim,Maharashtra,SC
+2715,Hingoli,Maharashtra,SC
+2716,Nanded,Maharashtra,GEN
+2717,Parbhani,Maharashtra,SC
+2718,Jalna,Maharashtra,SC
+2719,Aurangabad,Maharashtra,GEN
+2720,Dindori,Maharashtra,ST
+2721,Nashik,Maharashtra,ST
+2722,Palghar,Maharashtra,ST
+2723,Bhiwandi,Maharashtra,ST
+2724,Kalyan,Maharashtra,ST
+2725,Thane,Maharashtra,SC
+2726,"Mumbai North",Maharashtra,ST
+2727,"Mumbai North West",Maharashtra,GEN
+2728,"Mumbai North East",Maharashtra,ST
+2729,"Mumbai North central",Maharashtra,ST
+2730,"Mumbai South central",Maharashtra,GEN
+2731,"Mumbai South",Maharashtra,SC
+2732,Raigad,Maharashtra,SC
+2733,Maval,Maharashtra,GEN
+2734,Pune,Maharashtra,GEN
+2735,Baramati,Maharashtra,GEN
+2736,Shirur,Maharashtra,ST
+2737,Ahmednagar,Maharashtra,GEN
+2738,Shirdi,Maharashtra,GEN
+2739,Beed,Maharashtra,GEN
+2740,Osmanabad,Maharashtra,SC
+2741,Latur,Maharashtra,GEN
+2742,Solapur,Maharashtra,GEN
+2743,Madha,Maharashtra,GEN
+2744,Sangli,Maharashtra,GEN
+2745,Satara,Maharashtra,ST
+2746,"Ratnagiri - Sindhudurg",Maharashtra,GEN
+2747,Kolhapur,Maharashtra,GEN
+2748,Hatkanangle,Maharashtra,GEN
+2801,Adilabad,Telangana,GEN
+2802,Peddapalle,Telangana,GEN
+2803,Karimnagar,Telangana,GEN
+2804,Nizamabad,Telangana,GEN
+2805,Zahirabad,Telangana,GEN
+2806,Medak,Telangana,SC
+2807,Malkajgiri,Telangana,GEN
+2808,Secunderabad,Telangana,GEN
+2809,Hyderabad,Telangana,GEN
+2810,CHEVELLA,Telangana,SC
+2811,Mahabubnagar,Telangana,GEN
+2812,Nagarkurnool,Telangana,GEN
+2813,Nalgonda,Telangana,GEN
+2814,Bhongir,Telangana,GEN
+2815,Warangal,Telangana,SC
+2816,Mahabubabad,Telangana,GEN
+2817,Khammam,Telangana,GEN
+2818,Araku,"Andhra Pradesh",GEN
+2819,Srikakulam,"Andhra Pradesh",GEN
+2820,Vizianagaram,"Andhra Pradesh",GEN
+2821,Visakhapatnam,"Andhra Pradesh",GEN
+2822,Anakapalli,"Andhra Pradesh",GEN
+2823,Kakinada,"Andhra Pradesh",SC
+2824,Amalapuram,"Andhra Pradesh",GEN
+2825,Rajahmundry,"Andhra Pradesh",GEN
+2826,Narsapuram,"Andhra Pradesh",GEN
+2827,Eluru,"Andhra Pradesh",GEN
+2828,Machilipatnam,"Andhra Pradesh",GEN
+2829,Vijayawada,"Andhra Pradesh",GEN
+2830,Guntur,"Andhra Pradesh",GEN
+2831,Narasaraopet,"Andhra Pradesh",SC
+2832,Bapatla,"Andhra Pradesh",GEN
+2833,Ongole,"Andhra Pradesh",GEN
+2834,Nandyal,"Andhra Pradesh",GEN
+2835,Kurnool,"Andhra Pradesh",GEN
+2836,Anantapur,"Andhra Pradesh",GEN
+2837,Hindupur,"Andhra Pradesh",GEN
+2838,Kadapa,"Andhra Pradesh",GEN
+2839,Nellore,"Andhra Pradesh",SC
+2840,Tirupati,"Andhra Pradesh",GEN
+2841,Rajampet,"Andhra Pradesh",SC
+2842,Chittoor,"Andhra Pradesh",ST
+2901,Chikodi,Karnataka,GEN
+2902,Belagavi,Karnataka,GEN
+2903,Bagalkot,Karnataka,GEN
+2904,Bijapur,Karnataka,GEN
+2905,Gulbarga,Karnataka,GEN
+2906,Raichur,Karnataka,GEN
+2907,Bidar,Karnataka,GEN
+2908,Koppal,Karnataka,SC
+2909,Bellary,Karnataka,SC
+2910,Haveri,Karnataka,GEN
+2911,Dharwad,Karnataka,GEN
+2912,"Uttara Kannada",Karnataka,GEN
+2913,Davangere,Karnataka,GEN
+2914,Shimoga,Karnataka,GEN
+2915,"Udupi Chikmagalur",Karnataka,SC
+2916,Haasan,Karnataka,GEN
+2917,"Dakshina Kannada",Karnataka,GEN
+2918,Chitradurga,Karnataka,GEN
+2919,Tumkur,Karnataka,SC
+2920,Mandya,Karnataka,GEN
+2921,Mysore,Karnataka,SC
+2922,Chamarajanagar,Karnataka,GEN
+2923,"Bangalore Rural",Karnataka,GEN
+2924,"Bangalore North",Karnataka,GEN
+2925,"Bangalore central",Karnataka,SC
+2926,"Bangalore South",Karnataka,GEN
+2927,Chikballapur,Karnataka,GEN
+2928,Kolar,Karnataka,GEN
+3001,"North Goa",Goa,GEN
+3002,"South Goa",Goa,GEN
+3101,Lakshadweep,Lakshadweep,ST
+3201,Kasaragod,Kerala,GEN
+3202,Kannur,Kerala,GEN
+3203,Vadakara,Kerala,ST
+3204,Wayanad,Kerala,GEN
+3205,Kozhikode,Kerala,ST
+3206,Malappuram,Kerala,GEN
+3207,Ponnani,Kerala,GEN
+3208,Palakkad,Kerala,GEN
+3209,Alathur,Kerala,SC
+3210,Thrissur,Kerala,GEN
+3211,Chalakudy,Kerala,GEN
+3212,Ernakulam,Kerala,SC
+3213,Idukki,Kerala,SC
+3214,Kottayam,Kerala,SC
+3215,Alappuzha,Kerala,ST
+3216,Mavelikara,Kerala,ST
+3217,Pathanamthitta,Kerala,SC
+3218,Kollam,Kerala,ST
+3219,Attingal,Kerala,GEN
+3220,Thiruvananthapuram,Kerala,ST
+3301,Thiruvallur,"Tamil Nadu",GEN
+3302,"Chennai North","Tamil Nadu",GEN
+3303,"Chennai South","Tamil Nadu",ST
+3304,"Chennai central","Tamil Nadu",GEN
+3305,Sriperumbudur,"Tamil Nadu",GEN
+3306,Kancheepuram,"Tamil Nadu",GEN
+3307,Arakkonam,"Tamil Nadu",GEN
+3308,Vellore,"Tamil Nadu",GEN
+3309,Krishnagiri,"Tamil Nadu",SC
+3310,Dharmapuri,"Tamil Nadu",GEN
+3311,Tiruvannamalai,"Tamil Nadu",GEN
+3312,Arani,"Tamil Nadu",GEN
+3313,Viluppuram,"Tamil Nadu",GEN
+3314,Kallakurichi,"Tamil Nadu",GEN
+3315,Salem,"Tamil Nadu",GEN
+3316,Namakkal,"Tamil Nadu",GEN
+3317,Erode,"Tamil Nadu",GEN
+3318,Tiruppur,"Tamil Nadu",SC
+3319,Nilgiris,"Tamil Nadu",GEN
+3320,Coimbatore,"Tamil Nadu",SC
+3321,Pollachi,"Tamil Nadu",GEN
+3322,Dindigul,"Tamil Nadu",SC
+3323,Karur,"Tamil Nadu",GEN
+3324,Tiruchirappalli,"Tamil Nadu",GEN
+3325,Perambalur,"Tamil Nadu",GEN
+3326,Cuddalore,"Tamil Nadu",GEN
+3327,Chidambaram,"Tamil Nadu",GEN
+3328,Mayiladuthurai,"Tamil Nadu",GEN
+3329,Nagapattinam,"Tamil Nadu",ST
+3330,Thanjavur,"Tamil Nadu",GEN
+3331,Sivaganga,"Tamil Nadu",SC
+3332,Madurai,"Tamil Nadu",GEN
+3333,Theni,"Tamil Nadu",GEN
+3334,Virudhunagar,"Tamil Nadu",GEN
+3335,Ramanathapuram,"Tamil Nadu",SC
+3336,Thoothukudi,"Tamil Nadu",SC
+3337,Tenkasi,"Tamil Nadu",GEN
+3338,Tirunelveli,"Tamil Nadu",SC
+3339,Kanniyakumari,"Tamil Nadu",GEN
+3401,Puducherry,Puducherry,GEN
+3501,"Andaman and Nicobar Islands","Andaman and Nicobar Islands",ST

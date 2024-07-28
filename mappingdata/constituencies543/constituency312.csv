@@ -1,0 +1,28 @@
+party_id,cand_id,name,party_name
+BJP,cand15,ARVIND KHANNA,Bharatiya Janata Party
+IND,cand200,BALWINDER SINGH SEKHON,Independent
+IND,cand208,MANJIT KAUR SEKHON,Independent
+AEP2,cand280,PARDEEP KUMAR,Apni Ekta Party
+IND,cand286,RAJA SINGH,Independent
+IND,cand310,HAKAM BAKHTARIWALA,Independent
+AJP2,cand336,RANGI KHAN,Aam Janata Party
+IND,cand37,CHANNVEER SINGH,Independent
+SAD,cand423,IQBAL SINGH JHUNDAN,Shiromani Akali Dal
+IND,cand455,VIJAY SYAL,Independent
+SAD(M),cand505,SIMRANJIT SINGH MANN,Shiromani Akali Dal (Amritsar)(Simranjit Singh Mann)
+SAD(M),cand520,GEETINDER KAUR KAHLON,Shiromani Akali Dal (Amritsar)(Simranjit Singh Mann)
+IND,cand537,JASWANT SINGH,Independent
+IGP2,cand552,HARPREET KAUR,India Greens Party
+IND,cand574,BALWINDER SINGH,Independent
+AAP,cand582,GURMEET SINGH HAYER,Aam Aadmi Party
+NATJUP,cand648,JAGTAR SINGH,Nationalist Justice Party
+AJP3,cand679,KAMAL KUMAR VERMA,"Adarsh Janta Party,"
+IND,cand711,SUKHWINDER SINGH,Independent
+BSP,cand816,MAKHAN SINGH,Bahujan Samaj Party
+ASPR2,cand826,HARBHAJAN SINGH,Aazad Samaj Party (Kanshi Ram)
+IND,cand861,PAPPU KUMAR,Independent
+BJSAP,cand862,JILE SINGH,Bhartiya Jan Samman Party
+INC,cand868,SUKHPAL SINGH KHAIRA,Indian National Congress
+IND,cand882,AMANPREET SINGH,Independent
+PNP2,cand930,KRISHAN DEV,Punjab National Party
+NOTA,cand9173,None of the Above,NOTA

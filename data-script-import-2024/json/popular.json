@@ -1,0 +1,619 @@
+{
+  "Andaman and Nicobar Islands": {
+    "Andaman and Nicobar Islands": [
+      "cand9049",
+      "cand8626",
+      "cand7973"
+    ]
+  },
+  "Andhra Pradesh": {
+    "Amalapuram (SC)": [
+      "cand2761"
+    ],
+    "Anakapalle": [
+      "cand2712"
+    ],
+    "Kadapa": [
+      "cand4344"
+    ],
+    "Nandyal": [
+      "cand3232"
+    ],
+    "Rajahmundry": [
+      "cand3570",
+      "cand3968"
+    ],
+    "Rajampet": [
+      "cand3557"
+    ]
+  },
+  "Arunachal Pradesh": {
+    "Arunachal East": [
+      "cand7739",
+      "cand7595",
+      "cand7768"
+    ],
+    "Arunachal West": [
+      "cand8293",
+      "cand7652",
+      "cand7581"
+    ]
+  },
+  "Assam": {
+    "Dhubri": [
+      "cand5433"
+    ],
+    "Dibrugarh": [
+      "cand8364"
+    ],
+    "Nagaon": [
+      "cand6285"
+    ]
+  },
+  "Bihar": {
+    "Aurangabad": [
+      "cand7455"
+    ],
+    "Begusarai": [
+      "cand4615"
+    ],
+    "Darbhanga": [
+      "cand3908"
+    ],
+    "Gopalganj": [
+      "cand1505"
+    ],
+    "Hajipur": [
+      "cand2028"
+    ],
+    "Khagaria": [
+      "cand5981"
+    ],
+    "Madhubani": [
+      "cand2150"
+    ],
+    "Muzaffarpur": [
+      "cand2419"
+    ],
+    "Patliputra": [
+      "cand781",
+      "cand506"
+    ],
+    "Patna Sahib": [
+      "cand736"
+    ],
+    "Saran": [
+      "cand2567"
+    ],
+    "Valmiki Nagar": [
+      "cand1480"
+    ]
+  },
+  "Chandigarh": {
+    "Chandigarh": [
+      "cand612",
+      "cand275"
+    ]
+  },
+  "Chhattisgarh": {
+    "DURG": [
+      "cand5132"
+    ],
+    "RAJNANDGAON": [
+      "cand7178"
+    ],
+    "SURGUJA": [
+      "cand5233"
+    ]
+  },
+  "Dadra and Nagar Haveli and Daman and Diu": {
+    "Dadar and Nagar Haveli": [
+      "cand5408",
+      "cand5118"
+    ],
+    "Daman and Diu": [
+      "cand5198",
+      "cand5812",
+      "cand4864"
+    ]
+  },
+  "Goa": {
+    "North Goa": [
+      "cand5807",
+      "cand4559"
+    ],
+    "South Goa": [
+      "cand5007",
+      "cand5490"
+    ]
+  },
+  "Gujarat": {
+    "Anand": [
+      "cand5960"
+    ],
+    "Bharuch": [
+      "cand6009"
+    ],
+    "Gandhinagar": [
+      "cand5189"
+    ],
+    "Kheda": [
+      "cand5210"
+    ],
+    "Porbandar": [
+      "cand6023"
+    ]
+  },
+  "Haryana": {
+    "AMBALA": [
+      "cand1214"
+    ],
+    "BHIWANI-MAHENDRAGARH": [
+      "cand1474"
+    ],
+    "FARIDABAD": [
+      "cand1153"
+    ],
+    "KARNAL": [
+      "cand1160"
+    ],
+    "KURUKSHETRA": [
+      "cand1238",
+      "cand2082"
+    ],
+    "ROHTAK": [
+      "cand1679",
+      "cand1525"
+    ]
+  },
+  "Himachal Pradesh": {
+    "HAMIRPUR": [
+      "cand361",
+      "cand656"
+    ],
+    "MANDI": [
+      "cand105"
+    ],
+    "SHIMLA": [
+      "cand500"
+    ]
+  },
+  "Jammu and Kashmir": {
+    "ANANTNAG-RAJOURI": [
+      "cand5417"
+    ],
+    "BARAMULLA": [
+      "cand2051"
+    ],
+    "JAMMU": [
+      "cand7336"
+    ],
+    "UDHAMPUR": [
+      "cand9068"
+    ]
+  },
+  "Jharkhand": {
+    "Chatra": [
+      "cand1813"
+    ],
+    "Hazaribagh": [
+      "cand2126"
+    ],
+    "Khunti": [
+      "cand3911"
+    ],
+    "Rajmahal": [
+      "cand306"
+    ]
+  },
+  "Karnataka": {
+    "Bagalkot": [
+      "cand5352",
+      "cand4973"
+    ],
+    "Bangalore central": [
+      "cand6511"
+    ],
+    "Bangalore North": [
+      "cand6804"
+    ],
+    "Bangalore South": [
+      "cand6282"
+    ],
+    "Haveri": [
+      "cand4785"
+    ],
+    "Mandya": [
+      "cand6465"
+    ],
+    "Mysore": [
+      "cand6566"
+    ]
+  },
+  "Kerala": {
+    "Alappuzha": [
+      "cand6405"
+    ],
+    "Alathur": [
+      "cand6399"
+    ],
+    "Palakkad": [
+      "cand6178"
+    ],
+    "Thiruvananthapuram": [
+      "cand6354",
+      "cand6978"
+    ],
+    "Thrissur": [
+      "cand6843"
+    ],
+    "Wayanad": [
+      "cand6367",
+      "cand7055"
+    ]
+  },
+  "Ladakh": {
+    "Ladakh": [
+      "cand2391",
+      "cand1983"
+    ]
+  },
+  "Lakshadweep": {
+    "Lakshadweep": [
+      "cand7668",
+      "cand8046",
+      "cand7881"
+    ]
+  },
+  "Madhya Pradesh": {
+    "BHOPAL": [
+      "cand4995"
+    ],
+    "CHHINDWARA": [
+      "cand8678"
+    ],
+    "GUNA": [
+      "cand5915"
+    ],
+    "GWALIOR": [
+      "cand4737"
+    ],
+    "INDORE": [
+      "cand3062"
+    ],
+    "JABALPUR": [
+      "cand8260"
+    ],
+    "MORENA": [
+      "cand4883"
+    ],
+    "SATNA": [
+      "cand7066"
+    ],
+    "UJJAIN": [
+      "cand3292"
+    ],
+    "VIDISHA": [
+      "cand4630"
+    ]
+  },
+  "Maharashtra": {
+    "Ahmednagar": [
+      "cand4295"
+    ],
+    "Akola": [
+      "cand6272"
+    ],
+    "Beed": [
+      "cand3808"
+    ],
+    "Kolhapur": [
+      "cand5835"
+    ],
+    "Mumbai North": [
+      "cand2423"
+    ],
+    "Mumbai North Central": [
+      "cand1830"
+    ],
+    "Mumbai North East": [
+      "cand2675"
+    ],
+    "Nagpur": [
+      "cand8327"
+    ],
+    "Ratnagiri- Sindhudurg": [
+      "cand4979"
+    ]
+  },
+  "Manipur": {
+    "Inner Manipur": [
+      "cand7920",
+      "cand7615",
+      "cand7653"
+    ],
+    "Outer Manipur": [
+      "cand7698",
+      "cand8166"
+    ]
+  },
+  "Meghalaya": {
+    "Shillong": [
+      "cand8252"
+    ],
+    "Tura": [
+      "cand8608"
+    ]
+  },
+  "Mizoram": {
+    "MIZORAM": [
+      "cand7912",
+      "cand7827",
+      "cand8249",
+      "cand8568"
+    ]
+  },
+  "Nagaland": {
+    "Nagaland": [
+      "cand8998",
+      "cand8754",
+      "cand8660"
+    ]
+  },
+  "NCT OF Delhi": {
+    "Chandni Chowk": [
+      "cand1447",
+      "cand1571"
+    ],
+    "East Delhi": [
+      "cand961",
+      "cand1543"
+    ],
+    "New Delhi": [
+      "cand1069",
+      "cand1129"
+    ],
+    "North-East Delhi": [
+      "cand1623",
+      "cand1379"
+    ],
+    "South Delhi": [
+      "cand1635"
+    ],
+    "West Delhi": [
+      "cand1176",
+      "cand2169"
+    ]
+  },
+  "Odisha": {
+    "Kandhamal": [
+      "cand2011"
+    ],
+    "Kendrapara": [
+      "cand602"
+    ],
+    "Koraput": [
+      "cand5139"
+    ],
+    "Puri": [
+      "cand1125"
+    ],
+    "Sundargarh": [
+      "cand2097"
+    ]
+  },
+  "Puducherry": {
+    "PUDUCHERRY": [
+      "cand7697"
+    ]
+  },
+  "Punjab": {
+    "Amritsar": [
+      "cand161"
+    ],
+    "Bathinda": [
+      "cand524"
+    ],
+    "Jalandhar": [
+      "cand89",
+      "cand633",
+      "cand453"
+    ],
+    "Ludhiana": [
+      "cand129"
+    ],
+    "Sangrur": [
+      "cand505"
+    ]
+  },
+  "Rajasthan": {
+    "BANSWARA": [
+      "cand6177"
+    ],
+    "BARMER": [
+      "cand6431"
+    ],
+    "BHILWARA": [
+      "cand6700"
+    ],
+    "BIKANER": [
+      "cand7937"
+    ],
+    "CHITTORGARH": [
+      "cand7112"
+    ],
+    "DAUSA": [
+      "cand7599"
+    ],
+    "JAIPUR": [
+      "cand7933"
+    ],
+    "JALORE": [
+      "cand6494"
+    ],
+    "JHALAWAR-BARAN": [
+      "cand6847"
+    ],
+    "JODHPUR": [
+      "cand7319"
+    ],
+    "KOTA": [
+      "cand6349"
+    ],
+    "SIKAR": [
+      "cand8409"
+    ],
+    "TONK-SAWAI MADHOPUR": [
+      "cand6558"
+    ]
+  },
+  "Sikkim": {
+    "Sikkim": [
+      "cand8266",
+      "cand7664",
+      "cand7834"
+    ]
+  },
+  "Tamil Nadu": {
+    "CHENNAI CENTRAL": [
+      "cand8026"
+    ],
+    "CHENNAI NORTH": [
+      "cand8862"
+    ],
+    "CHENNAI SOUTH": [
+      "cand8822"
+    ],
+    "CHIDAMBARAM": [
+      "cand8302"
+    ],
+    "COIMBATORE": [
+      "cand7542"
+    ],
+    "CUDDALORE": [
+      "cand8962"
+    ],
+    "DHARMAPURI": [
+      "cand7994"
+    ],
+    "KANNIYAKUMARI": [
+      "cand7587"
+    ],
+    "KARUR": [
+      "cand8020"
+    ]
+  },
+  "Telangana": {
+    "Chevella": [
+      "cand3576"
+    ],
+    "Hyderabad": [
+      "cand4116",
+      "cand3321"
+    ],
+    "Karimnagar": [
+      "cand2974"
+    ],
+    "Khammam": [
+      "cand2982"
+    ],
+    "Mahabubabad": [
+      "cand2707"
+    ],
+    "Mahbubnagar": [
+      "cand3012"
+    ],
+    "Malkajgiri": [
+      "cand3836"
+    ],
+    "Nizamabad": [
+      "cand3345"
+    ],
+    "Secunderabad": [
+      "cand5042"
+    ]
+  },
+  "Tripura": {
+    "Tripura East": [
+      "cand7483",
+      "cand7125"
+    ],
+    "Tripura West": [
+      "cand7373",
+      "cand7372"
+    ]
+  },
+  "Uttar Pradesh": {
+    "Amethi": [
+      "cand1611"
+    ],
+    "Domariyaganj": [
+      "cand1064"
+    ],
+    "Firozabad": [
+      "cand5607"
+    ],
+    "Gorakhpur": [
+      "cand682"
+    ],
+    "Hardoi": [
+      "cand4124"
+    ],
+    "Jhansi": [
+      "cand2438"
+    ],
+    "Kannauj": [
+      "cand3140"
+    ],
+    "Lucknow": [
+      "cand1434"
+    ],
+    "Mainpuri": [
+      "cand4581"
+    ],
+    "Mathura": [
+      "cand6313"
+    ],
+    "Meerut": [
+      "cand7084"
+    ],
+    "Rae Bareli": [
+      "cand1597"
+    ],
+    "Sultanpur": [
+      "cand2376"
+    ],
+    "Varanasi": [
+      "cand260"
+    ]
+  },
+  "Uttarakhand": {
+    "Haridwar": [
+      "cand8591",
+      "cand8147"
+    ]
+  },
+  "West Bengal": {
+    "Asansol": [
+      "cand4211"
+    ],
+    "Baharampur": [
+      "cand4325"
+    ],
+    "Balurghat": [
+      "cand7303"
+    ],
+    "Bardhaman-Durgapur": [
+      "cand3987"
+    ],
+    "Jadavpur": [
+      "cand828"
+    ],
+    "Krishnanagar": [
+      "cand4782"
+    ],
+    "Maldaha Uttar": [
+      "cand5888"
+    ]
+  }
+}

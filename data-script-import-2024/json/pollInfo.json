@@ -1,0 +1,3861 @@
+{
+  "Andaman and Nicobar Islands": {
+    "andaman and nicobar islands": {
+      "electors": 315148,
+      "poll_percent": "64.1",
+      "votes": 202018,
+      "phase": 1,
+      "date": "19-04-2024"
+    }
+  },
+  "Arunachal Pradesh": {
+    "arunachal east": {
+      "electors": 375310,
+      "poll_percent": "83.31",
+      "votes": 312658,
+      "phase": 1,
+      "date": "19-04-2024"
+    },
+    "arunachal west": {
+      "electors": 517384,
+      "poll_percent": "73.6",
+      "votes": 380783,
+      "phase": 1,
+      "date": "19-04-2024"
+    }
+  },
+  "Assam": {
+    "dibrugarh": {
+      "electors": 1659588,
+      "poll_percent": "76.75",
+      "votes": 1273744,
+      "phase": 1,
+      "date": "19-04-2024"
+    },
+    "jorhat": {
+      "electors": 1727121,
+      "poll_percent": "79.89",
+      "votes": 1379749,
+      "phase": 1,
+      "date": "19-04-2024"
+    },
+    "kaziranga": {
+      "electors": 2050126,
+      "poll_percent": "79.33",
+      "votes": 1626408,
+      "phase": 1,
+      "date": "19-04-2024"
+    },
+    "lakhimpur": {
+      "electors": 1577234,
+      "poll_percent": "76.42",
+      "votes": 1205331,
+      "phase": 1,
+      "date": "19-04-2024"
+    },
+    "sonitpur": {
+      "electors": 1633800,
+      "poll_percent": "78.46",
+      "votes": 1281959,
+      "phase": 1,
+      "date": "19-04-2024"
+    },
+    "darrang - udalguri": {
+      "electors": 2209314,
+      "poll_percent": "82.01",
+      "votes": 1811764,
+      "phase": 2,
+      "date": "26-04-2024"
+    },
+    "diphu": {
+      "electors": 901032,
+      "poll_percent": "75.74",
+      "votes": 682441,
+      "phase": 2,
+      "date": "26-04-2024"
+    },
+    "karimganj": {
+      "electors": 1412148,
+      "poll_percent": "80.48",
+      "votes": 1136538,
+      "phase": 2,
+      "date": "26-04-2024"
+    },
+    "nowgong": {
+      "electors": 1817204,
+      "poll_percent": "84.97",
+      "votes": 1544081,
+      "phase": 2,
+      "date": "26-04-2024"
+    },
+    "silchar": {
+      "electors": 1369578,
+      "poll_percent": "79.05",
+      "votes": 1082616,
+      "phase": 2,
+      "date": "26-04-2024"
+    },
+    "barpeta": {
+      "electors": 1966847,
+      "poll_percent": "85.24",
+      "votes": 1676633,
+      "phase": 3,
+      "date": "07-05-2024"
+    },
+    "dhubri": {
+      "electors": 2660827,
+      "poll_percent": "92.08",
+      "votes": 2450041,
+      "phase": 3,
+      "date": "07-05-2024"
+    },
+    "guwahati": {
+      "electors": 2036846,
+      "poll_percent": "78.39",
+      "votes": 1596664,
+      "phase": 3,
+      "date": "07-05-2024"
+    },
+    "kokrajhar": {
+      "electors": 1484571,
+      "poll_percent": "83.55",
+      "votes": 1240306,
+      "phase": 3,
+      "date": "07-05-2024"
+    }
+  },
+  "Bihar": {
+    "aurangabad": {
+      "electors": 1871564,
+      "poll_percent": "50.35",
+      "votes": 942382,
+      "phase": 1,
+      "date": "19-04-2024"
+    },
+    "gaya": {
+      "electors": 1816815,
+      "poll_percent": "52.76",
+      "votes": 958623,
+      "phase": 1,
+      "date": "19-04-2024"
+    },
+    "jamui": {
+      "electors": 1907126,
+      "poll_percent": "51.25",
+      "votes": 977369,
+      "phase": 1,
+      "date": "19-04-2024"
+    },
+    "nawada": {
+      "electors": 2006124,
+      "poll_percent": "43.17",
+      "votes": 866102,
+      "phase": 1,
+      "date": "19-04-2024"
+    },
+    "banka": {
+      "electors": 1856566,
+      "poll_percent": "54.48",
+      "votes": 1011513,
+      "phase": 2,
+      "date": "26-04-2024"
+    },
+    "bhagalpur": {
+      "electors": 1983031,
+      "poll_percent": "53.5",
+      "votes": 1060982,
+      "phase": 2,
+      "date": "26-04-2024"
+    },
+    "katihar": {
+      "electors": 1833009,
+      "poll_percent": "63.76",
+      "votes": 1168752,
+      "phase": 2,
+      "date": "26-04-2024"
+    },
+    "kishanganj": {
+      "electors": 1829994,
+      "poll_percent": "62.84",
+      "votes": 1149988,
+      "phase": 2,
+      "date": "26-04-2024"
+    },
+    "purnia": {
+      "electors": 1893698,
+      "poll_percent": "63.08",
+      "votes": 1194484,
+      "phase": 2,
+      "date": "26-04-2024"
+    },
+    "araria": {
+      "electors": 2018767,
+      "poll_percent": "61.93",
+      "votes": 1250261,
+      "phase": 3,
+      "date": "07-05-2024"
+    },
+    "jhanjharpur": {
+      "electors": 2003040,
+      "poll_percent": "54.48",
+      "votes": 1091258,
+      "phase": 3,
+      "date": "07-05-2024"
+    },
+    "khagaria": {
+      "electors": 1840217,
+      "poll_percent": "57.52",
+      "votes": 1058539,
+      "phase": 3,
+      "date": "07-05-2024"
+    },
+    "madhepura": {
+      "electors": 2071166,
+      "poll_percent": "58.29",
+      "votes": 1207368,
+      "phase": 3,
+      "date": "07-05-2024"
+    },
+    "supaul": {
+      "electors": 1927207,
+      "poll_percent": "63.55",
+      "votes": 1224821,
+      "phase": 3,
+      "date": "07-05-2024"
+    },
+    "begusarai": {
+      "electors": 2196089,
+      "poll_percent": "58.7",
+      "votes": 1289076,
+      "phase": 4,
+      "date": "13-05-2024"
+    },
+    "darbhanga": {
+      "electors": 1781356,
+      "poll_percent": "57.37",
+      "votes": 1021962,
+      "phase": 4,
+      "date": "13-05-2024"
+    },
+    "munger": {
+      "electors": 2042279,
+      "poll_percent": "55.55",
+      "votes": 1134548,
+      "phase": 4,
+      "date": "13-05-2024"
+    },
+    "samastipur": {
+      "electors": 1818530,
+      "poll_percent": "60.11",
+      "votes": 1093182,
+      "phase": 4,
+      "date": "13-05-2024"
+    },
+    "ujiarpur": {
+      "electors": 1745408,
+      "poll_percent": "59.59",
+      "votes": 1040026,
+      "phase": 4,
+      "date": "13-05-2024"
+    },
+    "hajipur": {
+      "electors": 1967094,
+      "poll_percent": "58.43",
+      "votes": 1149406,
+      "phase": 5,
+      "date": "20-05-2024"
+    },
+    "madhubani": {
+      "electors": 1934980,
+      "poll_percent": "53.04",
+      "votes": 1026408,
+      "phase": 5,
+      "date": "20-05-2024"
+    },
+    "muzaffarpur": {
+      "electors": 1866106,
+      "poll_percent": "59.47",
+      "votes": 1109688,
+      "phase": 5,
+      "date": "20-05-2024"
+    },
+    "saran": {
+      "electors": 1795010,
+      "poll_percent": "56.73",
+      "votes": 1018366,
+      "phase": 5,
+      "date": "20-05-2024"
+    },
+    "sitamarhi": {
+      "electors": 1947996,
+      "poll_percent": "56.21",
+      "votes": 1094885,
+      "phase": 5,
+      "date": "20-05-2024"
+    },
+    "gopalganj": {
+      "electors": 2024673,
+      "poll_percent": "52.32",
+      "votes": 1059298,
+      "phase": 6,
+      "date": "25-05-2024"
+    },
+    "maharajganj": {
+      "electors": 1934937,
+      "poll_percent": "52.27",
+      "votes": 1011421,
+      "phase": 6,
+      "date": "25-05-2024"
+    },
+    "paschim champaran": {
+      "electors": 1756078,
+      "poll_percent": "61.62",
+      "votes": 1082178,
+      "phase": 6,
+      "date": "25-05-2024"
+    },
+    "purvi champaran": {
+      "electors": 1790761,
+      "poll_percent": "59.68",
+      "votes": 1068642,
+      "phase": 6,
+      "date": "25-05-2024"
+    },
+    "sheohar": {
+      "electors": 1832745,
+      "poll_percent": "57.4",
+      "votes": 1052021,
+      "phase": 6,
+      "date": "25-05-2024"
+    },
+    "siwan": {
+      "electors": 1896512,
+      "poll_percent": "52.49",
+      "votes": 995416,
+      "phase": 6,
+      "date": "25-05-2024"
+    },
+    "vaishali": {
+      "electors": 1869178,
+      "poll_percent": "62.59",
+      "votes": 1170009,
+      "phase": 6,
+      "date": "25-05-2024"
+    },
+    "valmiki nagar": {
+      "electors": 1827281,
+      "poll_percent": "60.19",
+      "votes": 1099781,
+      "phase": 6,
+      "date": "25-05-2024"
+    },
+    "arrah": {
+      "electors": 2165574,
+      "poll_percent": "50.27",
+      "votes": 1088634,
+      "phase": 7,
+      "date": "01-06-2024"
+    },
+    "buxar": {
+      "electors": 1923164,
+      "poll_percent": "55.39",
+      "votes": 1065241,
+      "phase": 7,
+      "date": "01-06-2024"
+    },
+    "jahanabad": {
+      "electors": 1670327,
+      "poll_percent": "55.09",
+      "votes": 920183,
+      "phase": 7,
+      "date": "01-06-2024"
+    },
+    "karakat": {
+      "electors": 1881191,
+      "poll_percent": "54.68",
+      "votes": 1028635,
+      "phase": 7,
+      "date": "01-06-2024"
+    },
+    "nalanda": {
+      "electors": 2288240,
+      "poll_percent": "49.78",
+      "votes": 1139086,
+      "phase": 7,
+      "date": "01-06-2024"
+    },
+    "pataliputra": {
+      "electors": 2073685,
+      "poll_percent": "59.24",
+      "votes": 1228451,
+      "phase": 7,
+      "date": "01-06-2024"
+    },
+    "patna sahib": {
+      "electors": 2292045,
+      "poll_percent": "46.85",
+      "votes": 1073823,
+      "phase": 7,
+      "date": "01-06-2024"
+    },
+    "sasaram": {
+      "electors": 1910368,
+      "poll_percent": "57.16",
+      "votes": 1091966,
+      "phase": 7,
+      "date": "01-06-2024"
+    }
+  },
+  "Chhattisgarh": {
+    "bastar": {
+      "electors": 1472207,
+      "poll_percent": "68.29",
+      "votes": 1005392,
+      "phase": 1,
+      "date": "19-04-2024"
+    },
+    "kanker": {
+      "electors": 1654440,
+      "poll_percent": "76.23",
+      "votes": 1261103,
+      "phase": 2,
+      "date": "26-04-2024"
+    },
+    "mahasamund": {
+      "electors": 1762477,
+      "poll_percent": "75.02",
+      "votes": 1322125,
+      "phase": 2,
+      "date": "26-04-2024"
+    },
+    "rajnandgaon": {
+      "electors": 1868021,
+      "poll_percent": "77.42",
+      "votes": 1446247,
+      "phase": 2,
+      "date": "26-04-2024"
+    },
+    "bilaspur": {
+      "electors": 2102687,
+      "poll_percent": "64.77",
+      "votes": 1361871,
+      "phase": 3,
+      "date": "07-05-2024"
+    },
+    "durg": {
+      "electors": 2090414,
+      "poll_percent": "73.68",
+      "votes": 1540193,
+      "phase": 3,
+      "date": "07-05-2024"
+    },
+    "janjgir-champa": {
+      "electors": 2056047,
+      "poll_percent": "67.56",
+      "votes": 1389012,
+      "phase": 3,
+      "date": "07-05-2024"
+    },
+    "korba": {
+      "electors": 1618864,
+      "poll_percent": "75.63",
+      "votes": 1224268,
+      "phase": 3,
+      "date": "07-05-2024"
+    },
+    "raigarh": {
+      "electors": 1838547,
+      "poll_percent": "78.85",
+      "votes": 1449673,
+      "phase": 3,
+      "date": "07-05-2024"
+    },
+    "raipur": {
+      "electors": 2375379,
+      "poll_percent": "66.82",
+      "votes": 1587116,
+      "phase": 3,
+      "date": "07-05-2024"
+    },
+    "surguja": {
+      "electors": 1819347,
+      "poll_percent": "79.89",
+      "votes": 1453444,
+      "phase": 3,
+      "date": "07-05-2024"
+    }
+  },
+  "Jammu and Kashmir": {
+    "udhampur": {
+      "electors": 1623195,
+      "poll_percent": "68.27",
+      "votes": 1108206,
+      "phase": 1,
+      "date": "19-04-2024"
+    },
+    "jammu": {
+      "electors": 1780835,
+      "poll_percent": "72.22",
+      "votes": 1286144,
+      "phase": 2,
+      "date": "26-04-2024"
+    },
+    "srinagar": {
+      "electors": 1747810,
+      "poll_percent": "38.49",
+      "votes": 672653,
+      "phase": 4,
+      "date": "13-05-2024"
+    },
+    "baramulla": {
+      "electors": 1737865,
+      "poll_percent": "59.1",
+      "votes": 1027084,
+      "phase": 5,
+      "date": "20-05-2024"
+    },
+    "anantnag": {
+      "electors": 1836576,
+      "poll_percent": "55.4",
+      "votes": 1017451,
+      "phase": 6,
+      "date": "25-05-2024"
+    }
+  },
+  "Lakshadweep": {
+    "lakshadweep": {
+      "electors": 57784,
+      "poll_percent": "84.16",
+      "votes": 48630,
+      "phase": 1,
+      "date": "19-04-2024"
+    }
+  },
+  "Madhya Pradesh": {
+    "balaghat": {
+      "electors": 1873653,
+      "poll_percent": "73.45",
+      "votes": 1376207,
+      "phase": 1,
+      "date": "19-04-2024"
+    },
+    "chhindwara": {
+      "electors": 1632190,
+      "poll_percent": "79.83",
+      "votes": 1303001,
+      "phase": 1,
+      "date": "19-04-2024"
+    },
+    "jabalpur": {
+      "electors": 1896346,
+      "poll_percent": "61",
+      "votes": 1156722,
+      "phase": 1,
+      "date": "19-04-2024"
+    },
+    "mandla": {
+      "electors": 2101811,
+      "poll_percent": "72.84",
+      "votes": 1530861,
+      "phase": 1,
+      "date": "19-04-2024"
+    },
+    "shahdol": {
+      "electors": 1777185,
+      "poll_percent": "64.68",
+      "votes": 1149506,
+      "phase": 1,
+      "date": "19-04-2024"
+    },
+    "sidhi": {
+      "electors": 2028451,
+      "poll_percent": "56.5",
+      "votes": 1146150,
+      "phase": 1,
+      "date": "19-04-2024"
+    },
+    "damoh": {
+      "electors": 1925314,
+      "poll_percent": "56.48",
+      "votes": 1087455,
+      "phase": 2,
+      "date": "26-04-2024"
+    },
+    "hoshangabad": {
+      "electors": 1855692,
+      "poll_percent": "67.21",
+      "votes": 1247298,
+      "phase": 2,
+      "date": "26-04-2024"
+    },
+    "khajuraho": {
+      "electors": 1997483,
+      "poll_percent": "56.97",
+      "votes": 1137867,
+      "phase": 2,
+      "date": "26-04-2024"
+    },
+    "rewa": {
+      "electors": 1852126,
+      "poll_percent": "49.43",
+      "votes": 915444,
+      "phase": 2,
+      "date": "26-04-2024"
+    },
+    "satna": {
+      "electors": 1705260,
+      "poll_percent": "61.94",
+      "votes": 1056175,
+      "phase": 2,
+      "date": "26-04-2024"
+    },
+    "tikamgarh": {
+      "electors": 1826585,
+      "poll_percent": "60",
+      "votes": 1096023,
+      "phase": 2,
+      "date": "26-04-2024"
+    },
+    "betul": {
+      "electors": 1895331,
+      "poll_percent": "73.53",
+      "votes": 1393608,
+      "phase": 3,
+      "date": "07-05-2024"
+    },
+    "bhind": {
+      "electors": 1900654,
+      "poll_percent": "54.93",
+      "votes": 1044022,
+      "phase": 3,
+      "date": "07-05-2024"
+    },
+    "bhopal": {
+      "electors": 2339411,
+      "poll_percent": "64.06",
+      "votes": 1498626,
+      "phase": 3,
+      "date": "07-05-2024"
+    },
+    "guna": {
+      "electors": 1889551,
+      "poll_percent": "72.43",
+      "votes": 1368554,
+      "phase": 3,
+      "date": "07-05-2024"
+    },
+    "gwalior": {
+      "electors": 2154601,
+      "poll_percent": "62.13",
+      "votes": 1338708,
+      "phase": 3,
+      "date": "07-05-2024"
+    },
+    "morena": {
+      "electors": 2006730,
+      "poll_percent": "58.97",
+      "votes": 1183282,
+      "phase": 3,
+      "date": "07-05-2024"
+    },
+    "rajgarh": {
+      "electors": 1875211,
+      "poll_percent": "76.04",
+      "votes": 1425911,
+      "phase": 3,
+      "date": "07-05-2024"
+    },
+    "sagar": {
+      "electors": 1745690,
+      "poll_percent": "65.75",
+      "votes": 1147866,
+      "phase": 3,
+      "date": "07-05-2024"
+    },
+    "vidisha": {
+      "electors": 1945404,
+      "poll_percent": "74.48",
+      "votes": 1449010,
+      "phase": 3,
+      "date": "07-05-2024"
+    },
+    "dewas": {
+      "electors": 1940472,
+      "poll_percent": "75.48",
+      "votes": 1464690,
+      "phase": 4,
+      "date": "13-05-2024"
+    },
+    "dhar": {
+      "electors": 1953834,
+      "poll_percent": "72.76",
+      "votes": 1421585,
+      "phase": 4,
+      "date": "13-05-2024"
+    },
+    "indore": {
+      "electors": 2526803,
+      "poll_percent": "61.67",
+      "votes": 1558341,
+      "phase": 4,
+      "date": "13-05-2024"
+    },
+    "khandwa": {
+      "electors": 2112203,
+      "poll_percent": "71.52",
+      "votes": 1510588,
+      "phase": 4,
+      "date": "13-05-2024"
+    },
+    "khargone": {
+      "electors": 2046030,
+      "poll_percent": "76.03",
+      "votes": 1555585,
+      "phase": 4,
+      "date": "13-05-2024"
+    },
+    "mandsour": {
+      "electors": 1898060,
+      "poll_percent": "75.27",
+      "votes": 1428623,
+      "phase": 4,
+      "date": "13-05-2024"
+    },
+    "ratlam": {
+      "electors": 2094548,
+      "poll_percent": "72.94",
+      "votes": 1527828,
+      "phase": 4,
+      "date": "13-05-2024"
+    },
+    "ujjain": {
+      "electors": 1798704,
+      "poll_percent": "73.82",
+      "votes": 1327715,
+      "phase": 4,
+      "date": "13-05-2024"
+    }
+  },
+  "Maharashtra": {
+    "bhandara gondiya": {
+      "electors": 1617207,
+      "poll_percent": "71.88",
+      "votes": 1162476,
+      "phase": 1,
+      "date": "19-04-2024"
+    },
+    "chandrapur": {
+      "electors": 1837906,
+      "poll_percent": "67.55",
+      "votes": 1241574,
+      "phase": 1,
+      "date": "19-04-2024"
+    },
+    "gadchiroli-chimur": {
+      "electors": 1617207,
+      "poll_percent": "71.88",
+      "votes": 1162476,
+      "phase": 1,
+      "date": "19-04-2024"
+    },
+    "nagpur": {
+      "electors": 2223281,
+      "poll_percent": "54.32",
+      "votes": 1207738,
+      "phase": 1,
+      "date": "19-04-2024"
+    },
+    "ramtek": {
+      "electors": 2049085,
+      "poll_percent": "61.01",
+      "votes": 1250190,
+      "phase": 1,
+      "date": "19-04-2024"
+    },
+    "akola": {
+      "electors": 1890814,
+      "poll_percent": "61.79",
+      "votes": 1168366,
+      "phase": 2,
+      "date": "26-04-2024"
+    },
+    "amravati": {
+      "electors": 1836078,
+      "poll_percent": "63.67",
+      "votes": 1169121,
+      "phase": 2,
+      "date": "26-04-2024"
+    },
+    "buldhana": {
+      "electors": 1782700,
+      "poll_percent": "62.03",
+      "votes": 1105761,
+      "phase": 2,
+      "date": "26-04-2024"
+    },
+    "hingoli": {
+      "electors": 1817734,
+      "poll_percent": "63.54",
+      "votes": 1154958,
+      "phase": 2,
+      "date": "26-04-2024"
+    },
+    "nanded": {
+      "electors": 1851843,
+      "poll_percent": "60.94",
+      "votes": 1128564,
+      "phase": 2,
+      "date": "26-04-2024"
+    },
+    "parbhani": {
+      "electors": 2123056,
+      "poll_percent": "62.26",
+      "votes": 1321868,
+      "phase": 2,
+      "date": "26-04-2024"
+    },
+    "wardha": {
+      "electors": 1682771,
+      "poll_percent": "64.85",
+      "votes": 1091351,
+      "phase": 2,
+      "date": "26-04-2024"
+    },
+    "yavatmal-washim": {
+      "electors": 1940916,
+      "poll_percent": "62.87",
+      "votes": 1220189,
+      "phase": 2,
+      "date": "26-04-2024"
+    },
+    "baramati": {
+      "electors": 2372668,
+      "poll_percent": "59.5",
+      "votes": 1411621,
+      "phase": 3,
+      "date": "07-05-2024"
+    },
+    "hatkanangle": {
+      "electors": 1814277,
+      "poll_percent": "71.11",
+      "votes": 1290073,
+      "phase": 3,
+      "date": "07-05-2024"
+    },
+    "kolhapur": {
+      "electors": 1936403,
+      "poll_percent": "71.59",
+      "votes": 1386230,
+      "phase": 3,
+      "date": "07-05-2024"
+    },
+    "latur": {
+      "electors": 1977042,
+      "poll_percent": "62.59",
+      "votes": 1237355,
+      "phase": 3,
+      "date": "07-05-2024"
+    },
+    "madha": {
+      "electors": 1991454,
+      "poll_percent": "63.65",
+      "votes": 1267530,
+      "phase": 3,
+      "date": "07-05-2024"
+    },
+    "osmanabad": {
+      "electors": 1992737,
+      "poll_percent": "63.88",
+      "votes": 1272969,
+      "phase": 3,
+      "date": "07-05-2024"
+    },
+    "raigad": {
+      "electors": 1668372,
+      "poll_percent": "60.51",
+      "votes": 1009567,
+      "phase": 3,
+      "date": "07-05-2024"
+    },
+    "ratnagiri - sindhudurg": {
+      "electors": 1451630,
+      "poll_percent": "62.52",
+      "votes": 907618,
+      "phase": 3,
+      "date": "07-05-2024"
+    },
+    "sangli": {
+      "electors": 1868174,
+      "poll_percent": "62.27",
+      "votes": 1163353,
+      "phase": 3,
+      "date": "07-05-2024"
+    },
+    "satara": {
+      "electors": 1889740,
+      "poll_percent": "63.16",
+      "votes": 1193492,
+      "phase": 3,
+      "date": "07-05-2024"
+    },
+    "solapur": {
+      "electors": 2030119,
+      "poll_percent": "59.19",
+      "votes": 1201586,
+      "phase": 3,
+      "date": "07-05-2024"
+    },
+    "ahmednagar": {
+      "electors": 1981866,
+      "poll_percent": "66.61",
+      "votes": 1320168,
+      "phase": 4,
+      "date": "13-05-2024"
+    },
+    "aurangabad": {
+      "electors": 2059710,
+      "poll_percent": "63.03",
+      "votes": 1298227,
+      "phase": 4,
+      "date": "13-05-2024"
+    },
+    "beed": {
+      "electors": 2142547,
+      "poll_percent": "70.92",
+      "votes": 1519526,
+      "phase": 4,
+      "date": "13-05-2024"
+    },
+    "jalgaon": {
+      "electors": 1994046,
+      "poll_percent": "58.47",
+      "votes": 1165968,
+      "phase": 4,
+      "date": "13-05-2024"
+    },
+    "jalna": {
+      "electors": 1967574,
+      "poll_percent": "69.18",
+      "votes": 1361226,
+      "phase": 4,
+      "date": "13-05-2024"
+    },
+    "maval": {
+      "electors": 2585018,
+      "poll_percent": "54.87",
+      "votes": 1418439,
+      "phase": 4,
+      "date": "13-05-2024"
+    },
+    "nandurbar": {
+      "electors": 1970327,
+      "poll_percent": "70.68",
+      "votes": 1392635,
+      "phase": 4,
+      "date": "13-05-2024"
+    },
+    "pune": {
+      "electors": 2061276,
+      "poll_percent": "53.54",
+      "votes": 1103678,
+      "phase": 4,
+      "date": "13-05-2024"
+    },
+    "raver": {
+      "electors": 1821750,
+      "poll_percent": "64.28",
+      "votes": 1170944,
+      "phase": 4,
+      "date": "13-05-2024"
+    },
+    "shirdi": {
+      "electors": 1677335,
+      "poll_percent": "63.03",
+      "votes": 1057298,
+      "phase": 4,
+      "date": "13-05-2024"
+    },
+    "shirur": {
+      "electors": 2539702,
+      "poll_percent": "54.16",
+      "votes": 1375593,
+      "phase": 4,
+      "date": "13-05-2024"
+    },
+    "bhiwandi": {
+      "electors": 2087244,
+      "poll_percent": "59.89",
+      "votes": 1250090,
+      "phase": 5,
+      "date": "20-05-2024"
+    },
+    "dhule": {
+      "electors": 2022061,
+      "poll_percent": "60.21",
+      "votes": 1217523,
+      "phase": 5,
+      "date": "20-05-2024"
+    },
+    "dindori": {
+      "electors": 1853387,
+      "poll_percent": "66.75",
+      "votes": 1237180,
+      "phase": 5,
+      "date": "20-05-2024"
+    },
+    "kalyan": {
+      "electors": 2082221,
+      "poll_percent": "50.12",
+      "votes": 1043610,
+      "phase": 5,
+      "date": "20-05-2024"
+    },
+    "mumbai north": {
+      "electors": 1811942,
+      "poll_percent": "57.02",
+      "votes": 1033241,
+      "phase": 5,
+      "date": "20-05-2024"
+    },
+    "mumbai north central": {
+      "electors": 1744128,
+      "poll_percent": "51.98",
+      "votes": 906530,
+      "phase": 5,
+      "date": "20-05-2024"
+    },
+    "mumbai north east": {
+      "electors": 1636890,
+      "poll_percent": "56.37",
+      "votes": 922760,
+      "phase": 5,
+      "date": "20-05-2024"
+    },
+    "mumbai north west": {
+      "electors": 1735088,
+      "poll_percent": "54.84",
+      "votes": 951580,
+      "phase": 5,
+      "date": "20-05-2024"
+    },
+    "mumbai south": {
+      "electors": 1536168,
+      "poll_percent": "50.06",
+      "votes": 769010,
+      "phase": 5,
+      "date": "20-05-2024"
+    },
+    "mumbai south central": {
+      "electors": 1474405,
+      "poll_percent": "53.6",
+      "votes": 790339,
+      "phase": 5,
+      "date": "20-05-2024"
+    },
+    "nashik": {
+      "electors": 2030124,
+      "poll_percent": "60.75",
+      "votes": 1233379,
+      "phase": 5,
+      "date": "20-05-2024"
+    },
+    "palghar": {
+      "electors": 2148514,
+      "poll_percent": "63.91",
+      "votes": 1373162,
+      "phase": 5,
+      "date": "20-05-2024"
+    },
+    "thane": {
+      "electors": 2507372,
+      "poll_percent": "52.09",
+      "votes": 1306194,
+      "phase": 5,
+      "date": "20-05-2024"
+    }
+  },
+  "Manipur": {
+    "udhampur": {
+      "electors": 1623195,
+      "poll_percent": "68.27",
+      "votes": 1108206,
+      "phase": 1,
+      "date": "19-04-2024"
+    },
+    "outer manipur": {
+      "electors": 484949,
+      "poll_percent": "85.11",
+      "votes": 412737,
+      "phase": 2,
+      "date": "26-04-2024"
+    }
+  },
+  "Meghalaya": {
+    "shillong": {
+      "electors": 1400411,
+      "poll_percent": "73.78",
+      "votes": 1033251,
+      "phase": 1,
+      "date": "19-04-2024"
+    },
+    "tura": {
+      "electors": 826156,
+      "poll_percent": "81.37",
+      "votes": 672284,
+      "phase": 1,
+      "date": "19-04-2024"
+    }
+  },
+  "Mizoram": {
+    "mizoram": {
+      "electors": 856364,
+      "poll_percent": "56.87",
+      "votes": 487013,
+      "phase": 1,
+      "date": "19-04-2024"
+    }
+  },
+  "Nagaland": {
+    "nagaland": {
+      "electors": 1317536,
+      "poll_percent": "57.72",
+      "votes": 760507,
+      "phase": 1,
+      "date": "19-04-2024"
+    }
+  },
+  "Puducherry": {
+    "puducherry": {
+      "electors": 1023699,
+      "poll_percent": "78.9",
+      "votes": 807724,
+      "phase": 1,
+      "date": "19-04-2024"
+    }
+  },
+  "Rajasthan": {
+    "alwar": {
+      "electors": 2059888,
+      "poll_percent": "60.07",
+      "votes": 1237446,
+      "phase": 1,
+      "date": "19-04-2024"
+    },
+    "bharatpur": {
+      "electors": 2114916,
+      "poll_percent": "52.8",
+      "votes": 1116742,
+      "phase": 1,
+      "date": "19-04-2024"
+    },
+    "bikaner": {
+      "electors": 2048399,
+      "poll_percent": "54.11",
+      "votes": 1108418,
+      "phase": 1,
+      "date": "19-04-2024"
+    },
+    "churu": {
+      "electors": 2213187,
+      "poll_percent": "63.61",
+      "votes": 1407716,
+      "phase": 1,
+      "date": "19-04-2024"
+    },
+    "dausa": {
+      "electors": 1899304,
+      "poll_percent": "55.72",
+      "votes": 1058386,
+      "phase": 1,
+      "date": "19-04-2024"
+    },
+    "ganganagar": {
+      "electors": 2102002,
+      "poll_percent": "66.59",
+      "votes": 1399688,
+      "phase": 1,
+      "date": "19-04-2024"
+    },
+    "jaipur": {
+      "electors": 2287350,
+      "poll_percent": "63.38",
+      "votes": 1449612,
+      "phase": 1,
+      "date": "19-04-2024"
+    },
+    "jaipur rural": {
+      "electors": 2184978,
+      "poll_percent": "56.7",
+      "votes": 1238818,
+      "phase": 1,
+      "date": "19-04-2024"
+    },
+    "jhunjhunu": {
+      "electors": 2068540,
+      "poll_percent": "52.93",
+      "votes": 1094900,
+      "phase": 1,
+      "date": "19-04-2024"
+    },
+    "karauli-dholpur": {
+      "electors": 1975352,
+      "poll_percent": "49.59",
+      "votes": 979618,
+      "phase": 1,
+      "date": "19-04-2024"
+    },
+    "nagaur": {
+      "electors": 2146725,
+      "poll_percent": "57.23",
+      "votes": 1228494,
+      "phase": 1,
+      "date": "19-04-2024"
+    },
+    "sikar": {
+      "electors": 2214900,
+      "poll_percent": "57.53",
+      "votes": 1274270,
+      "phase": 1,
+      "date": "19-04-2024"
+    },
+    "ajmer": {
+      "electors": 1995699,
+      "poll_percent": "59.66",
+      "votes": 1190561,
+      "phase": 2,
+      "date": "26-04-2024"
+    },
+    "banswara": {
+      "electors": 2200438,
+      "poll_percent": "73.88",
+      "votes": 1625731,
+      "phase": 2,
+      "date": "26-04-2024"
+    },
+    "barmer": {
+      "electors": 2206237,
+      "poll_percent": "75.93",
+      "votes": 1675276,
+      "phase": 2,
+      "date": "26-04-2024"
+    },
+    "bhilwara": {
+      "electors": 2147159,
+      "poll_percent": "60.37",
+      "votes": 1296228,
+      "phase": 2,
+      "date": "26-04-2024"
+    },
+    "chittorgarh": {
+      "electors": 2170167,
+      "poll_percent": "68.61",
+      "votes": 1488898,
+      "phase": 2,
+      "date": "26-04-2024"
+    },
+    "jalore": {
+      "electors": 2297328,
+      "poll_percent": "62.89",
+      "votes": 1444866,
+      "phase": 2,
+      "date": "26-04-2024"
+    },
+    "jhalawar-baran": {
+      "electors": 2030525,
+      "poll_percent": "69.71",
+      "votes": 1415420,
+      "phase": 2,
+      "date": "26-04-2024"
+    },
+    "jodhpur": {
+      "electors": 2132713,
+      "poll_percent": "64.27",
+      "votes": 1370616,
+      "phase": 2,
+      "date": "26-04-2024"
+    },
+    "kota": {
+      "electors": 2088023,
+      "poll_percent": "71.26",
+      "votes": 1487879,
+      "phase": 2,
+      "date": "26-04-2024"
+    },
+    "pali": {
+      "electors": 2343232,
+      "poll_percent": "57.19",
+      "votes": 1339989,
+      "phase": 2,
+      "date": "26-04-2024"
+    },
+    "rajsamand": {
+      "electors": 2060942,
+      "poll_percent": "58.39",
+      "votes": 1203299,
+      "phase": 2,
+      "date": "26-04-2024"
+    },
+    "tonk-sawai madhopur": {
+      "electors": 2148128,
+      "poll_percent": "56.58",
+      "votes": 1215309,
+      "phase": 2,
+      "date": "26-04-2024"
+    },
+    "udaipur": {
+      "electors": 2230971,
+      "poll_percent": "66.66",
+      "votes": 1487268,
+      "phase": 2,
+      "date": "26-04-2024"
+    }
+  },
+  "Sikkim": {
+    "sikkim": {
+      "electors": 464140,
+      "poll_percent": "79.88",
+      "votes": 370765,
+      "phase": 1,
+      "date": "19-04-2024"
+    }
+  },
+  "Tamil Nadu": {
+    "arakkonam": {
+      "electors": 1562871,
+      "poll_percent": "74.19",
+      "votes": 1159441,
+      "phase": 1,
+      "date": "19-04-2024"
+    },
+    "arani": {
+      "electors": 1496118,
+      "poll_percent": "75.76",
+      "votes": 1133520,
+      "phase": 1,
+      "date": "19-04-2024"
+    },
+    "chennai central": {
+      "electors": 1350161,
+      "poll_percent": "53.96",
+      "votes": 728614,
+      "phase": 1,
+      "date": "19-04-2024"
+    },
+    "chennai north": {
+      "electors": 1496224,
+      "poll_percent": "60.11",
+      "votes": 899367,
+      "phase": 1,
+      "date": "19-04-2024"
+    },
+    "chennai south": {
+      "electors": 2023133,
+      "poll_percent": "54.17",
+      "votes": 1096026,
+      "phase": 1,
+      "date": "19-04-2024"
+    },
+    "chidambaram": {
+      "electors": 1519847,
+      "poll_percent": "76.37",
+      "votes": 1160762,
+      "phase": 1,
+      "date": "19-04-2024"
+    },
+    "coimbatore": {
+      "electors": 2106124,
+      "poll_percent": "64.89",
+      "votes": 1366597,
+      "phase": 1,
+      "date": "19-04-2024"
+    },
+    "cuddalore": {
+      "electors": 1412746,
+      "poll_percent": "72.57",
+      "votes": 1025298,
+      "phase": 1,
+      "date": "19-04-2024"
+    },
+    "dharmapuri": {
+      "electors": 1524896,
+      "poll_percent": "81.2",
+      "votes": 1238184,
+      "phase": 1,
+      "date": "19-04-2024"
+    },
+    "dindigul": {
+      "electors": 1607051,
+      "poll_percent": "71.14",
+      "votes": 1143196,
+      "phase": 1,
+      "date": "19-04-2024"
+    },
+    "erode": {
+      "electors": 1538778,
+      "poll_percent": "70.59",
+      "votes": 1086287,
+      "phase": 1,
+      "date": "19-04-2024"
+    },
+    "kallakurichi": {
+      "electors": 1568681,
+      "poll_percent": "79.21",
+      "votes": 1242597,
+      "phase": 1,
+      "date": "19-04-2024"
+    },
+    "kancheepuram": {
+      "electors": 1748866,
+      "poll_percent": "71.68",
+      "votes": 1253582,
+      "phase": 1,
+      "date": "19-04-2024"
+    },
+    "kanniyakumari": {
+      "electors": 1557915,
+      "poll_percent": "65.44",
+      "votes": 1019532,
+      "phase": 1,
+      "date": "19-04-2024"
+    },
+    "karur": {
+      "electors": 1429790,
+      "poll_percent": "78.7",
+      "votes": 1125241,
+      "phase": 1,
+      "date": "19-04-2024"
+    },
+    "krishnagiri": {
+      "electors": 1623179,
+      "poll_percent": "71.5",
+      "votes": 1160498,
+      "phase": 1,
+      "date": "19-04-2024"
+    },
+    "madurai": {
+      "electors": 1582271,
+      "poll_percent": "62.04",
+      "votes": 981650,
+      "phase": 1,
+      "date": "19-04-2024"
+    },
+    "mayiladuthurai": {
+      "electors": 1545568,
+      "poll_percent": "70.09",
+      "votes": 1083243,
+      "phase": 1,
+      "date": "19-04-2024"
+    },
+    "nagapattinam": {
+      "electors": 1345120,
+      "poll_percent": "71.94",
+      "votes": 967694,
+      "phase": 1,
+      "date": "19-04-2024"
+    },
+    "namakkal": {
+      "electors": 1452562,
+      "poll_percent": "78.21",
+      "votes": 1136069,
+      "phase": 1,
+      "date": "19-04-2024"
+    },
+    "nilgiris": {
+      "electors": 1428387,
+      "poll_percent": "70.95",
+      "votes": 1013410,
+      "phase": 1,
+      "date": "19-04-2024"
+    },
+    "perambalur": {
+      "electors": 1446352,
+      "poll_percent": "77.43",
+      "votes": 1119881,
+      "phase": 1,
+      "date": "19-04-2024"
+    },
+    "pollachi": {
+      "electors": 1597467,
+      "poll_percent": "70.41",
+      "votes": 1124743,
+      "phase": 1,
+      "date": "19-04-2024"
+    },
+    "ramanathapuram": {
+      "electors": 1617688,
+      "poll_percent": "68.19",
+      "votes": 1103036,
+      "phase": 1,
+      "date": "19-04-2024"
+    },
+    "salem": {
+      "electors": 1658681,
+      "poll_percent": "78.16",
+      "votes": 1296481,
+      "phase": 1,
+      "date": "19-04-2024"
+    },
+    "sivaganga": {
+      "electors": 1633857,
+      "poll_percent": "64.26",
+      "votes": 1049887,
+      "phase": 1,
+      "date": "19-04-2024"
+    },
+    "sriperumbudur": {
+      "electors": 2382119,
+      "poll_percent": "60.25",
+      "votes": 1435243,
+      "phase": 1,
+      "date": "19-04-2024"
+    },
+    "tenkasi": {
+      "electors": 1525439,
+      "poll_percent": "67.65",
+      "votes": 1031961,
+      "phase": 1,
+      "date": "19-04-2024"
+    },
+    "thanjavur": {
+      "electors": 1501226,
+      "poll_percent": "68.27",
+      "votes": 1024949,
+      "phase": 1,
+      "date": "19-04-2024"
+    },
+    "theni": {
+      "electors": 1622949,
+      "poll_percent": "69.84",
+      "votes": 1133513,
+      "phase": 1,
+      "date": "19-04-2024"
+    },
+    "thoothukudi": {
+      "electors": 1458430,
+      "poll_percent": "66.88",
+      "votes": 975468,
+      "phase": 1,
+      "date": "19-04-2024"
+    },
+    "tiruchirappalli": {
+      "electors": 1553985,
+      "poll_percent": "67.51",
+      "votes": 1049093,
+      "phase": 1,
+      "date": "19-04-2024"
+    },
+    "tirunelveli": {
+      "electors": 1654503,
+      "poll_percent": "64.1",
+      "votes": 1060461,
+      "phase": 1,
+      "date": "19-04-2024"
+    },
+    "tiruppur": {
+      "electors": 1608521,
+      "poll_percent": "70.62",
+      "votes": 1135998,
+      "phase": 1,
+      "date": "19-04-2024"
+    },
+    "thiruvallur": {
+      "electors": 2085991,
+      "poll_percent": "68.59",
+      "votes": 1430738,
+      "phase": 1,
+      "date": "19-04-2024"
+    },
+    "tiruvannamalai": {
+      "electors": 1533099,
+      "poll_percent": "74.24",
+      "votes": 1138102,
+      "phase": 1,
+      "date": "19-04-2024"
+    },
+    "vellore": {
+      "electors": 1528273,
+      "poll_percent": "73.53",
+      "votes": 1123715,
+      "phase": 1,
+      "date": "19-04-2024"
+    },
+    "viluppuram": {
+      "electors": 1503115,
+      "poll_percent": "76.52",
+      "votes": 1150164,
+      "phase": 1,
+      "date": "19-04-2024"
+    },
+    "virudhunagar": {
+      "electors": 1501942,
+      "poll_percent": "70.22",
+      "votes": 1054634,
+      "phase": 1,
+      "date": "19-04-2024"
+    }
+  },
+  "Tripura": {
+    "tripura west": {
+      "electors": 1463526,
+      "poll_percent": "81.48",
+      "votes": 1192435,
+      "phase": 1,
+      "date": "19-04-2024"
+    },
+    "tripura east": {
+      "electors": 1396761,
+      "poll_percent": "80.36",
+      "votes": 1122424,
+      "phase": 2,
+      "date": "26-04-2024"
+    }
+  },
+  "Uttar Pradesh": {
+    "bijnor": {
+      "electors": 1738307,
+      "poll_percent": "58.73",
+      "votes": 1020947,
+      "phase": 1,
+      "date": "19-04-2024"
+    },
+    "kairana": {
+      "electors": 1722432,
+      "poll_percent": "62.46",
+      "votes": 1075839,
+      "phase": 1,
+      "date": "19-04-2024"
+    },
+    "moradabad": {
+      "electors": 2059578,
+      "poll_percent": "62.18",
+      "votes": 1280706,
+      "phase": 1,
+      "date": "19-04-2024"
+    },
+    "muzaffarnagar": {
+      "electors": 1817472,
+      "poll_percent": "59.13",
+      "votes": 1074608,
+      "phase": 1,
+      "date": "19-04-2024"
+    },
+    "nagina": {
+      "electors": 1644909,
+      "poll_percent": "60.75",
+      "votes": 999203,
+      "phase": 1,
+      "date": "19-04-2024"
+    },
+    "pilibhit": {
+      "electors": 1831699,
+      "poll_percent": "63.11",
+      "votes": 1155917,
+      "phase": 1,
+      "date": "19-04-2024"
+    },
+    "rampur": {
+      "electors": 1731836,
+      "poll_percent": "55.85",
+      "votes": 967200,
+      "phase": 1,
+      "date": "19-04-2024"
+    },
+    "saharanpur": {
+      "electors": 1855310,
+      "poll_percent": "66.14",
+      "votes": 1227083,
+      "phase": 1,
+      "date": "19-04-2024"
+    },
+    "aligarh": {
+      "electors": 1997234,
+      "poll_percent": "56.93",
+      "votes": 1137051,
+      "phase": 2,
+      "date": "26-04-2024"
+    },
+    "amroha": {
+      "electors": 1716641,
+      "poll_percent": "64.58",
+      "votes": 1108579,
+      "phase": 2,
+      "date": "26-04-2024"
+    },
+    "baghpat": {
+      "electors": 1653146,
+      "poll_percent": "56.16",
+      "votes": 928392,
+      "phase": 2,
+      "date": "26-04-2024"
+    },
+    "bulandshahr": {
+      "electors": 1859462,
+      "poll_percent": "56.42",
+      "votes": 1049189,
+      "phase": 2,
+      "date": "26-04-2024"
+    },
+    "gautam buddha nagar": {
+      "electors": 2675148,
+      "poll_percent": "53.63",
+      "votes": 1434667,
+      "phase": 2,
+      "date": "26-04-2024"
+    },
+    "ghaziabad": {
+      "electors": 2945487,
+      "poll_percent": "49.88",
+      "votes": 1469260,
+      "phase": 2,
+      "date": "26-04-2024"
+    },
+    "mathura": {
+      "electors": 929550,
+      "poll_percent": "49.41",
+      "votes": 953388,
+      "phase": 2,
+      "date": "26-04-2024"
+    },
+    "meerut": {
+      "electors": 3000530,
+      "poll_percent": "58.94",
+      "votes": 1179121,
+      "phase": 2,
+      "date": "26-04-2024"
+    },
+    "agra": {
+      "electors": 2072685,
+      "poll_percent": "54.08",
+      "votes": 1120864,
+      "phase": 3,
+      "date": "07-05-2024"
+    },
+    "aonla": {
+      "electors": 1891713,
+      "poll_percent": "57.44",
+      "votes": 1086687,
+      "phase": 3,
+      "date": "07-05-2024"
+    },
+    "badaun": {
+      "electors": 2008758,
+      "poll_percent": "54.35",
+      "votes": 1091697,
+      "phase": 3,
+      "date": "07-05-2024"
+    },
+    "bareilly": {
+      "electors": 1924434,
+      "poll_percent": "58.03",
+      "votes": 1116749,
+      "phase": 3,
+      "date": "07-05-2024"
+    },
+    "etah": {
+      "electors": 1700524,
+      "poll_percent": "59.31",
+      "votes": 1008533,
+      "phase": 3,
+      "date": "07-05-2024"
+    },
+    "fatehpur sikri": {
+      "electors": 1798823,
+      "poll_percent": "57.19",
+      "votes": 1028791,
+      "phase": 3,
+      "date": "07-05-2024"
+    },
+    "firozabad": {
+      "electors": 1890772,
+      "poll_percent": "58.53",
+      "votes": 1106747,
+      "phase": 3,
+      "date": "07-05-2024"
+    },
+    "hathras": {
+      "electors": 1938080,
+      "poll_percent": "55.71",
+      "votes": 1079731,
+      "phase": 3,
+      "date": "07-05-2024"
+    },
+    "mainpuri": {
+      "electors": 1790797,
+      "poll_percent": "58.73",
+      "votes": 1051758,
+      "phase": 3,
+      "date": "07-05-2024"
+    },
+    "sambhal": {
+      "electors": 1898202,
+      "poll_percent": "62.91",
+      "votes": 1194209,
+      "phase": 3,
+      "date": "07-05-2024"
+    },
+    "akbarpur": {
+      "electors": 1869167,
+      "poll_percent": "57.78",
+      "votes": 1079978,
+      "phase": 4,
+      "date": "13-05-2024"
+    },
+    "bahraich": {
+      "electors": 1838684,
+      "poll_percent": "57.42",
+      "votes": 1055818,
+      "phase": 4,
+      "date": "13-05-2024"
+    },
+    "dhaurahra": {
+      "electors": 1719345,
+      "poll_percent": "64.54",
+      "votes": 1109680,
+      "phase": 4,
+      "date": "13-05-2024"
+    },
+    "etawah": {
+      "electors": 1828498,
+      "poll_percent": "56.36",
+      "votes": 1030554,
+      "phase": 4,
+      "date": "13-05-2024"
+    },
+    "farrukhabad": {
+      "electors": 1747182,
+      "poll_percent": "59.08",
+      "votes": 1032244,
+      "phase": 4,
+      "date": "13-05-2024"
+    },
+    "hardoi": {
+      "electors": 1910485,
+      "poll_percent": "57.52",
+      "votes": 1098820,
+      "phase": 4,
+      "date": "13-05-2024"
+    },
+    "kannauj": {
+      "electors": 1988925,
+      "poll_percent": "61.08",
+      "votes": 1214886,
+      "phase": 4,
+      "date": "13-05-2024"
+    },
+    "kanpur": {
+      "electors": 1662859,
+      "poll_percent": "53.05",
+      "votes": 882074,
+      "phase": 4,
+      "date": "13-05-2024"
+    },
+    "kheri": {
+      "electors": 1870170,
+      "poll_percent": "64.68",
+      "votes": 1209621,
+      "phase": 4,
+      "date": "13-05-2024"
+    },
+    "misrikh": {
+      "electors": 1878195,
+      "poll_percent": "55.89",
+      "votes": 1049630,
+      "phase": 4,
+      "date": "13-05-2024"
+    },
+    "shahjahanpur": {
+      "electors": 2331834,
+      "poll_percent": "53.36",
+      "votes": 1244364,
+      "phase": 4,
+      "date": "13-05-2024"
+    },
+    "sitapur": {
+      "electors": 1759943,
+      "poll_percent": "62.54",
+      "votes": 1100741,
+      "phase": 4,
+      "date": "13-05-2024"
+    },
+    "unnao": {
+      "electors": 2341740,
+      "poll_percent": "55.46",
+      "votes": 1298677,
+      "phase": 4,
+      "date": "13-05-2024"
+    },
+    "amethi": {
+      "electors": 1796098,
+      "poll_percent": "54.34",
+      "votes": 976053,
+      "phase": 5,
+      "date": "20-05-2024"
+    },
+    "banda": {
+      "electors": 1747425,
+      "poll_percent": "59.7",
+      "votes": 1043256,
+      "phase": 5,
+      "date": "20-05-2024"
+    },
+    "barabanki": {
+      "electors": 1918491,
+      "poll_percent": "67.2",
+      "votes": 1289258,
+      "phase": 5,
+      "date": "20-05-2024"
+    },
+    "faizabad": {
+      "electors": 1927459,
+      "poll_percent": "59.14",
+      "votes": 1139882,
+      "phase": 5,
+      "date": "20-05-2024"
+    },
+    "fatehpur": {
+      "electors": 1938563,
+      "poll_percent": "57.09",
+      "votes": 1106690,
+      "phase": 5,
+      "date": "20-05-2024"
+    },
+    "gonda": {
+      "electors": 1843121,
+      "poll_percent": "51.62",
+      "votes": 951394,
+      "phase": 5,
+      "date": "20-05-2024"
+    },
+    "hamirpur": {
+      "electors": 1839761,
+      "poll_percent": "60.6",
+      "votes": 1114874,
+      "phase": 5,
+      "date": "20-05-2024"
+    },
+    "jalaun": {
+      "electors": 2006161,
+      "poll_percent": "56.18",
+      "votes": 1127112,
+      "phase": 5,
+      "date": "20-05-2024"
+    },
+    "jhansi": {
+      "electors": 2161221,
+      "poll_percent": "63.86",
+      "votes": 1380214,
+      "phase": 5,
+      "date": "20-05-2024"
+    },
+    "kaiserganj": {
+      "electors": 1904726,
+      "poll_percent": "55.68",
+      "votes": 1060576,
+      "phase": 5,
+      "date": "20-05-2024"
+    },
+    "kaushambi": {
+      "electors": 1909620,
+      "poll_percent": "52.8",
+      "votes": 1008255,
+      "phase": 5,
+      "date": "20-05-2024"
+    },
+    "lucknow": {
+      "electors": 2172171,
+      "poll_percent": "52.28",
+      "votes": 1135624,
+      "phase": 5,
+      "date": "20-05-2024"
+    },
+    "mohanlalganj": {
+      "electors": 2187232,
+      "poll_percent": "62.88",
+      "votes": 1375372,
+      "phase": 5,
+      "date": "20-05-2024"
+    },
+    "rae bareli": {
+      "electors": 1784314,
+      "poll_percent": "58.12",
+      "votes": 1036997,
+      "phase": 5,
+      "date": "20-05-2024"
+    },
+    "allahabad": {
+      "electors": 1825730,
+      "poll_percent": "51.82",
+      "votes": 946076,
+      "phase": 6,
+      "date": "25-05-2024"
+    },
+    "ambedkar nagar": {
+      "electors": 1911297,
+      "poll_percent": "61.58",
+      "votes": 1176920,
+      "phase": 6,
+      "date": "25-05-2024"
+    },
+    "azamgarh": {
+      "electors": 1868165,
+      "poll_percent": "56.16",
+      "votes": 1049205,
+      "phase": 6,
+      "date": "25-05-2024"
+    },
+    "basti": {
+      "electors": 1902898,
+      "poll_percent": "56.67",
+      "votes": 1078313,
+      "phase": 6,
+      "date": "25-05-2024"
+    },
+    "bhadohi": {
+      "electors": 2037925,
+      "poll_percent": "53.07",
+      "votes": 1081465,
+      "phase": 6,
+      "date": "25-05-2024"
+    },
+    "domariyaganj": {
+      "electors": 1961845,
+      "poll_percent": "51.97",
+      "votes": 1019548,
+      "phase": 6,
+      "date": "25-05-2024"
+    },
+    "jaunpur": {
+      "electors": 1977237,
+      "poll_percent": "55.59",
+      "votes": 1099223,
+      "phase": 6,
+      "date": "25-05-2024"
+    },
+    "lalganj": {
+      "electors": 1838882,
+      "poll_percent": "54.38",
+      "votes": 1000053,
+      "phase": 6,
+      "date": "25-05-2024"
+    },
+    "machhlishahr": {
+      "electors": 1940605,
+      "poll_percent": "54.49",
+      "votes": 1057361,
+      "phase": 6,
+      "date": "25-05-2024"
+    },
+    "phulpur": {
+      "electors": 2067043,
+      "poll_percent": "48.91",
+      "votes": 101099,
+      "phase": 6,
+      "date": "25-05-2024"
+    },
+    "pratapgarh": {
+      "electors": 1833312,
+      "poll_percent": "51.45",
+      "votes": 943245,
+      "phase": 6,
+      "date": "25-05-2024"
+    },
+    "sant kabir nagar": {
+      "electors": 2071964,
+      "poll_percent": "52.57",
+      "votes": 1089154,
+      "phase": 6,
+      "date": "25-05-2024"
+    },
+    "shrawasti": {
+      "electors": 1980381,
+      "poll_percent": "52.83",
+      "votes": 1046253,
+      "phase": 6,
+      "date": "25-05-2024"
+    },
+    "sultanpur": {
+      "electors": 1852590,
+      "poll_percent": "55.63",
+      "votes": 103583,
+      "phase": 6,
+      "date": "25-05-2024"
+    },
+    "bansgaon": {
+      "electors": 1820854,
+      "poll_percent": "51.79",
+      "votes": 943020,
+      "phase": 7,
+      "date": "01-06-2024"
+    },
+    "chandauli": {
+      "electors": 1843196,
+      "poll_percent": "60.58",
+      "votes": 1116608,
+      "phase": 7,
+      "date": "01-06-2024"
+    },
+    "deoria": {
+      "electors": 1873821,
+      "poll_percent": "55.51",
+      "votes": 1040158,
+      "phase": 7,
+      "date": "01-06-2024"
+    },
+    "ghazipur": {
+      "electors": 2074883,
+      "poll_percent": "55.45",
+      "votes": 1150523,
+      "phase": 7,
+      "date": "01-06-2024"
+    },
+    "ghosi": {
+      "electors": 2083928,
+      "poll_percent": "55.05",
+      "votes": 1147202,
+      "phase": 7,
+      "date": "01-06-2024"
+    },
+    "gorakhpur": {
+      "electors": 2097202,
+      "poll_percent": "54.93",
+      "votes": 1151993,
+      "phase": 7,
+      "date": "01-06-2024"
+    },
+    "kushi nagar": {
+      "electors": 1875222,
+      "poll_percent": "57.57",
+      "votes": 1079565,
+      "phase": 7,
+      "date": "01-06-2024"
+    },
+    "maharajganj": {
+      "electors": 2004050,
+      "poll_percent": "60.31",
+      "votes": 1208643,
+      "phase": 7,
+      "date": "01-06-2024"
+    },
+    "mirzapur": {
+      "electors": 1906327,
+      "poll_percent": "57.92",
+      "votes": 1104145,
+      "phase": 7,
+      "date": "01-06-2024"
+    },
+    "robertsganj": {
+      "electors": 1779189,
+      "poll_percent": "56.78",
+      "votes": 1010224,
+      "phase": 7,
+      "date": "01-06-2024"
+    },
+    "salempur": {
+      "electors": 1776982,
+      "poll_percent": "51.38",
+      "votes": 913013,
+      "phase": 7,
+      "date": "01-06-2024"
+    },
+    "varanasi": {
+      "electors": 1997578,
+      "poll_percent": "56.49",
+      "votes": 1128432,
+      "phase": 7,
+      "date": "01-06-2024"
+    }
+  },
+  "Uttarakhand": {
+    "almora": {
+      "electors": 1339327,
+      "poll_percent": "48.74",
+      "votes": 652726,
+      "phase": 1,
+      "date": "19-04-2024"
+    },
+    "garhwal": {
+      "electors": 1369388,
+      "poll_percent": "52.42",
+      "votes": 717834,
+      "phase": 1,
+      "date": "19-04-2024"
+    },
+    "haridwar": {
+      "electors": 2035726,
+      "poll_percent": "63.53",
+      "votes": 1293362,
+      "phase": 1,
+      "date": "19-04-2024"
+    },
+    "nainital-udhamsingh nagar": {
+      "electors": 2015809,
+      "poll_percent": "62.47",
+      "votes": 1259180,
+      "phase": 1,
+      "date": "19-04-2024"
+    },
+    "tehri garhwal": {
+      "electors": 1577664,
+      "poll_percent": "53.76",
+      "votes": 848186,
+      "phase": 1,
+      "date": "19-04-2024"
+    }
+  },
+  "West Bengal": {
+    "alipurduars": {
+      "electors": 1773252,
+      "poll_percent": "79.76",
+      "votes": 1414258,
+      "phase": 1,
+      "date": "19-04-2024"
+    },
+    "cooch behar": {
+      "electors": 1966893,
+      "poll_percent": "82.16",
+      "votes": 1616079,
+      "phase": 1,
+      "date": "19-04-2024"
+    },
+    "jalpaiguri": {
+      "electors": 1885963,
+      "poll_percent": "83.66",
+      "votes": 1577828,
+      "phase": 1,
+      "date": "19-04-2024"
+    },
+    "balurghat": {
+      "electors": 1561966,
+      "poll_percent": "79.09",
+      "votes": 1235347,
+      "phase": 2,
+      "date": "26-04-2024"
+    },
+    "darjeeling": {
+      "electors": 1765744,
+      "poll_percent": "74.76",
+      "votes": 1320072,
+      "phase": 2,
+      "date": "26-04-2024"
+    },
+    "raiganj": {
+      "electors": 1790245,
+      "poll_percent": "76.18",
+      "votes": 1363854,
+      "phase": 2,
+      "date": "26-04-2024"
+    },
+    "jangipur": {
+      "electors": 1805360,
+      "poll_percent": "75.72",
+      "votes": 1367014,
+      "phase": 3,
+      "date": "07-05-2024"
+    },
+    "maldaha dakshin": {
+      "electors": 1782159,
+      "poll_percent": "76.69",
+      "votes": 1366728,
+      "phase": 3,
+      "date": "07-05-2024"
+    },
+    "maldaha uttar": {
+      "electors": 1862035,
+      "poll_percent": "76.03",
+      "votes": 1415718,
+      "phase": 3,
+      "date": "07-05-2024"
+    },
+    "murshidabad": {
+      "electors": 1888097,
+      "poll_percent": "81.52",
+      "votes": 1539112,
+      "phase": 3,
+      "date": "07-05-2024"
+    },
+    "asansol": {
+      "electors": 1770281,
+      "poll_percent": "73.27",
+      "votes": 1297096,
+      "phase": 4,
+      "date": "13-05-2024"
+    },
+    "baharampur": {
+      "electors": 1783078,
+      "poll_percent": "77.54",
+      "votes": 1382678,
+      "phase": 4,
+      "date": "13-05-2024"
+    },
+    "bardhaman purba": {
+      "electors": 1801333,
+      "poll_percent": "82.85",
+      "votes": 1492453,
+      "phase": 4,
+      "date": "13-05-2024"
+    },
+    "bardhaman durgapur": {
+      "electors": 1851780,
+      "poll_percent": "80.72",
+      "votes": 1494778,
+      "phase": 4,
+      "date": "13-05-2024"
+    },
+    "birbhum": {
+      "electors": 1857022,
+      "poll_percent": "81.91",
+      "votes": 1521023,
+      "phase": 4,
+      "date": "13-05-2024"
+    },
+    "bolpur": {
+      "electors": 1839234,
+      "poll_percent": "82.66",
+      "votes": 1520401,
+      "phase": 4,
+      "date": "13-05-2024"
+    },
+    "krishnanagar": {
+      "electors": 1755631,
+      "poll_percent": "80.65",
+      "votes": 1415859,
+      "phase": 4,
+      "date": "13-05-2024"
+    },
+    "ranaghat": {
+      "electors": 1871658,
+      "poll_percent": "81.87",
+      "votes": 1532304,
+      "phase": 4,
+      "date": "13-05-2024"
+    },
+    "arambagh": {
+      "electors": 1883266,
+      "poll_percent": "82.62",
+      "votes": 1555882,
+      "phase": 5,
+      "date": "20-05-2024"
+    },
+    "bangaon": {
+      "electors": 1836374,
+      "poll_percent": "81.04",
+      "votes": 1488209,
+      "phase": 5,
+      "date": "20-05-2024"
+    },
+    "barrackpore": {
+      "electors": 1508728,
+      "poll_percent": "75.41",
+      "votes": 1137763,
+      "phase": 5,
+      "date": "20-05-2024"
+    },
+    "hooghly": {
+      "electors": 1858067,
+      "poll_percent": "81.38",
+      "votes": 1512060,
+      "phase": 5,
+      "date": "20-05-2024"
+    },
+    "howrah": {
+      "electors": 1769184,
+      "poll_percent": "71.73",
+      "votes": 1269079,
+      "phase": 5,
+      "date": "20-05-2024"
+    },
+    "srerampur": {
+      "electors": 1926645,
+      "poll_percent": "76.44",
+      "votes": 1472793,
+      "phase": 5,
+      "date": "20-05-2024"
+    },
+    "uluberia": {
+      "electors": 1741438,
+      "poll_percent": "79.78",
+      "votes": 1389316,
+      "phase": 5,
+      "date": "20-05-2024"
+    },
+    "bankura": {
+      "electors": 1780580,
+      "poll_percent": "80.75",
+      "votes": 1437826,
+      "phase": 6,
+      "date": "25-05-2024"
+    },
+    "bishnupur": {
+      "electors": 1754268,
+      "poll_percent": "85.91",
+      "votes": 1507040,
+      "phase": 6,
+      "date": "25-05-2024"
+    },
+    "ghatal": {
+      "electors": 1939945,
+      "poll_percent": "82.17",
+      "votes": 1593990,
+      "phase": 6,
+      "date": "25-05-2024"
+    },
+    "jhargram": {
+      "electors": 1779794,
+      "poll_percent": "83.47",
+      "votes": 1485591,
+      "phase": 6,
+      "date": "25-05-2024"
+    },
+    "kanthi": {
+      "electors": 1794537,
+      "poll_percent": "84.77",
+      "votes": 1521159,
+      "phase": 6,
+      "date": "25-05-2024"
+    },
+    "medinipur": {
+      "electors": 1811243,
+      "poll_percent": "81.56",
+      "votes": 147739,
+      "phase": 6,
+      "date": "25-05-2024"
+    },
+    "purulia": {
+      "electors": 1823120,
+      "poll_percent": "78.39",
+      "votes": 1429190,
+      "phase": 6,
+      "date": "25-05-2024"
+    },
+    "tamluk": {
+      "electors": 1850741,
+      "poll_percent": "84.79",
+      "votes": 1569233,
+      "phase": 6,
+      "date": "25-05-2024"
+    },
+    "barasat": {
+      "electors": 1905400,
+      "poll_percent": "80.18",
+      "votes": 1527750,
+      "phase": 7,
+      "date": "01-06-2024"
+    },
+    "basirhat": {
+      "electors": 1804261,
+      "poll_percent": "84.31",
+      "votes": 1521172,
+      "phase": 7,
+      "date": "01-06-2024"
+    },
+    "diamond harbour": {
+      "electors": 1880779,
+      "poll_percent": "81.04",
+      "votes": 1524183,
+      "phase": 7,
+      "date": "01-06-2024"
+    },
+    "dum dum": {
+      "electors": 1699656,
+      "poll_percent": "73.81",
+      "votes": 1254516,
+      "phase": 7,
+      "date": "01-06-2024"
+    },
+    "jadavpur": {
+      "electors": 2033525,
+      "poll_percent": "76.68",
+      "votes": 1559307,
+      "phase": 7,
+      "date": "01-06-2024"
+    },
+    "jaynagar": {
+      "electors": 1844780,
+      "poll_percent": "80.08",
+      "votes": 1477300,
+      "phase": 7,
+      "date": "01-06-2024"
+    },
+    "kolkata dakshin": {
+      "electors": 1849520,
+      "poll_percent": "66.95",
+      "votes": 1238254,
+      "phase": 7,
+      "date": "01-06-2024"
+    },
+    "kolkata uttar": {
+      "electors": 1505356,
+      "poll_percent": "63.59",
+      "votes": 957256,
+      "phase": 7,
+      "date": "01-06-2024"
+    },
+    "mathurapur": {
+      "electors": 1817068,
+      "poll_percent": "82.02",
+      "votes": 1490359,
+      "phase": 7,
+      "date": "01-06-2024"
+    }
+  },
+  "Karnataka": {
+    "bangalore central": {
+      "electors": 2433751,
+      "poll_percent": "54.06",
+      "votes": 1315612,
+      "phase": 2,
+      "date": "26-04-2024"
+    },
+    "bangalore north": {
+      "electors": 3214496,
+      "poll_percent": "54.45",
+      "votes": 1750372,
+      "phase": 2,
+      "date": "26-04-2024"
+    },
+    "bangalore rural": {
+      "electors": 2802580,
+      "poll_percent": "68.3",
+      "votes": 1914030,
+      "phase": 2,
+      "date": "26-04-2024"
+    },
+    "bangalore south": {
+      "electors": 2341759,
+      "poll_percent": "53.17",
+      "votes": 1245168,
+      "phase": 2,
+      "date": "26-04-2024"
+    },
+    "chamarajanagar": {
+      "electors": 1778310,
+      "poll_percent": "76.82",
+      "votes": 1366015,
+      "phase": 2,
+      "date": "26-04-2024"
+    },
+    "chikballapur": {
+      "electors": 1981347,
+      "poll_percent": "77",
+      "votes": 1525718,
+      "phase": 2,
+      "date": "26-04-2024"
+    },
+    "chitradurga": {
+      "electors": 1856876,
+      "poll_percent": "73.3",
+      "votes": 1361031,
+      "phase": 2,
+      "date": "26-04-2024"
+    },
+    "dakshina kannada": {
+      "electors": 1817603,
+      "poll_percent": "77.56",
+      "votes": 1409653,
+      "phase": 2,
+      "date": "26-04-2024"
+    },
+    "haasan": {
+      "electors": 1736610,
+      "poll_percent": "77.68",
+      "votes": 1348966,
+      "phase": 2,
+      "date": "26-04-2024"
+    },
+    "kolar": {
+      "electors": 1726914,
+      "poll_percent": "78.27",
+      "votes": 1351646,
+      "phase": 2,
+      "date": "26-04-2024"
+    },
+    "mandya": {
+      "electors": 1779243,
+      "poll_percent": "81.67",
+      "votes": 1453060,
+      "phase": 2,
+      "date": "26-04-2024"
+    },
+    "mysore": {
+      "electors": 2092222,
+      "poll_percent": "70.62",
+      "votes": 1477576,
+      "phase": 2,
+      "date": "26-04-2024"
+    },
+    "tumkur": {
+      "electors": 1661309,
+      "poll_percent": "78.05",
+      "votes": 1296720,
+      "phase": 2,
+      "date": "26-04-2024"
+    },
+    "udupi chikmagalur": {
+      "electors": 1585162,
+      "poll_percent": "77.15",
+      "votes": 1222888,
+      "phase": 2,
+      "date": "26-04-2024"
+    },
+    "bagalkot": {
+      "electors": 1806183,
+      "poll_percent": "72.66",
+      "votes": 1312319,
+      "phase": 3,
+      "date": "07-05-2024"
+    },
+    "belagavi": {
+      "electors": 1923788,
+      "poll_percent": "71.49",
+      "votes": 1375283,
+      "phase": 3,
+      "date": "07-05-2024"
+    },
+    "bellary": {
+      "electors": 1884040,
+      "poll_percent": "73.59",
+      "votes": 1386553,
+      "phase": 3,
+      "date": "07-05-2024"
+    },
+    "bidar": {
+      "electors": 1892962,
+      "poll_percent": "65.47",
+      "votes": 1239358,
+      "phase": 3,
+      "date": "07-05-2024"
+    },
+    "bijapur": {
+      "electors": 1946090,
+      "poll_percent": "66.32",
+      "votes": 1290719,
+      "phase": 3,
+      "date": "07-05-2024"
+    },
+    "chikodi": {
+      "electors": 1761694,
+      "poll_percent": "78.66",
+      "votes": 1385688,
+      "phase": 3,
+      "date": "07-05-2024"
+    },
+    "davangere": {
+      "electors": 1709244,
+      "poll_percent": "76.99",
+      "votes": 1315916,
+      "phase": 3,
+      "date": "07-05-2024"
+    },
+    "dharwad": {
+      "electors": 1831975,
+      "poll_percent": "74.37",
+      "votes": 1362421,
+      "phase": 3,
+      "date": "07-05-2024"
+    },
+    "gulbarga": {
+      "electors": 2098202,
+      "poll_percent": "62.25",
+      "votes": 1306119,
+      "phase": 3,
+      "date": "07-05-2024"
+    },
+    "haveri": {
+      "electors": 1792774,
+      "poll_percent": "77.6",
+      "votes": 1391214,
+      "phase": 3,
+      "date": "07-05-2024"
+    },
+    "koppal": {
+      "electors": 1866397,
+      "poll_percent": "70.99",
+      "votes": 1324898,
+      "phase": 3,
+      "date": "07-05-2024"
+    },
+    "raichur": {
+      "electors": 2010103,
+      "poll_percent": "64.66",
+      "votes": 1299806,
+      "phase": 3,
+      "date": "07-05-2024"
+    },
+    "shimoga": {
+      "electors": 1752885,
+      "poll_percent": "78.33",
+      "votes": 1372949,
+      "phase": 3,
+      "date": "07-05-2024"
+    },
+    "uttara kannada": {
+      "electors": 1641156,
+      "poll_percent": "76.53",
+      "votes": 1256027,
+      "phase": 3,
+      "date": "07-05-2024"
+    }
+  },
+  "Kerala": {
+    "alappuzha": {
+      "electors": 1400082,
+      "poll_percent": "75.05",
+      "votes": 1050726,
+      "phase": 2,
+      "date": "26-04-2024"
+    },
+    "alathur": {
+      "electors": 1337496,
+      "poll_percent": "73.42",
+      "votes": 981945,
+      "phase": 2,
+      "date": "26-04-2024"
+    },
+    "attingal": {
+      "electors": 1396807,
+      "poll_percent": "69.48",
+      "votes": 970517,
+      "phase": 2,
+      "date": "26-04-2024"
+    },
+    "chalakudy": {
+      "electors": 1310529,
+      "poll_percent": "71.94",
+      "votes": 942787,
+      "phase": 2,
+      "date": "26-04-2024"
+    },
+    "ernakulam": {
+      "electors": 1324047,
+      "poll_percent": "68.29",
+      "votes": 904131,
+      "phase": 2,
+      "date": "26-04-2024"
+    },
+    "idukki": {
+      "electors": 1250157,
+      "poll_percent": "66.55",
+      "votes": 831936,
+      "phase": 2,
+      "date": "26-04-2024"
+    },
+    "kannur": {
+      "electors": 1358368,
+      "poll_percent": "77.21",
+      "votes": 1048839,
+      "phase": 2,
+      "date": "26-04-2024"
+    },
+    "kasaragod": {
+      "electors": 1452230,
+      "poll_percent": "76.04",
+      "votes": 1104331,
+      "phase": 2,
+      "date": "26-04-2024"
+    },
+    "kollam": {
+      "electors": 1326648,
+      "poll_percent": "68.15",
+      "votes": 904047,
+      "phase": 2,
+      "date": "26-04-2024"
+    },
+    "kottayam": {
+      "electors": 1254823,
+      "poll_percent": "65.61",
+      "votes": 823237,
+      "phase": 2,
+      "date": "26-04-2024"
+    },
+    "kozhikode": {
+      "electors": 1429631,
+      "poll_percent": "75.52",
+      "votes": 1079683,
+      "phase": 2,
+      "date": "26-04-2024"
+    },
+    "malappuram": {
+      "electors": 1479921,
+      "poll_percent": "72.95",
+      "votes": 1079547,
+      "phase": 2,
+      "date": "26-04-2024"
+    },
+    "mavelikara": {
+      "electors": 1331880,
+      "poll_percent": "65.95",
+      "votes": 878360,
+      "phase": 2,
+      "date": "26-04-2024"
+    },
+    "palakkad": {
+      "electors": 1398143,
+      "poll_percent": "73.57",
+      "votes": 1028627,
+      "phase": 2,
+      "date": "26-04-2024"
+    },
+    "pathanamthitta": {
+      "electors": 1429700,
+      "poll_percent": "63.37",
+      "votes": 906051,
+      "phase": 2,
+      "date": "26-04-2024"
+    },
+    "ponnani": {
+      "electors": 1470804,
+      "poll_percent": "69.34",
+      "votes": 1019889,
+      "phase": 2,
+      "date": "26-04-2024"
+    },
+    "thiruvananthapuram": {
+      "electors": 1430531,
+      "poll_percent": "66.47",
+      "votes": 950829,
+      "phase": 2,
+      "date": "26-04-2024"
+    },
+    "thrissur": {
+      "electors": 1483055,
+      "poll_percent": "72.9",
+      "votes": 1081125,
+      "phase": 2,
+      "date": "26-04-2024"
+    },
+    "vadakara": {
+      "electors": 1421883,
+      "poll_percent": "78.41",
+      "votes": 1114950,
+      "phase": 2,
+      "date": "26-04-2024"
+    },
+    "wayanad": {
+      "electors": 1462423,
+      "poll_percent": "73.57",
+      "votes": 1075921,
+      "phase": 2,
+      "date": "26-04-2024"
+    }
+  },
+  "Dadra and Nagar Haveli": {
+    "dadra and nagar haveli": {
+      "electors": 283024,
+      "poll_percent": "72.52",
+      "votes": 205248,
+      "phase": 3,
+      "date": "07-05-2024"
+    },
+    "daman and diu": {
+      "electors": 134189,
+      "poll_percent": "68.77",
+      "votes": 92279,
+      "phase": 3,
+      "date": "07-05-2024"
+    }
+  },
+  "Goa": {
+    "north goa": {
+      "electors": 580577,
+      "poll_percent": "77.69",
+      "votes": 451042,
+      "phase": 3,
+      "date": "07-05-2024"
+    },
+    "south goa": {
+      "electors": 598767,
+      "poll_percent": "74.47",
+      "votes": 445916,
+      "phase": 3,
+      "date": "07-05-2024"
+    }
+  },
+  "Gujarat": {
+    "ahmedabad east": {
+      "electors": 2038162,
+      "poll_percent": "54.72",
+      "votes": 1115317,
+      "phase": 3,
+      "date": "07-05-2024"
+    },
+    "ahmedabad west": {
+      "electors": 1726987,
+      "poll_percent": "55.45",
+      "votes": 957573,
+      "phase": 3,
+      "date": "07-05-2024"
+    },
+    "amreli": {
+      "electors": 1732810,
+      "poll_percent": "50.29",
+      "votes": 871373,
+      "phase": 3,
+      "date": "07-05-2024"
+    },
+    "anand": {
+      "electors": 1780182,
+      "poll_percent": "65.04",
+      "votes": 1157763,
+      "phase": 3,
+      "date": "07-05-2024"
+    },
+    "banaskantha": {
+      "electors": 1961924,
+      "poll_percent": "69.62",
+      "votes": 1365989,
+      "phase": 3,
+      "date": "07-05-2024"
+    },
+    "bardoli": {
+      "electors": 2048408,
+      "poll_percent": "64.81",
+      "votes": 1327669,
+      "phase": 3,
+      "date": "07-05-2024"
+    },
+    "bharuch": {
+      "electors": 1723353,
+      "poll_percent": "69.16",
+      "votes": 1191877,
+      "phase": 3,
+      "date": "07-05-2024"
+    },
+    "bhavnagar": {
+      "electors": 1916900,
+      "poll_percent": "53.92",
+      "votes": 1033629,
+      "phase": 3,
+      "date": "07-05-2024"
+    },
+    "chhota udaipur": {
+      "electors": 1821708,
+      "poll_percent": "69.15",
+      "votes": 1259760,
+      "phase": 3,
+      "date": "07-05-2024"
+    },
+    "dahod": {
+      "electors": 1875136,
+      "poll_percent": "59.31",
+      "votes": 1112211,
+      "phase": 3,
+      "date": "07-05-2024"
+    },
+    "gandhinagar": {
+      "electors": 2182736,
+      "poll_percent": "59.8",
+      "votes": 1305197,
+      "phase": 3,
+      "date": "07-05-2024"
+    },
+    "jamnagar": {
+      "electors": 1817864,
+      "poll_percent": "57.67",
+      "votes": 1048410,
+      "phase": 3,
+      "date": "07-05-2024"
+    },
+    "junagadh": {
+      "electors": 1795110,
+      "poll_percent": "58.91",
+      "votes": 1057462,
+      "phase": 3,
+      "date": "07-05-2024"
+    },
+    "kachchh": {
+      "electors": 1943136,
+      "poll_percent": "56.14",
+      "votes": 1090878,
+      "phase": 3,
+      "date": "07-05-2024"
+    },
+    "kheda": {
+      "electors": 2007404,
+      "poll_percent": "58.12",
+      "votes": 1166619,
+      "phase": 3,
+      "date": "07-05-2024"
+    },
+    "mahesana": {
+      "electors": 1770617,
+      "poll_percent": "59.86",
+      "votes": 1059938,
+      "phase": 3,
+      "date": "07-05-2024"
+    },
+    "navsari": {
+      "electors": 2223550,
+      "poll_percent": "59.66",
+      "votes": 1326542,
+      "phase": 3,
+      "date": "07-05-2024"
+    },
+    "panchmahal": {
+      "electors": 1896743,
+      "poll_percent": "58.85",
+      "votes": 1116171,
+      "phase": 3,
+      "date": "07-05-2024"
+    },
+    "patan": {
+      "electors": 2019916,
+      "poll_percent": "58.56",
+      "votes": 1182950,
+      "phase": 3,
+      "date": "07-05-2024"
+    },
+    "porbandar": {
+      "electors": 1768212,
+      "poll_percent": "51.83",
+      "votes": 916519,
+      "phase": 3,
+      "date": "07-05-2024"
+    },
+    "rajkot": {
+      "electors": 2112273,
+      "poll_percent": "59.69",
+      "votes": 1260768,
+      "phase": 3,
+      "date": "07-05-2024"
+    },
+    "sabarkantha": {
+      "electors": 1976349,
+      "poll_percent": "63.56",
+      "votes": 1256210,
+      "phase": 3,
+      "date": "07-05-2024"
+    },
+    "surendranagar": {
+      "electors": 2033419,
+      "poll_percent": "55.09",
+      "votes": 1120128,
+      "phase": 3,
+      "date": "07-05-2024"
+    },
+    "vadodara": {
+      "electors": 1949573,
+      "poll_percent": "61.59",
+      "votes": 1200768,
+      "phase": 3,
+      "date": "07-05-2024"
+    },
+    "valsad": {
+      "electors": 1859974,
+      "poll_percent": "72.71",
+      "votes": 1352413,
+      "phase": 3,
+      "date": "07-05-2024"
+    }
+  },
+  "Andhra Pradesh": {
+    "amalapuram": {
+      "electors": 1531410,
+      "poll_percent": "83.85",
+      "votes": 1284018,
+      "phase": 4,
+      "date": "13-05-2024"
+    },
+    "anakapalli": {
+      "electors": 1596916,
+      "poll_percent": "82.03",
+      "votes": 1309977,
+      "phase": 4,
+      "date": "13-05-2024"
+    },
+    "anantapur": {
+      "electors": 1767591,
+      "poll_percent": "80.51",
+      "votes": 1423108,
+      "phase": 4,
+      "date": "13-05-2024"
+    },
+    "araku": {
+      "electors": 1554633,
+      "poll_percent": "73.68",
+      "votes": 1145426,
+      "phase": 4,
+      "date": "13-05-2024"
+    },
+    "bapatla": {
+      "electors": 1506354,
+      "poll_percent": "85.48",
+      "votes": 1287704,
+      "phase": 4,
+      "date": "13-05-2024"
+    },
+    "chittoor": {
+      "electors": 1640202,
+      "poll_percent": "85.77",
+      "votes": 1406880,
+      "phase": 4,
+      "date": "13-05-2024"
+    },
+    "eluru": {
+      "electors": 1637430,
+      "poll_percent": "83.68",
+      "votes": 1370153,
+      "phase": 4,
+      "date": "13-05-2024"
+    },
+    "guntur": {
+      "electors": 1791543,
+      "poll_percent": "78.81",
+      "votes": 1411989,
+      "phase": 4,
+      "date": "13-05-2024"
+    },
+    "hindupur": {
+      "electors": 1656775,
+      "poll_percent": "84.7",
+      "votes": 1403259,
+      "phase": 4,
+      "date": "13-05-2024"
+    },
+    "kadapa": {
+      "electors": 1639066,
+      "poll_percent": "79.57",
+      "votes": 1304256,
+      "phase": 4,
+      "date": "13-05-2024"
+    },
+    "kakinada": {
+      "electors": 1634122,
+      "poll_percent": "80.3",
+      "votes": 1312255,
+      "phase": 4,
+      "date": "13-05-2024"
+    },
+    "kurnool": {
+      "electors": 1722857,
+      "poll_percent": "76.8",
+      "votes": 1323071,
+      "phase": 4,
+      "date": "13-05-2024"
+    },
+    "machilipatnam": {
+      "electors": 1539460,
+      "poll_percent": "84.05",
+      "votes": 1293935,
+      "phase": 4,
+      "date": "13-05-2024"
+    },
+    "nandyal": {
+      "electors": 1721013,
+      "poll_percent": "80.61",
+      "votes": 1387367,
+      "phase": 4,
+      "date": "13-05-2024"
+    },
+    "narsapuram": {
+      "electors": 1472923,
+      "poll_percent": "82.59",
+      "votes": 1216550,
+      "phase": 4,
+      "date": "13-05-2024"
+    },
+    "narasaraopet": {
+      "electors": 1734858,
+      "poll_percent": "85.65",
+      "votes": 1485909,
+      "phase": 4,
+      "date": "13-05-2024"
+    },
+    "nellore": {
+      "electors": 1712274,
+      "poll_percent": "79.05",
+      "votes": 1353563,
+      "phase": 4,
+      "date": "13-05-2024"
+    },
+    "ongole": {
+      "electors": 1607832,
+      "poll_percent": "87.06",
+      "votes": 1399707,
+      "phase": 4,
+      "date": "13-05-2024"
+    },
+    "rajahmundry": {
+      "electors": 1623149,
+      "poll_percent": "80.93",
+      "votes": 1313630,
+      "phase": 4,
+      "date": "13-05-2024"
+    },
+    "rajampet": {
+      "electors": 1665702,
+      "poll_percent": "79.09",
+      "votes": 1317448,
+      "phase": 4,
+      "date": "13-05-2024"
+    },
+    "srikakulam": {
+      "electors": 1631174,
+      "poll_percent": "74.43",
+      "votes": 1214128,
+      "phase": 4,
+      "date": "13-05-2024"
+    },
+    "tirupati": {
+      "electors": 1729832,
+      "poll_percent": "79.1",
+      "votes": 1368362,
+      "phase": 4,
+      "date": "13-05-2024"
+    },
+    "vijayawada": {
+      "electors": 1704077,
+      "poll_percent": "79.37",
+      "votes": 1352495,
+      "phase": 4,
+      "date": "13-05-2024"
+    },
+    "visakhapatnam": {
+      "electors": 1927303,
+      "poll_percent": "71.11",
+      "votes": 1370484,
+      "phase": 4,
+      "date": "13-05-2024"
+    },
+    "vizianagaram": {
+      "electors": 1585206,
+      "poll_percent": "81.05",
+      "votes": 1284886,
+      "phase": 4,
+      "date": "13-05-2024"
+    }
+  },
+  "Jharkhand": {
+    "khunti": {
+      "electors": 1326138,
+      "poll_percent": "69.93",
+      "votes": 927422,
+      "phase": 4,
+      "date": "13-05-2024"
+    },
+    "lohardaga": {
+      "electors": 1441302,
+      "poll_percent": "66.45",
+      "votes": 957690,
+      "phase": 4,
+      "date": "13-05-2024"
+    },
+    "palamu": {
+      "electors": 2243034,
+      "poll_percent": "61.27",
+      "votes": 1374358,
+      "phase": 4,
+      "date": "13-05-2024"
+    },
+    "singhbhum": {
+      "electors": 1447562,
+      "poll_percent": "69.32",
+      "votes": 1003482,
+      "phase": 4,
+      "date": "13-05-2024"
+    },
+    "chatra": {
+      "electors": 1689926,
+      "poll_percent": "63.69",
+      "votes": 1076352,
+      "phase": 5,
+      "date": "20-05-2024"
+    },
+    "hazaribagh": {
+      "electors": 1939374,
+      "poll_percent": "64.39",
+      "votes": 1248798,
+      "phase": 5,
+      "date": "20-05-2024"
+    },
+    "kodarma": {
+      "electors": 2205318,
+      "poll_percent": "61.81",
+      "votes": 1363010,
+      "phase": 5,
+      "date": "20-05-2024"
+    },
+    "dhanbad": {
+      "electors": 2285237,
+      "poll_percent": "62.06",
+      "votes": 1418264,
+      "phase": 6,
+      "date": "25-05-2024"
+    },
+    "giridih": {
+      "electors": 1864660,
+      "poll_percent": "67.23",
+      "votes": 1253553,
+      "phase": 6,
+      "date": "25-05-2024"
+    },
+    "jamshedpur": {
+      "electors": 1869278,
+      "poll_percent": "67.68",
+      "votes": 1265169,
+      "phase": 6,
+      "date": "25-05-2024"
+    },
+    "ranchi": {
+      "electors": 2197331,
+      "poll_percent": "65.36",
+      "votes": 1436127,
+      "phase": 6,
+      "date": "25-05-2024"
+    },
+    "dumka": {
+      "electors": 1590161,
+      "poll_percent": "73.87",
+      "votes": 1174652,
+      "phase": 7,
+      "date": "01-06-2024"
+    },
+    "godda": {
+      "electors": 2028154,
+      "poll_percent": "68.63",
+      "votes": 1391922,
+      "phase": 7,
+      "date": "01-06-2024"
+    },
+    "rajmahal": {
+      "electors": 1704671,
+      "poll_percent": "70.78",
+      "votes": 1206566,
+      "phase": 7,
+      "date": "01-06-2024"
+    }
+  },
+  "Odisha": {
+    "berhampur": {
+      "electors": 1591380,
+      "poll_percent": "65.41",
+      "votes": 1040924,
+      "phase": 4,
+      "date": "13-05-2024"
+    },
+    "kalahandi": {
+      "electors": 1700780,
+      "poll_percent": "77.9",
+      "votes": 1324936,
+      "phase": 4,
+      "date": "13-05-2024"
+    },
+    "koraput": {
+      "electors": 1480922,
+      "poll_percent": "77.53",
+      "votes": 1148182,
+      "phase": 4,
+      "date": "13-05-2024"
+    },
+    "nabarangpur": {
+      "electors": 1514140,
+      "poll_percent": "82.16",
+      "votes": 1243957,
+      "phase": 4,
+      "date": "13-05-2024"
+    },
+    "aska": {
+      "electors": 1620974,
+      "poll_percent": "62.67",
+      "votes": 1015883,
+      "phase": 5,
+      "date": "20-05-2024"
+    },
+    "bargarh": {
+      "electors": 1631974,
+      "poll_percent": "79.78",
+      "votes": 1302069,
+      "phase": 5,
+      "date": "20-05-2024"
+    },
+    "bolangir": {
+      "electors": 1801744,
+      "poll_percent": "77.52",
+      "votes": 1396719,
+      "phase": 5,
+      "date": "20-05-2024"
+    },
+    "kandhamal": {
+      "electors": 1339090,
+      "poll_percent": "74.16",
+      "votes": 993091,
+      "phase": 5,
+      "date": "20-05-2024"
+    },
+    "sundargarh": {
+      "electors": 1576105,
+      "poll_percent": "73.02",
+      "votes": 1150875,
+      "phase": 5,
+      "date": "20-05-2024"
+    },
+    "bhubaneswar": {
+      "electors": 1672774,
+      "poll_percent": "64.49",
+      "votes": 1078810,
+      "phase": 6,
+      "date": "25-05-2024"
+    },
+    "cuttack": {
+      "electors": 1571622,
+      "poll_percent": "71.2",
+      "votes": 1118918,
+      "phase": 6,
+      "date": "25-05-2024"
+    },
+    "dhenkanal": {
+      "electors": 1529785,
+      "poll_percent": "78.01",
+      "votes": 1193460,
+      "phase": 6,
+      "date": "25-05-2024"
+    },
+    "keonjhar": {
+      "electors": 1588179,
+      "poll_percent": "78.97",
+      "votes": 1254163,
+      "phase": 6,
+      "date": "25-05-2024"
+    },
+    "puri": {
+      "electors": 1586465,
+      "poll_percent": "75.43",
+      "votes": 1196684,
+      "phase": 6,
+      "date": "25-05-2024"
+    },
+    "sambalpur": {
+      "electors": 1499728,
+      "poll_percent": "79.5",
+      "votes": 1192226,
+      "phase": 6,
+      "date": "25-05-2024"
+    },
+    "balasore": {
+      "electors": 1608014,
+      "poll_percent": "76.77",
+      "votes": 1234472,
+      "phase": 7,
+      "date": "01-06-2024"
+    },
+    "bhadrak": {
+      "electors": 1770915,
+      "poll_percent": "73.23",
+      "votes": 1296841,
+      "phase": 7,
+      "date": "01-06-2024"
+    },
+    "jagatsinghpur": {
+      "electors": 1700814,
+      "poll_percent": "75.48",
+      "votes": 1283774,
+      "phase": 7,
+      "date": "01-06-2024"
+    },
+    "jajpur": {
+      "electors": 1545664,
+      "poll_percent": "74.47",
+      "votes": 1151056,
+      "phase": 7,
+      "date": "01-06-2024"
+    },
+    "kendrapara": {
+      "electors": 1792723,
+      "poll_percent": "71.22",
+      "votes": 1276777,
+      "phase": 7,
+      "date": "01-06-2024"
+    },
+    "mayurbhanj": {
+      "electors": 1542927,
+      "poll_percent": "75.79",
+      "votes": 1169384,
+      "phase": 7,
+      "date": "01-06-2024"
+    }
+  },
+  "Telangana": {
+    "adilabad": {
+      "electors": 1650175,
+      "poll_percent": "74.03",
+      "votes": 1221553,
+      "phase": 4,
+      "date": "13-05-2024"
+    },
+    "bhongir": {
+      "electors": 1808585,
+      "poll_percent": "76.78",
+      "votes": 1388680,
+      "phase": 4,
+      "date": "13-05-2024"
+    },
+    "chevella": {
+      "electors": 2938370,
+      "poll_percent": "56.4",
+      "votes": 1657107,
+      "phase": 4,
+      "date": "13-05-2024"
+    },
+    "hyderabad": {
+      "electors": 2217094,
+      "poll_percent": "48.48",
+      "votes": 1074827,
+      "phase": 4,
+      "date": "13-05-2024"
+    },
+    "karimnagar": {
+      "electors": 1797150,
+      "poll_percent": "72.54",
+      "votes": 1303690,
+      "phase": 4,
+      "date": "13-05-2024"
+    },
+    "khammam": {
+      "electors": 1631039,
+      "poll_percent": "76.09",
+      "votes": 1241135,
+      "phase": 4,
+      "date": "13-05-2024"
+    },
+    "mahabubabad": {
+      "electors": 1532366,
+      "poll_percent": "71.85",
+      "votes": 1101030,
+      "phase": 4,
+      "date": "13-05-2024"
+    },
+    "mahabubnagar": {
+      "electors": 1682470,
+      "poll_percent": "72.43",
+      "votes": 1218587,
+      "phase": 4,
+      "date": "13-05-2024"
+    },
+    "malkajgiri": {
+      "electors": 3779596,
+      "poll_percent": "50.78",
+      "votes": 1919131,
+      "phase": 4,
+      "date": "13-05-2024"
+    },
+    "medak": {
+      "electors": 1828210,
+      "poll_percent": "75.09",
+      "votes": 1372894,
+      "phase": 4,
+      "date": "13-05-2024"
+    },
+    "nagarkurnool": {
+      "electors": 1738254,
+      "poll_percent": "69.46",
+      "votes": 1207470,
+      "phase": 4,
+      "date": "13-05-2024"
+    },
+    "nalgonda": {
+      "electors": 1725465,
+      "poll_percent": "74.02",
+      "votes": 1277137,
+      "phase": 4,
+      "date": "13-05-2024"
+    },
+    "nizamabad": {
+      "electors": 1704867,
+      "poll_percent": "71.92",
+      "votes": 1226133,
+      "phase": 4,
+      "date": "13-05-2024"
+    },
+    "peddapalle": {
+      "electors": 1596430,
+      "poll_percent": "67.87",
+      "votes": 1083467,
+      "phase": 4,
+      "date": "13-05-2024"
+    },
+    "secunderabad": {
+      "electors": 2120401,
+      "poll_percent": "49.04",
+      "votes": 1039834,
+      "phase": 4,
+      "date": "13-05-2024"
+    },
+    "warangal": {
+      "electors": 1824466,
+      "poll_percent": "68.86",
+      "votes": 1256301,
+      "phase": 4,
+      "date": "13-05-2024"
+    },
+    "zahirabad": {
+      "electors": 1641410,
+      "poll_percent": "74.63",
+      "votes": 1225049,
+      "phase": 4,
+      "date": "13-05-2024"
+    }
+  },
+  "Ladakh": {
+    "ladakh": {
+      "electors": 184808,
+      "poll_percent": "71.82",
+      "votes": 132727,
+      "phase": 5,
+      "date": "20-05-2024"
+    }
+  },
+  "Haryana": {
+    "ambala": {
+      "electors": 1996708,
+      "poll_percent": "67.34",
+      "votes": 1344503,
+      "phase": 6,
+      "date": "25-05-2024"
+    },
+    "bhiwani-mahendragarh": {
+      "electors": 1793029,
+      "poll_percent": "65.39",
+      "votes": 1172526,
+      "phase": 6,
+      "date": "25-05-2024"
+    },
+    "faridabad": {
+      "electors": 2430212,
+      "poll_percent": "60.52",
+      "votes": 1470649,
+      "phase": 6,
+      "date": "25-05-2024"
+    },
+    "gurgaon": {
+      "electors": 2573411,
+      "poll_percent": "62.03",
+      "votes": 1596240,
+      "phase": 6,
+      "date": "25-05-2024"
+    },
+    "hisar": {
+      "electors": 1790722,
+      "poll_percent": "65.27",
+      "votes": 1168784,
+      "phase": 6,
+      "date": "25-05-2024"
+    },
+    "karnal": {
+      "electors": 2104229,
+      "poll_percent": "63.74",
+      "votes": 1341174,
+      "phase": 6,
+      "date": "25-05-2024"
+    },
+    "kurukshetra": {
+      "electors": 1794300,
+      "poll_percent": "67.01",
+      "votes": 1202401,
+      "phase": 6,
+      "date": "25-05-2024"
+    },
+    "rohtak": {
+      "electors": 1889844,
+      "poll_percent": "65.68",
+      "votes": 1241201,
+      "phase": 6,
+      "date": "25-05-2024"
+    },
+    "sirsa": {
+      "electors": 1937689,
+      "poll_percent": "69.77",
+      "votes": 1351932,
+      "phase": 6,
+      "date": "25-05-2024"
+    },
+    "sonipat": {
+      "electors": 1766624,
+      "poll_percent": "63.44",
+      "votes": 1120791,
+      "phase": 6,
+      "date": "25-05-2024"
+    }
+  },
+  "NCT OF Delhi": {
+    "chandni chowk": {
+      "electors": 1645958,
+      "poll_percent": "58.6",
+      "votes": 964503,
+      "phase": 6,
+      "date": "25-05-2024"
+    },
+    "east delhi": {
+      "electors": 2120584,
+      "poll_percent": "59.51",
+      "votes": 1261988,
+      "phase": 6,
+      "date": "25-05-2024"
+    },
+    "new delhi": {
+      "electors": 1525071,
+      "poll_percent": "55.43",
+      "votes": 845285,
+      "phase": 6,
+      "date": "25-05-2024"
+    },
+    "north east delhi": {
+      "electors": 2463159,
+      "poll_percent": "62.89",
+      "votes": 1549202,
+      "phase": 6,
+      "date": "25-05-2024"
+    },
+    "north west delhi": {
+      "electors": 2567423,
+      "poll_percent": "57.85",
+      "votes": 1485378,
+      "phase": 6,
+      "date": "25-05-2024"
+    },
+    "south delhi": {
+      "electors": 2291764,
+      "poll_percent": "56.45",
+      "votes": 1293598,
+      "phase": 6,
+      "date": "25-05-2024"
+    },
+    "west delhi": {
+      "electors": 2587977,
+      "poll_percent": "58.79",
+      "votes": 1521541,
+      "phase": 6,
+      "date": "25-05-2024"
+    }
+  },
+  "Chandigarh": {
+    "chandigarh": {
+      "electors": 659805,
+      "poll_percent": "67.98",
+      "votes": 448535,
+      "phase": 7,
+      "date": "01-06-2024"
+    }
+  },
+  "Himachal Pradesh": {
+    "hamirpur": {
+      "electors": 1432636,
+      "poll_percent": "71.56",
+      "votes": 1025194,
+      "phase": 7,
+      "date": "01-06-2024"
+    },
+    "kangra": {
+      "electors": 1502514,
+      "poll_percent": "67.89",
+      "votes": 1020057,
+      "phase": 7,
+      "date": "01-06-2024"
+    },
+    "mandi": {
+      "electors": 1364060,
+      "poll_percent": "73.15",
+      "votes": 997810,
+      "phase": 7,
+      "date": "01-06-2024"
+    },
+    "shimla": {
+      "electors": 1346369,
+      "poll_percent": "71.26",
+      "votes": 959423,
+      "phase": 7,
+      "date": "01-06-2024"
+    }
+  },
+  "Punjab": {
+    "amritsar": {
+      "electors": 1611263,
+      "poll_percent": "56.06",
+      "votes": 903274,
+      "phase": 7,
+      "date": "01-06-2024"
+    },
+    "anandpur sahib": {
+      "electors": 1732211,
+      "poll_percent": "61.98",
+      "votes": 1073624,
+      "phase": 7,
+      "date": "01-06-2024"
+    },
+    "bathinda": {
+      "electors": 1651188,
+      "poll_percent": "69.36",
+      "votes": 1145264,
+      "phase": 7,
+      "date": "01-06-2024"
+    },
+    "faridkot": {
+      "electors": 1594033,
+      "poll_percent": "63.34",
+      "votes": 1009661,
+      "phase": 7,
+      "date": "01-06-2024"
+    },
+    "fatehgarh sahib": {
+      "electors": 1552567,
+      "poll_percent": "62.53",
+      "votes": 970820,
+      "phase": 7,
+      "date": "01-06-2024"
+    },
+    "firozpur": {
+      "electors": 1670008,
+      "poll_percent": "67.02",
+      "votes": 1119239,
+      "phase": 7,
+      "date": "01-06-2024"
+    },
+    "gurudaspur": {
+      "electors": 1605204,
+      "poll_percent": "66.67",
+      "votes": 1070190,
+      "phase": 7,
+      "date": "01-06-2024"
+    },
+    "hoshiarpur": {
+      "electors": 1601826,
+      "poll_percent": "58.86",
+      "votes": 942835,
+      "phase": 7,
+      "date": "01-06-2024"
+    },
+    "jalandhar": {
+      "electors": 1654005,
+      "poll_percent": "59.7",
+      "votes": 987441,
+      "phase": 7,
+      "date": "01-06-2024"
+    },
+    "khadoor sahib": {
+      "electors": 1667797,
+      "poll_percent": "62.55",
+      "votes": 1043207,
+      "phase": 7,
+      "date": "01-06-2024"
+    },
+    "ludhiana": {
+      "electors": 1758614,
+      "poll_percent": "60.12",
+      "votes": 1057279,
+      "phase": 7,
+      "date": "01-06-2024"
+    },
+    "patiala": {
+      "electors": 1806424,
+      "poll_percent": "63.63",
+      "votes": 1149428,
+      "phase": 7,
+      "date": "01-06-2024"
+    },
+    "sangrur": {
+      "electors": 1556601,
+      "poll_percent": "64.63",
+      "votes": 1006031,
+      "phase": 7,
+      "date": "01-06-2024"
+    }
+  }
+}

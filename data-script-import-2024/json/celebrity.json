@@ -1,0 +1,66 @@
+{
+  "Himachal Pradesh": {
+    "MANDI": [
+      "cand105"
+    ]
+  },
+  "Uttar Pradesh": {
+    "Meerut": [
+      "cand7084"
+    ],
+    "Gorakhpur": [
+      "cand682"
+    ],
+    "Mathura": [
+      "cand6313"
+    ],
+    "Azamgarh": [
+      "cand2360"
+    ]
+  },
+  "NCT OF Delhi": {
+    "NORTH EAST DELHI": [
+      "cand1379"
+    ]
+  },
+  "West Bengal": {
+    "Baharampur": [
+      "cand4325"
+    ],
+    "Asansol": [
+      "cand4211"
+    ],
+    "Hooghly": [
+      "cand2515",
+      "cand2556"
+    ],
+    "Medinipur": [
+      "cand1670",
+      "cand987"
+    ],
+    "Jadavpur": [
+      "cand828"
+    ],
+    "Birbhum": [
+      "cand4297"
+    ],
+    "Barrackpore": [
+      "cand2591"
+    ]
+  },
+  "Rajasthan": {
+    "CHURU": [
+      "cand8604"
+    ]
+  },
+  "Kerala": {
+    "Thrissur": [
+      "cand6337"
+    ]
+  },
+  "Tamil Nadu": {
+    "VIRUDHUNAGAR": [
+      "cand8644"
+    ]
+  }
+}

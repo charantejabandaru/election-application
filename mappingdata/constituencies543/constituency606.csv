@@ -1,0 +1,24 @@
+party_id,cand_id,name,party_name
+SP3,cand1000,RAKESH,Samata Party
+IND,cand1053,RAMESH,Independent
+IND,cand1091,ROHTASH,Independent
+IND,cand1106,DR. KAMLESH KUMAR SAINI,Independent
+RGD,cand1119,SUNIL KUMAR,Rashtriya Garib Dal
+IND,cand1149,SATPAL,Independent
+IND,cand1175,SURENDER SINGH,Independent
+IND,cand1223,NIRMAL SINGH,Independent
+IND,cand1246,SANJAY DASS,Independent
+IND,cand1291,GAUBHAGAT SUMIT LATHER,Independent
+JJP,cand1378,BHUPENDER SINGH MALIK,Jannayak Janta Party
+INLD,cand1512,ANOOP SINGH,Indian National Lok Dal
+PPID,cand1532,RADHEY SHYAM,Peoples Party of India (Democratic)
+IND,cand1546,ASHWANI,Independent
+IND,cand1715,JAGBEER,Independent
+BSP,cand1756,UMESH KUMAR,Bahujan Samaj Party
+IND,cand1757,SANT DHARAMVEER CHOTIVALA,Independent
+BJP,cand1785,MOHAN LAL BADOLI,Bharatiya Janata Party
+INC,cand2322,SATPAL BRAHAMCHARI,Indian National Congress
+SUCI,cand2534,BALBIR SINGH,Socialist Unity Centre Of India (COMMUNIST)
+RJAVP,cand2544,RAKESH DHARIWAL,Rashtriya Jatigat Aarakshan Virodhi Party
+AAPP2,cand974,NARESH KASHYAP,Aam Aadmi Parivartan Party
+NOTA,cand9173,None of the Above,NOTA

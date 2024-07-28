@@ -1,0 +1,22 @@
+party_id,cand_id,name,party_name
+IND,cand152,RAMESH LAL,Independent
+IND,cand175,AMRISH BHAGAT,Independent
+IND,cand211,GURDEEP SINGH,Independent
+RPoI2,cand263,SONIA,Republican Party of India (Athawale)
+ASJP,cand282,RAJWANT KAUR,Apna Samaj Party
+IND,cand300,BAL MUKAND,Independent
+BSP,cand315,BALWINDER KUMAR,Bahujan Samaj Party
+IND,cand357,PARAMJIT KAUR TEJI,Independent
+PPID,cand367,RAJ KUMAR,Peoples Party of India (Democratic)
+BJP,cand384,SUSHIL KUMAR,Bharatiya Janata Party
+IND,cand401,ASHOK KUMAR,Independent
+CPI(M),cand415,PARSHOTAM LAL,Communist Party of India  (Marxist)
+DBSP2,cand444,GULSHAN KUMAR,Democratic Bharatiya Samaj Party
+SAD,cand453,MOHINDER SINGH KAYPEE,Shiromani Akali Dal
+SAD(M),cand56,SARABJIT SINGH,Shiromani Akali Dal (Amritsar)(Simranjit Singh Mann)
+INC,cand633,CHARANJIT SINGH CHANNI,Indian National Congress
+IND,cand74,IQBAL CHAND,Independent
+LLRP2,cand84,TARACHAND SHEELA,Loktantrik Lok Rajyam Party
+IND,cand883,NEETU,Independent
+AAP,cand89,PAWAN KUMAR TINU,Aam Aadmi Party
+NOTA,cand9173,None of the Above,NOTA

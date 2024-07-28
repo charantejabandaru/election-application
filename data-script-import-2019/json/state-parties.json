@@ -1,0 +1,159 @@
+{
+  "Andaman and Nicobar Islands": {
+    "INC": 1
+  },
+  "Andhra Pradesh": {
+    "YSRCP": 22,
+    "TDP": 3
+  },
+  "Arunachal Pradesh": {
+    "BJP": 2
+  },
+  "Assam": {
+    "INC": 3,
+    "BJP": 9,
+    "AIUDF": 1,
+    "IND": 1
+  },
+  "Bihar": {
+    "BJP": 17,
+    "JD(U)": 16,
+    "LJP": 6,
+    "INC": 1
+  },
+  "Chandigarh": {
+    "BJP": 1
+  },
+  "Chhattisgarh": {
+    "INC": 2,
+    "BJP": 9
+  },
+  "Dadra and Nagar Haveli": {
+    "IND": 1,
+    "BJP": 1
+  },
+  "Goa": {
+    "BJP": 1,
+    "INC": 1
+  },
+  "Gujarat": {
+    "BJP": 26
+  },
+  "Haryana": {
+    "BJP": 10
+  },
+  "Himachal Pradesh": {
+    "BJP": 4
+  },
+  "Jammu and Kashmir": {
+    "JKNC": 3,
+    "BJP": 3
+  },
+  "Jharkhand": {
+    "BJP": 11,
+    "AJSUP": 1,
+    "JMM": 1,
+    "INC": 1
+  },
+  "Karnataka": {
+    "BJP": 25,
+    "INC": 1,
+    "JD(S)": 1,
+    "IND": 1
+  },
+  "Kerala": {
+    "CPIM": 1,
+    "INC": 15,
+    "RSP": 1,
+    "KEC(M)": 1,
+    "IUML": 2
+  },
+  "Lakshadweep": {
+    "NCP(SP)": 1
+  },
+  "Madhya Pradesh": {
+    "BJP": 28,
+    "INC": 1
+  },
+  "Maharashtra": {
+    "BJP": 23,
+    "IND": 1,
+    "AIMIM": 1,
+    "NCP(SP)": 3,
+    "SHS": 13,
+    "INC": 1,
+    "SHS(UBT)": 5,
+    "NCP": 1
+  },
+  "Manipur": {
+    "BJP": 1,
+    "NPF": 1
+  },
+  "Meghalaya": {
+    "INC": 1,
+    "NPEP": 1
+  },
+  "Mizoram": {
+    "MNF": 1
+  },
+  "Nagaland": {
+    "NDPP": 1
+  },
+  "NCT OF Delhi": {
+    "BJP": 7
+  },
+  "Odisha": {
+    "BJD": 12,
+    "BJP": 8,
+    "INC": 1
+  },
+  "Puducherry": {
+    "INC": 1
+  },
+  "Punjab": {
+    "INC": 8,
+    "SAD": 2,
+    "BJP": 2,
+    "AAP": 1
+  },
+  "Rajasthan": {
+    "BJP": 24,
+    "RLP": 1
+  },
+  "Sikkim": {
+    "SKM": 1
+  },
+  "Tamil Nadu": {
+    "DMK": 24,
+    "INC": 8,
+    "VCK": 1,
+    "CPIM": 2,
+    "CPI": 2,
+    "IUML": 1,
+    "ADMK": 1
+  },
+  "Telangana": {
+    "BJP": 4,
+    "INC": 3,
+    "TRS": 9,
+    "AIMIM": 1
+  },
+  "Tripura": {
+    "BJP": 2
+  },
+  "Uttar Pradesh": {
+    "BJP": 62,
+    "BSP": 10,
+    "SP": 5,
+    "ADAL": 2,
+    "INC": 1
+  },
+  "Uttarakhand": {
+    "BJP": 5
+  },
+  "West Bengal": {
+    "BJP": 18,
+    "AITC": 22,
+    "INC": 2
+  }
+}

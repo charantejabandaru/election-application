@@ -1,0 +1,62 @@
+[
+    {
+        "cand_name1": "SUNETRA AJITDADA PAWAR",
+        "cand_party1": "NCP",
+        "votes1": "242209",
+        "cand_name2": "SUPRIYA SULE",
+        "cand_party2": "NCP(SP)",
+        "votes2": "240110",
+        "const_name": "Baramati",
+        "state": "Maharashtra"
+    },
+    {
+        "cand_name1": "Manoj Tiwari",
+        "cand_party1": "BJP",
+        "votes1": "645665",
+        "cand_name2": "Kanhaiya Kumar",
+        "cand_party2": "INC",
+        "votes2": "145987",
+        "const_name": "North East Delhi",
+        "state": "NCT of Delhi"
+    },
+    {
+        "cand_name1": "Sambit Patra",
+        "cand_party1": "BJP",
+        "votes1": "459877",
+        "cand_name2": "Arup Patnaik",
+        "cand_party2": "BJD",
+        "votes2": "456650",
+        "const_name": "Puri",
+        "state": "Odisha"
+    },
+    {
+        "cand_name1": "Smriti Irani",
+        "cand_party1": "BJP",
+        "votes1": "404119",
+        "cand_name2": "Kishori Lal Sharma",
+        "cand_party2": "INC",
+        "votes2": "401525",
+        "const_name": "Amethi",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "cand_name1": "Bansuri Swaraj",
+        "cand_party1": "BJP",
+        "votes1": "522879",
+        "cand_name2": "Somnath Bharti",
+        "cand_party2": "AAP",
+        "votes2": "329309",
+        "const_name": "New Delhi",
+        "state": "NCT of Delhi"
+    },
+    {
+        "cand_name1": "Rohini Acharya",
+        "cand_party1": "RJD",
+        "votes1": "280198",
+        "cand_name2": "Rajiv Pratap Rudy",
+        "cand_party2": "BJP",
+        "votes2": "305678",
+        "const_name": "Saran",
+        "state": "Bihar"
+    }
+]
